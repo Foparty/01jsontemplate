@@ -1,0 +1,2015 @@
+{
+  "apiVersion": "1.1",
+  "defaultLanguage": "en",
+  "availableLanguages": [
+    "en",
+    "es",
+    "pt",
+    "fr",
+    "de",
+    "th",
+    "ru"
+  ],
+  "assetsBaseUrl": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/",
+  "logo": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/logo.webp",
+  "categoryImg": false,
+  "itemCardImage": false,
+  "itemCardAllergens": false,
+  "mapsURL": "https://www.google.es/maps/@40.5252821,-3.8160297,959225m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI1MDgwNC4wIKXMDSoASAFQAw%3D%3D",
+  "mapsAddress": "Calle de la Princesa, 1, 28008 Madrid, Spain",
+  "location": {
+    "address": "Calle de la Princesa, 1, 28008 Madrid, Spain",
+    "mapUrl": "https://www.google.es/maps/@40.5252821,-3.8160297,959225m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI1MDgwNC4wIKXMDSoASAFQAw%3D%3D",
+    "geo": {
+      "lat": 40.5252821,
+      "lng": -3.8160297
+    }
+  },
+  "config": {
+    "currency": "EUR",
+    "categoryImg": true,
+    "itemCardImage": false,
+    "itemCardAllergens": false
+  },
+  "aboutDescription": {
+    "es": "Restaurante italiano con una amplia variedad de platos tradicionales y modernos, desde entrantes hasta postres, todo preparado con ingredientes frescos y de alta calidad.",
+    "en": "Italian restaurant with a wide variety of traditional and modern dishes, from appetizers to desserts, all prepared with fresh, high-quality ingredients.",
+    "pt": "Restaurante italiano com uma ampla variedade de pratos tradicionais e modernos, desde entradas até sobremesas, todos preparados com ingredientes frescos e de alta qualidade.",
+    "fr": "Restaurant italien avec une large variété de plats traditionnels et modernes, des entrées aux desserts, tous préparés avec des ingrédients frais et de haute qualité.",
+    "de": "Italienisches Restaurant mit einer großen Auswahl an traditionellen und modernen Gerichten, von Vorspeisen bis zu Desserts, die alle mit frischen, hochwertigen Zutaten zubereitet werden.",
+    "th": "ร้านอาหารอิตาเลียนที่มีเมนูหลากหลายตั้งแต่อาหารเรียกน้ำย่อยไปจนถึงของหวาน ทุกจานทำจากวัตถุดิบสดใหม่และมีคุณภาพสูง",
+    "ru": "Итальянский ресторан с широким выбором традиционных и современных блюд, от закусок до десертов, все приготовлено из свежих, высококачественных ингредиентов."
+  },
+  "aboutContactNums": [
+    "+34 123 456 789",
+    "+1(234) 567-8901"
+  ],
+  "aboutContactMails": [
+    "info@restaurant.com",
+    "contact@restaurant.com"
+  ],
+  "contacts": [
+    {
+      "type": "phone",
+      "value": "+34 123 456 789"
+    },
+    {
+      "type": "phone",
+      "value": "+1(234) 567-8901"
+    },
+    {
+      "type": "email",
+      "value": "info@restaurant.com"
+    },
+    {
+      "type": "email",
+      "value": "contact@restaurant.com"
+    }
+  ],
+  "categories": [
+    {
+      "order": 1,
+      "slug": "quick",
+      "name_i18n": {
+        "es": "Algo Rápido",
+        "en": "Something Quick",
+        "pt": "Algo Rápido",
+        "fr": "Quelque Chose de Rapide",
+        "de": "Etwas Schnelles",
+        "th": "อะไรที่รวดเร็ว",
+        "ru": "Что-то Быстрое"
+      },
+      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/appetiers.webp",
+      "items": [
+        {
+          "slug": "cecina-queso-grissini",
+          "id": 100,
+          "name_i18n": {
+            "es": "Cecina, queso, grissini, alioli de pimentón",
+            "en": "Cecina, cheese, grissini, smoked paprika aioli",
+            "pt": "Cecina, queijo, grissini, aioli de pimentão",
+            "fr": "Cecina, fromage, grissini, aioli au piment fumé",
+            "de": "Cecina, Käse, Grissini, geräucherter Paprika-Aioli",
+            "th": "เซซิน่า ชีส กริสซินี่ และไอโอลี่พริกปาปริก้ารมควัน",
+            "ru": "Сесина, сыр, гриссини, айоли с копченым паприкой"
+          },
+          "price": 11.0,
+          "priceCents": 1100,
+          "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/cecina.webp",
+          "allergens": [],
+          "description": {
+            "es": "Cecina curada, queso suave, grissini crujientes y alioli de pimentón",
+            "en": "Cured cecina, soft cheese, crispy grissini, and smoked paprika aioli",
+            "pt": "Cecina curada, queijo macio, grissini crocantes e aioli de pimentão",
+            "fr": "Cecina affinée, fromage doux, grissini croustillants et aioli au piment fumé",
+            "de": "Gereifter Cecina-Schinken, milder Käse, knusprige Grissini und geräucherter Paprika-Aioli",
+            "th": "เนื้อเซซิน่าหมัก ชีสนุ่ม กริสซินี่กรอบ และไอโอลี่พริกปาปริก้ารมควัน",
+            "ru": "Вяленая сесина, мягкий сыр, хрустящие гриссини и айоли с копченым паприкой"
+          }
+        },
+        {
+          "slug": "sardina-ahumada",
+          "id": 101,
+          "name_i18n": {
+            "es": "Sardina ahumada, tomate, pan brioche",
+            "en": "Smoked sardine, tomato, brioche bread",
+            "pt": "Sardinha defumada, tomate, pão brioche",
+            "fr": "Sardine fumée, tomate, pain brioche",
+            "de": "Geräucherte Sardine, Tomate, Briochebrot",
+            "th": "ปลาซาร์ดีนรมควัน มะเขือเทศ และขนมปังบริโอช",
+            "ru": "Копченая сардина, помидор, хлеб бриошь"
+          },
+          "price": 5.0,
+          "priceCents": 500,
+          "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/cecina.webp",
+          "allergens": [
+            "fish"
+          ],
+          "description": {
+            "es": "Sardina ahumada con tomate fresco y pan brioche tostado",
+            "en": "Smoked sardine with fresh tomato and toasted brioche bread",
+            "pt": "Sardinha defumada com tomate fresco e pão brioche torrado",
+            "fr": "Sardine fumée avec tomate fraîche et pain brioche grillé",
+            "de": "Geräucherte Sardine mit frischer Tomate und geröstetem Briochebrot",
+            "th": "ปลาซาร์ดีนรมควันกับมะเขือเทศสดและขนมปังบริโอชกรอบ",
+            "ru": "Копченая сардина с свежим помидором и поджаренным хлебом бриошь"
+          }
+        },
+        {
+          "slug": "croquetas-patata-cebolla",
+          "id": 102,
+          "name_i18n": {
+            "es": "Croquetas de patata y cebolla, salsa de pimentón asado (5ud)",
+            "en": "Potato and onion croquettes, roasted paprika sauce (5 pcs)",
+            "pt": "Croquetes de batata e cebola, molho de pimentão assado (5 unid)",
+            "fr": "Croquettes de pomme de terre et oignon, sauce au paprika rôti (5 pièces)",
+            "de": "Kartoffel- und Zwiebel-Croquettes, geröstete Paprika-Sauce (5 Stück)",
+            "th": "โครเกต์มันฝรั่งและหัวหอม ซอสปาปริก้าย่าง (5 ชิ้น)",
+            "ru": "Крокеты из картофеля и лука, соус из жареного паприки (5 шт)"
+          },
+          "price": 10.0,
+          "priceCents": 1000,
+          "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/croquetas.webp",
+          "allergens": [],
+          "description": {
+            "es": "Croquetas cremosas de patata y cebolla con salsa de pimentón asado",
+            "en": "Creamy potato and onion croquettes with roasted paprika sauce",
+            "pt": "Croquetes cremosos de batata e cebola com molho de pimentão assado",
+            "fr": "Croquettes crémeuses de pomme de terre et oignon avec sauce au paprika rôti",
+            "de": "Cremige Kartoffel- und Zwiebel-Croquettes mit gerösteter Paprika-Sauce",
+            "th": "โครเกต์มันฝรั่งและหัวหอมนุ่ม กับซอสปาปริก้าย่าง",
+            "ru": "Кремовые крокеты из картофеля и лука с соусом из жареного паприки"
+          }
+        },
+        {
+          "slug": "piparras-brasas",
+          "id": 103,
+          "name_i18n": {
+            "es": "Piparras a la brasa, limón, sal negra",
+            "en": "Grilled piparras, lemon, black salt",
+            "pt": "Piparras grelhadas, limão, sal negro",
+            "fr": "Piparras grillées, citron, sel noir",
+            "de": "Gegrillte Piparras, Zitrone, schwarzes Salz",
+            "th": "พริกปิปาร์ร้าย่าง มะนาว และเกลือดำ",
+            "ru": "Жареные пипарра, лимон, черная соль"
+          },
+          "price": 8.5,
+          "priceCents": 850,
+          "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/piparras.webp",
+          "allergens": [],
+          "description": {
+            "es": "Piparras frescas a la brasa con un toque de limón y sal negra",
+            "en": "Fresh grilled piparras with a hint of lemon and black salt",
+            "pt": "Piparras frescas grelhadas com um toque de limão e sal negro",
+            "fr": "Piparras fraîches grillées avec une touche de citron et sel noir",
+            "de": "Frische gegrillte Piparras mit einem Hauch Zitrone und schwarzem Salz",
+            "th": "พริกปิปาร์ร้าสดย่าง พร้อมกลิ่นมะนาวและเกลือดำ",
+            "ru": "Свежие жареные пипарра с легким привкусом лимона и черной соли"
+          }
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "slug": "coldfresh",
+      "name_i18n": {
+        "es": "Ensaladas Frescas y Crudas",
+        "en": "Cold Fresh and Raw",
+        "pt": "Saladas Frias e Cruas",
+        "fr": "Salades Froides Fraîches et Crues",
+        "de": "Kaltes Frisches und Rohes",
+        "th": "สลัดเย็นสดและดิบ",
+        "ru": "Холодные Свежие и Сырые Салаты"
+      },
+      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/coldfresh.webp",
+      "items": [
+        {
+          "slug": "lechuga-romana",
+          "id": 200,
+          "name_i18n": {
+            "es": "Lechuga romana, queso curado, vinagreta de balsámico blanco",
+            "en": "Romaine lettuce, cured cheese, white balsamic vinaigrette",
+            "pt": "Alface romana, queijo curado, vinagreta de balsâmico branco",
+            "fr": "Laitue romaine, fromage affiné, vinaigrette au balsamique blanc",
+            "de": "Römersalat, gereifter Käse, Weiße-Balsamico-Vinaigrette",
+            "th": "ผักกาดโรเมน ชีสหมัก น้ำสลัดบัลซามิกขาว",
+            "ru": "Ромен, выдержанный сыр, белый бальзамический соус"
+          },
+          "price": 12.0,
+          "priceCents": 1200,
+          "cover": "",
+          "allergens": [
+            "dairy"
+          ],
+          "description": {
+            "es": "Lechuga romana fresca con queso curado y vinagreta de balsámico blanco",
+            "en": "Fresh romaine lettuce with cured cheese and white balsamic vinaigrette",
+            "pt": "Alface romana fresca com queijo curado e vinagreta de balsâmico branco",
+            "fr": "Laitue romaine fraîche avec fromage affiné et vinaigrette au balsamique blanc",
+            "de": "Frischer Römersalat mit gereiftem Käse und Weiße-Balsamico-Vinaigrette",
+            "th": "ผักกาดโรเมนสดกับชีสหมักและน้ำสลัดบัลซามิกขาว",
+            "ru": "Свежий ромен с выдержанным сыром и белым бальзамическим соусом"
+          }
+        },
+        {
+          "slug": "tomate-vinagreta",
+          "id": 201,
+          "name_i18n": {
+            "es": "Tomate, vinagreta de alcaparras, crumble de aceituna negra",
+            "en": "Tomato, caper vinaigrette, black olive crumble",
+            "pt": "Tomate, vinagreta de alcaparras, crumble de azeitona preta",
+            "fr": "Tomate, vinaigrette aux câpres, crumble d'olive noire",
+            "de": "Tomate, Kapernvinaigrette, schwarze Olivenkrümel",
+            "th": "มะเขือเทศ น้ำสลัดเคเปอร์ ครัมเบิลมะกอกดำ",
+            "ru": "Помидор, каперсовая заправка, крошка черной оливки"
+          },
+          "price": 12.0,
+          "priceCents": 1200,
+          "cover": "",
+          "allergens": [],
+          "description": {
+            "es": "Tomate fresco con vinagreta de alcaparras y crumble de aceituna negra",
+            "en": "Fresh tomato with caper vinaigrette and black olive crumble",
+            "pt": "Tomate fresco com vinagreta de alcaparras e crumble de azeitona preta",
+            "fr": "Tomate frais avec vinaigrette aux câpres et crumble d'olive noire",
+            "de": "Frischer Tomate mit Kapernvinaigrette und schwarze Olivenkrümel",
+            "th": "มะเขือเทศสดกับน้ำสลัดเคเปอร์และครัมเบิลมะกอกดำ",
+            "ru": "Свежий помидор с каперсовой заправкой и крошкой черной оливки"
+          }
+        },
+        {
+          "slug": "ensalada-uvas",
+          "id": 202,
+          "name_i18n": {
+            "es": "Ensalada de uvas, pepino, pistacho, queso feta",
+            "en": "Grape salad, cucumber, pistachio, feta cheese",
+            "pt": "Salada de uvas, pepino, pistachio, queijo feta",
+            "fr": "Salade de raisins, concombre, pistache, fromage feta",
+            "de": "Traubensalat, Gurke, Pistazie, Feta-Käse",
+            "th": "สลัดองุ่น แตงกวา พิสตาชิโอ ชีสเฟต้า",
+            "ru": "Салат из винограда, огурца, фисташек и сыра фета"
+          },
+          "price": 13.0,
+          "priceCents": 1300,
+          "cover": "",
+          "allergens": [
+            "dairy",
+            "nuts"
+          ],
+          "description": {
+            "es": "Ensalada fresca de uvas, pepino, pistachos y queso feta",
+            "en": "Fresh grape salad with cucumber, pistachios, and feta cheese",
+            "pt": "Salada fresca de uvas, pepino, pistachios e queijo feta",
+            "fr": "Salade fraîche de raisins, concombre, pistaches et fromage feta",
+            "de": "Frischer Traubensalat mit Gurke, Pistazien und Feta-Käse",
+            "th": "สลัดองุ่นสดกับแตงกวา พิสตาชิโอ และชีสเฟต้า",
+            "ru": "Свежий салат из винограда с огурцом, фисташками и сыром фета"
+          }
+        },
+        {
+          "slug": "ensalada-cordero",
+          "id": 203,
+          "name_i18n": {
+            "es": "Ensalada de cordero, tzatziki, hierbas aromáticas",
+            "en": "Lamb salad, tzatziki, aromatic herbs",
+            "pt": "Salada de cordeiro, tzatziki, ervas aromáticas",
+            "fr": "Salade d'agneau, tzatziki, herbes aromatiques",
+            "de": "Lamm-Salat, Tzatziki, aromatische Kräuter",
+            "th": "สลัดแกะ ซาซิกิ สมุนไพรหอม",
+            "ru": "Салат из ягненка, цацики, ароматные травы"
+          },
+          "price": 18.0,
+          "priceCents": 1800,
+          "cover": "",
+          "allergens": [
+            "dairy"
+          ],
+          "description": {
+            "es": "Ensalada de cordero tierno con tzatziki y hierbas aromáticas",
+            "en": "Tender lamb salad with tzatziki and aromatic herbs",
+            "pt": "Salada de cordeiro tenro com tzatziki e ervas aromáticas",
+            "fr": "Salade d'agneau tendre avec tzatziki et herbes aromatiques",
+            "de": "Zarter Lamm-Salat mit Tzatziki und aromatischen Kräutern",
+            "th": "สลัดแกะเนื้อนุ่มกับซาซิกิและสมุนไพรหอม",
+            "ru": "Салат из нежного ягненка с цацики и ароматными травами"
+          }
+        },
+        {
+          "slug": "carpaccio-gamba",
+          "id": 204,
+          "name_i18n": {
+            "es": "Carpaccio de gamba roja, chile tatema, aceite aromático",
+            "en": "Red shrimp carpaccio, charred chili, aromatic oil",
+            "pt": "Carpaccio de camarão vermelho, pimenta queimada, óleo aromático",
+            "fr": "Carpaccio de crevette rouge, piment grillé, huile aromatique",
+            "de": "Roter Garnelen-Carpaccio, gegrillter Chili, aromatisches Öl",
+            "th": "คาร์ปาชโชกุ้งแดง พริกย่าง น้ำมันหอม",
+            "ru": "Карпаччо из красной креветки, обожженный перец, ароматическое масло"
+          },
+          "price": 24.0,
+          "priceCents": 2400,
+          "cover": "",
+          "allergens": [
+            "shellfish"
+          ],
+          "description": {
+            "es": "Carpaccio de gamba roja con chile tatema y aceite aromático",
+            "en": "Red shrimp carpaccio with charred chili and aromatic oil",
+            "pt": "Carpaccio de camarão vermelho com pimenta queimada e óleo aromático",
+            "fr": "Carpaccio de crevette rouge avec piment grillé et huile aromatique",
+            "de": "Roter Garnelen-Carpaccio mit gegrilltem Chili und aromatisches Öl",
+            "th": "คาร์ปาชโชกุ้งแดงกับพริกย่างและน้ำมันหอม",
+            "ru": "Карпаччо из красной креветки с обожженным перцем и ароматическим маслом"
+          }
+        },
+        {
+          "slug": "tartar-pescado",
+          "id": 205,
+          "name_i18n": {
+            "es": "Tartar de pescado azul, pico de gallo mediterráneo, yogur griego",
+            "en": "Blue fish tartare, Mediterranean pico de gallo, Greek yogurt",
+            "pt": "Tártaro de peixe azul, pico de gallo mediterrâneo, iogurte grego",
+            "fr": "Tartare de poisson bleu, pico de gallo méditerranéen, yaourt grec",
+            "de": "Blaufisch-Tartar, mediterranes Pico de Gallo, griechischer Joghurt",
+            "th": "ทาร์ทาร์ปลาน้ำเงิน พิโกเดอกัลโล เมดิเตอร์เรเนียน โยเกิร์ตกรีก",
+            "ru": "Тартар из синей рыбы, средиземноморский пико де гальо, греческий йогурт"
+          },
+          "price": 19.0,
+          "priceCents": 1900,
+          "cover": "",
+          "allergens": [
+            "fish",
+            "dairy"
+          ],
+          "description": {
+            "es": "Tartar de pescado azul con pico de gallo mediterráneo y yogur griego",
+            "en": "Blue fish tartare with Mediterranean pico de gallo and Greek yogurt",
+            "pt": "Tártaro de peixe azul com pico de gallo mediterrâneo e iogurte grego",
+            "fr": "Tartare de poisson bleu avec pico de gallo méditerranéen et yaourt grec",
+            "de": "Blaufisch-Tartar mit mediterranem Pico de Gallo und griechischem Joghurt",
+            "th": "ทาร์ทาร์ปลาน้ำเงินกับพิโกเดอกัลโลเมดิเตอร์เรเนียนและโยเกิร์ตกรีก",
+            "ru": "Тартар из синей рыбы со средиземноморским пико де гальо и греческим йогуртом"
+          }
+        },
+        {
+          "slug": "steak-tartar",
+          "id": 206,
+          "name_i18n": {
+            "es": "Steak tartar, pecorino, semillas de mostaza, crackers de aceite de oliva",
+            "en": "Steak tartare, pecorino, mustard seeds, olive oil crackers",
+            "pt": "Steak tartare, pecorino, sementes de mostarda, crackers de azeite",
+            "fr": "Steak tartare, pecorino, graines de moutarde, crackers à l'huile d'olive",
+            "de": "Steak-Tartar, Pecorino, Senfkörner, Olivenöl-Cracker",
+            "th": "สเต็กทาร์ทาร์ เปโครีโน เมล็ดมัสตาร์ด แครกเกอร์น้ำมันมะกอก",
+            "ru": "Стейк тартар, пекорино, семена горчицы, крекеры с оливковым маслом"
+          },
+          "price": 19.5,
+          "priceCents": 1950,
+          "cover": "",
+          "allergens": [
+            "dairy"
+          ],
+          "description": {
+            "es": "Steak tartar con pecorino, semillas de mostaza y crackers de aceite de oliva",
+            "en": "Steak tartare with pecorino, mustard seeds, and olive oil crackers",
+            "pt": "Steak tartare com pecorino, sementes de mostarda e crackers de azeite",
+            "fr": "Steak tartare avec pecorino, graines de moutarde et crackers à l'huile d'olive",
+            "de": "Steak-Tartar mit Pecorino, Senfkörnern und Olivenöl-Cracker",
+            "th": "สเต็กทาร์ทาร์กับเปโครีโน เมล็ดมัสตาร์ด และแครกเกอร์น้ำมันมะกอก",
+            "ru": "Стейк тартар с пекорино, семенами горчицы и крекерами с оливковым маслом"
+          }
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "slug": "hotbig",
+      "name_i18n": {
+        "es": "Caliente y un poco más grande",
+        "en": "Hot and a bit bigger",
+        "pt": "Quente e um pouco maior",
+        "fr": "Chaud et un peu plus grand",
+        "de": "Heiß und ein bisschen größer",
+        "th": "ร้อนและใหญ่ขึ้นเล็กน้อย",
+        "ru": "Горячее и немного больше"
+      },
+      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/main.webp",
+      "items": [
+        {
+          "slug": "pasta-pici-casera",
+          "id": 301,
+          "name_i18n": {
+            "es": "Pasta pici casera, pecorino, pimienta negra",
+            "en": "Homemade pici pasta, pecorino, black pepper",
+            "pt": "Pasta pici caseira, pecorino, pimenta preta",
+            "fr": "Pâtes pici maison, pecorino, poivre noir",
+            "de": "Hausgemachte Pici-Pasta, Pecorino, schwarzer Pfeffer",
+            "th": "พาสต้า พิชีโฮมเมด เปโครีโน พริกไทยดำ",
+            "ru": "Домашняя паста пичи, пекорино, черный перец"
+          },
+          "price": 16.0,
+          "priceCents": 1600,
+          "cover": "",
+          "allergens": [
+            "dairy"
+          ],
+          "description": {
+            "es": "Pasta pici casera servida con pecorino y pimienta negra",
+            "en": "Homemade pici pasta served with pecorino and black pepper",
+            "pt": "Pasta pici caseira servida com pecorino e pimenta preta",
+            "fr": "Pâtes pici maison servies avec pecorino et poivre noir",
+            "de": "Hausgemachte Pici-Pasta serviert mit Pecorino und schwarzem Pfeffer",
+            "th": "พาสต้าเส้นพิชีทำเอง เสิร์ฟกับชีสเปโครีโนและพริกไทยดำ",
+            "ru": "Домашняя паста пичи, подается с пекорино и черным перцем"
+          }
+        },
+        {
+          "slug": "fettuccine-casero",
+          "id": 302,
+          "name_i18n": {
+            "es": "Fettuccine casero, calamar, aglio e olio, tomate picante",
+            "en": "Homemade fettuccine, squid, aglio e olio, spicy tomato",
+            "pt": "Fettuccine caseiro, lula, aglio e olio, tomate picante",
+            "fr": "Fettuccine maison, calmar, aglio e olio, tomate épicé",
+            "de": "Hausgemachte Fettuccine, Tintenfisch, aglio e olio, scharfe Tomate",
+            "th": "เฟตตูชินี่โฮมเมด หมึก อากลิโอเอโอลิโอ ซอสมะเขือเทศเผ็ด",
+            "ru": "Домашняя феттучини, кальмар, аглио э олио, острый помидор"
+          },
+          "price": 17.5,
+          "priceCents": 1750,
+          "cover": "",
+          "allergens": [
+            "shellfish"
+          ],
+          "description": {
+            "es": "Fettuccine casero con calamar, aglio e olio y tomate picante",
+            "en": "Homemade fettuccine with squid, aglio e olio, and spicy tomato",
+            "pt": "Fettuccine caseiro com lula, aglio e olio e tomate picante",
+            "fr": "Fettuccine maison avec calmar, aglio e olio et tomate épicé",
+            "de": "Hausgemachte Fettuccine mit Tintenfisch, aglio e olio und scharfer Tomate",
+            "th": "เฟตตูชินี่โฮมเมดกับหมึก อากลิโอเอโอลิโอ และซอสมะเขือเทศเผ็ด",
+            "ru": "Домашняя феттучини с кальмаром, аглио э олио и острым помидором"
+          }
+        },
+        {
+          "slug": "almejas-alubias",
+          "id": 303,
+          "name_i18n": {
+            "es": "Almejas, alubias, vino blanco, pan de masa madre",
+            "en": "Clams, beans, white wine, sourdough bread",
+            "pt": "Ameijoas, feijão, vinho branco, pão de massa madre",
+            "fr": "Palourdes, haricots, vin blanc, pain au levain",
+            "de": "Muscheln, Bohnen, Weißwein, Sauerteigbrot",
+            "th": "หอยลาย ถั่ว ไวน์ขาว ขนมปังซาวโดว์",
+            "ru": "Моллюски, фасоль, белое вино, хлеб на закваске"
+          },
+          "price": 22.5,
+          "priceCents": 2250,
+          "cover": "",
+          "allergens": [
+            "shellfish"
+          ],
+          "description": {
+            "es": "Almejas frescas con alubias, vino blanco y pan de masa madre",
+            "en": "Fresh clams with beans, white wine, and sourdough bread",
+            "pt": "Ameijoas frescas com feijão, vinho branco e pão de massa madre",
+            "fr": "Palourdes fraîches avec haricots, vin blanc et pain au levain",
+            "de": "Frische Muscheln mit Bohnen, Weißwein und Sauerteigbrot",
+            "th": "หอยลายสดกับถั่วและไวน์ขาว เสิร์ฟพร้อมขนมปังซาวโดว์",
+            "ru": "Свежие моллюски с фасолью, белым вином и хлебом на закваске"
+          }
+        },
+        {
+          "slug": "lomo-corvina",
+          "id": 304,
+          "name_i18n": {
+            "es": "Lomo de corvina, bisque de gamba, broccolini",
+            "en": "Corvina loin, shrimp bisque, broccolini",
+            "pt": "Lombo de corvina, bisque de camarão, broccolini",
+            "fr": "Filet de corvina, bisque de crevette, broccolini",
+            "de": "Corvina-Lende, Garnelenbisque, Broccolini",
+            "th": "เนื้อปลากอร์วินา น้ำซุปกุ้ง บรอกโคลินี",
+            "ru": "Филе корвины, биск из креветок, брокколи"
+          },
+          "price": 24.0,
+          "priceCents": 2400,
+          "cover": "",
+          "allergens": [
+            "fish",
+            "shellfish"
+          ],
+          "description": {
+            "es": "Lomo de corvina con bisque de gamba y broccolini",
+            "en": "Corvina loin with shrimp bisque and broccolini",
+            "pt": "Lombo de corvina com bisque de camarão e broccolini",
+            "fr": "Filet de corvina avec bisque de crevette et broccolini",
+            "de": "Corvina-Lende mit Garnelenbisque und Broccolini",
+            "th": "เนื้อปลากอร์วินาเสิร์ฟกับน้ำซุปกุ้งและบรอกโคลินี",
+            "ru": "Филе корвины с биск из креветок и брокколи"
+          }
+        },
+        {
+          "slug": "pulpo-brasas",
+          "id": 305,
+          "name_i18n": {
+            "es": "Pulpo a la brasa, patata crujiente, vinagreta de tomate",
+            "en": "Grilled octopus, crispy potato, tomato vinaigrette",
+            "pt": "Polvo grelhado, batata crocante, vinagreta de tomate",
+            "fr": "Poulpe grillé, pomme de terre croustillante, vinaigrette de tomate",
+            "de": "Gegrillter Oktopus, knusprige Kartoffel, Tomatenvinaigrette",
+            "th": "ปลาหมึกย่าง มันฝรั่งกรอบ น้ำสลัดมะเขือเทศ",
+            "ru": "Грильованный осьминог, хрустящий картофель, томатная винегрет"
+          },
+          "price": 22.0,
+          "priceCents": 2200,
+          "cover": "",
+          "allergens": [],
+          "description": {
+            "es": "Pulpo a la brasa con patata crujiente y vinagreta de tomate",
+            "en": "Grilled octopus with crispy potato and tomato vinaigrette",
+            "pt": "Polvo grelhado com batata crocante e vinagreta de tomate",
+            "fr": "Poulpe grillé avec pomme de terre croustillante et vinaigrette de tomate",
+            "de": "Gegrillter Oktopus mit knuspriger Kartoffel und Tomatenvinaigrette",
+            "th": "ปลาหมึกย่างกับมันฝรั่งกรอบและน้ำสลัดมะเขือเทศ",
+            "ru": "Грильованный осьминог с хрустящим картофелем и томатной винегрет"
+          }
+        },
+        {
+          "slug": "lomo-alto-brasas",
+          "id": 306,
+          "name_i18n": {
+            "es": "Lomo alto a la brasa, puré de apionabo",
+            "en": "Grilled high loin, celery root puree",
+            "pt": "Lombo alto grelhado, purê de aipo",
+            "fr": "Haut-longe grillé, purée de céleri-rave",
+            "de": "Gegrilltes Hochrippenstück, Selleriepüree",
+            "th": "เนื้อสันย่าง พูเร่รากขึ้นฉ่าย",
+            "ru": "Грильованная верхняя часть вырезки, пюре из сельдерея"
+          },
+          "price": 30.0,
+          "priceCents": 3000,
+          "cover": "",
+          "allergens": [],
+          "description": {
+            "es": "Lomo alto a la brasa servido con puré de apionabo",
+            "en": "Grilled high loin served with celery root puree",
+            "pt": "Lombo alto grelhado servido com purê de aipo",
+            "fr": "Haut-longe grillé servi avec purée de céleri-rave",
+            "de": "Gegrilltes Hochrippenstück serviert mit Selleriepüree",
+            "th": "เนื้อสันย่างเสิร์ฟกับพูเร่รากขึ้นฉ่าย",
+            "ru": "Грильованная верхняя часть вырезки, подается с пюре из сельдерея"
+          }
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "slug": "sweet",
+      "name_i18n": {
+        "es": "Algo Dulce",
+        "en": "Something Sweet",
+        "pt": "Algo Doce",
+        "fr": "Quelque Chose de Sucré",
+        "de": "Etwas Süßes",
+        "th": "ของหวาน",
+        "ru": "Что-то Сладкое"
+      },
+      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/dessert.webp",
+      "items": [
+        {
+          "slug": "tarta-limon",
+          "id": 401,
+          "name_i18n": {
+            "es": "Tarta de limón, crème fraîche, ralladura de limón",
+            "en": "Lemon tart, crème fraîche, lemon zest",
+            "pt": "Torta de limão, crème fraîche, raspas de limão",
+            "fr": "Tarte au citron, crème fraîche, zeste de citron",
+            "de": "Zitronentarte, crème fraîche, Zitronenschale",
+            "th": "ทาร์ตเลมอน ครีมเฟรช ผิวเลมอนขูด",
+            "ru": "Лимонный тарт, крем-фреш, цедра лимона"
+          },
+          "price": 7.0,
+          "priceCents": 700,
+          "cover": "",
+          "allergens": [
+            "dairy"
+          ],
+          "description": {
+            "es": "Tarta de limón con crème fraîche y ralladura de limón",
+            "en": "Lemon tart with crème fraîche and lemon zest",
+            "pt": "Torta de limão com crème fraîche e raspas de limão",
+            "fr": "Tarte au citron avec crème fraîche et zeste de citron",
+            "de": "Zitronentarte mit crème fraîche und Zitronenschale",
+            "th": "ทาร์ตเลมอนกับครีมเฟรชและผิวเลมอนขูด",
+            "ru": "Лимонный тарт с крем-фреш и цедрой лимона"
+          }
+        },
+        {
+          "slug": "flan-naranja",
+          "id": 402,
+          "name_i18n": {
+            "es": "Flan de naranja, naranja confitada",
+            "en": "Orange flan, candied orange",
+            "pt": "Flan de laranja, laranja confitada",
+            "fr": "Flan à l'orange, orange confite",
+            "de": "Orangenflan, kandierte Orange",
+            "th": "ฟลันส้ม ส้มเชื่อม",
+            "ru": "Апельсиновый флан, апельсин в сахаре"
+          },
+          "price": 7.0,
+          "priceCents": 700,
+          "cover": "",
+          "allergens": [
+            "dairy"
+          ],
+          "description": {
+            "es": "Flan de naranja con trozos de naranja confitada",
+            "en": "Orange flan with candied orange pieces",
+            "pt": "Flan de laranja com pedaços de laranja confitada",
+            "fr": "Flan à l'orange avec morceaux d'orange confite",
+            "de": "Orangenflan mit kandierten Orangenstücken",
+            "th": "ฟลันส้มกับชิ้นส้มเชื่อม",
+            "ru": "Апельсиновый флан с кусочками апельсина в сахаре"
+          }
+        },
+        {
+          "slug": "torrijas-chocolate",
+          "id": 403,
+          "name_i18n": {
+            "es": "Torrijas, chocolate cremoso",
+            "en": "Torrijas, creamy chocolate",
+            "pt": "Torrijas, chocolate cremoso",
+            "fr": "Torrijas, chocolat crémeux",
+            "de": "Torrijas, cremige Schokolade",
+            "th": "โทริฆาส ช็อกโกแลตครีมมี่",
+            "ru": "Торрихас, кремовый шоколад"
+          },
+          "price": 8.5,
+          "priceCents": 850,
+          "cover": "",
+          "allergens": [
+            "dairy",
+            "gluten"
+          ],
+          "description": {
+            "es": "Torrijas tradicionales con una salsa de chocolate cremoso",
+            "en": "Traditional torrijas with a creamy chocolate sauce",
+            "pt": "Torrijas tradicionais com um molho de chocolate cremoso",
+            "fr": "Torrijas traditionnelles avec une sauce au chocolat crémeux",
+            "de": "Traditionelle Torrijas mit einer cremigen Schokoladensauce",
+            "th": "โทริฆาสแบบดั้งเดิมกับซอสช็อกโกแลตครีมมี่",
+            "ru": "Традиционные торрихас с кремовым шоколадным соусом"
+          }
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "slug": "bread",
+      "name_i18n": {
+        "es": "Servicio de Pan",
+        "en": "Bread service",
+        "pt": "Serviço de Pão",
+        "fr": "Service de Pain",
+        "de": "Brotservice",
+        "th": "บริการขนมปัง",
+        "ru": "Хлебное Обслуживание"
+      },
+      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/bread.webp",
+      "items": [
+        {
+          "slug": "focaccia-grill",
+          "id": 501,
+          "name_i18n": {
+            "es": "Focaccia al grill, garbanzos y tomate",
+            "en": "Grilled focaccia, chickpeas and tomato",
+            "pt": "Focaccia grelhada, grão-de-bico e tomate",
+            "fr": "Focaccia grillée, pois chiches et tomate",
+            "de": "Gegrillte Focaccia, Kichererbsen und Tomate",
+            "th": "โฟคาเซียย่าง ถั่วชิกพี และมะเขือเทศ",
+            "ru": "Фокачча на гриле, нут и помидор"
+          },
+          "price": 3.0,
+          "priceCents": 300,
+          "cover": "",
+          "allergens": [
+            "gluten"
+          ],
+          "description": {
+            "es": "Focaccia al grill acompañada de garbanzos y tomate fresco",
+            "en": "Grilled focaccia served with chickpeas and fresh tomato",
+            "pt": "Focaccia grelhada acompanhada de grão-de-bico e tomate fresco",
+            "fr": "Focaccia grillée servie avec pois chiches et tomate frais",
+            "de": "Gegrillte Focaccia serviert mit Kichererbsen und frischer Tomate",
+            "th": "โฟคาเซียย่างเสิร์ฟพร้อมถั่วชิกพีและมะเขือเทศสด",
+            "ru": "Фокачча на гриле, подается с нутом и свежим помидором"
+          }
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "slug": "wines",
+      "name_i18n": {
+        "es": "Vinos",
+        "en": "Wines",
+        "pt": "Vinhos",
+        "fr": "Vins",
+        "de": "Weine",
+        "th": "ไวน์",
+        "ru": "Вина"
+      },
+      "cover": "",
+      "subcategories": [
+        {
+          "slug": "white",
+          "name_i18n": {
+            "es": "Blanco",
+            "en": "White",
+            "pt": "Branco",
+            "fr": "Blanc",
+            "de": "Weiß",
+            "th": "ขาว",
+            "ru": "Белое"
+          },
+          "items": [
+            {
+              "slug": "belondrade-belondrade-2023",
+              "id": 610,
+              "name_i18n": {
+                "es": "Belondrade, Belondrade y Lurton 2023",
+                "en": "Belondrade, Belondrade y Lurton 2023",
+                "pt": "Belondrade, Belondrade y Lurton 2023",
+                "fr": "Belondrade, Belondrade y Lurton 2023",
+                "de": "Belondrade, Belondrade y Lurton 2023",
+                "th": "Belondrade, Belondrade y Lurton 2023",
+                "ru": "Belondrade, Belondrade y Lurton 2023"
+              },
+              "price": 80.0,
+              "priceCents": 8000,
+              "cover": "",
+              "subcategorySlug": "white",
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino blanco de Verdejo de Rueda, complejo y elegante",
+                "en": "White wine from Verdejo in Rueda, complex and elegant",
+                "pt": "Vinho branco de Verdejo de Rueda, complexo e elegante",
+                "fr": "Vin blanc de Verdejo de Rueda, complexe et élégant",
+                "de": "Weißwein aus Verdejo aus Rueda, komplex und elegant",
+                "th": "ไวน์ขาวจาก Verdejo ใน Rueda, ซับซ้อนและหรูหรา",
+                "ru": "Белое вино из Вердехо из Руэда, сложное и элегантное"
+              }
+            },
+            {
+              "slug": "bernabeleva-navahereos-2023",
+              "id": 601,
+              "name_i18n": {
+                "es": "Bernabeleva, Navahereos 2023",
+                "en": "Bernabeleva, Navahereos 2023",
+                "pt": "Bernabeleva, Navahereos 2023",
+                "fr": "Bernabeleva, Navahereos 2023",
+                "de": "Bernabeleva, Navahereos 2023",
+                "th": "Bernabeleva, Navahereos 2023",
+                "ru": "Bernabeleva, Navahereos 2023"
+              },
+              "price": 5.5,
+              "priceCents": 550,
+              "cover": "",
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino blanco de Albillo Real de Madrid, fresco y equilibrado",
+                "en": "White wine from Albillo Real in Madrid, fresh and balanced",
+                "pt": "Vinho branco de Albillo Real de Madrid, fresco e equilibrado",
+                "fr": "Vin blanc d'Albillo Real de Madrid, frais et équilibré",
+                "de": "Weißwein aus Albillo Real aus Madrid, frisch und ausgewogen",
+                "th": "ไวน์ขาวจาก Albillo Real ในมาดริด, สดชื่นและสมดุล",
+                "ru": "Белое вино из Albillo Real в Мадриде, свежее и сбалансированное"
+              }
+            },
+            {
+              "slug": "ponce-blanco-2024",
+              "id": 602,
+              "name_i18n": {
+                "es": "Ponce, Blanco 2024",
+                "en": "Ponce, Blanco 2024",
+                "pt": "Ponce, Branco 2024",
+                "fr": "Ponce, Blanc 2024",
+                "de": "Ponce, Weiß 2024",
+                "th": "Ponce, Blanco 2024",
+                "ru": "Ponce, Blanco 2024"
+              },
+              "price": 30.0,
+              "priceCents": 3000,
+              "cover": "",
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino blanco de Albilla de Manchuela, elegante y aromático",
+                "en": "White wine from Albilla de Manchuela, elegant and aromatic",
+                "pt": "Vinho branco de Albilla de Manchuela, elegante e aromático",
+                "fr": "Vin blanc d'Albilla de Manchuela, élégant et aromatique",
+                "de": "Weißwein aus Albilla de Manchuela, elegant und aromatisch",
+                "th": "ไวน์ขาวจาก Albilla de Manchuela, หรูหราและมีกลิ่นหอม",
+                "ru": "Белое вино из Albilla de Manchuela, элегантное и ароматное"
+              }
+            },
+            {
+              "slug": "chateau-pegau-cuvee-lone-2022",
+              "id": 603,
+              "name_i18n": {
+                "es": "Château Pégau, Cuvée Lôné 2022",
+                "en": "Château Pégau, Cuvée Lôné 2022",
+                "pt": "Château Pégau, Cuvée Lôné 2022",
+                "fr": "Château Pégau, Cuvée Lôné 2022",
+                "de": "Château Pégau, Cuvée Lôné 2022",
+                "th": "Château Pégau, Cuvée Lôné 2022",
+                "ru": "Château Pégau, Cuvée Lôné 2022"
+              },
+              "price": 0.0,
+              "priceCents": 0,
+              "cover": "",
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino blanco de Côtes du Rhône con notas de Clairette, Burbulenc y Grenache Blanc",
+                "en": "White wine from Côtes du Rhône with notes of Clairette, Burbulenc, and Grenache Blanc",
+                "pt": "Vinho branco de Côtes du Rhône com notas de Clairette, Burbulenc e Grenache Blanc",
+                "fr": "Vin blanc de Côtes du Rhône avec des notes de Clairette, Burbulenc et Grenache Blanc",
+                "de": "Weißwein aus Côtes du Rhône mit Noten von Clairette, Burbulenc und Grenache Blanc",
+                "th": "ไวน์ขาวจาก Côtes du Rhône ที่มีกลิ่นของ Clairette, Burbulenc และ Grenache Blanc",
+                "ru": "Белое вино из Côtes du Rhône с нотами Clairette, Burbulenc и Grenache Blanc"
+              }
+            },
+            {
+              "slug": "castro-ventosa-2023",
+              "id": 604,
+              "name_i18n": {
+                "es": "Castro Ventosa, El Castro de Valtuille 2023",
+                "en": "Castro Ventosa, El Castro de Valtuille 2023",
+                "pt": "Castro Ventosa, El Castro de Valtuille 2023",
+                "fr": "Castro Ventosa, El Castro de Valtuille 2023",
+                "de": "Castro Ventosa, El Castro de Valtuille 2023",
+                "th": "Castro Ventosa, El Castro de Valtuille 2023",
+                "ru": "Castro Ventosa, El Castro de Valtuille 2023"
+              },
+              "price": 6.5,
+              "priceCents": 650,
+              "cover": "",
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino blanco de Godello de Bierzo, fresco y mineral",
+                "en": "White wine from Godello in Bierzo, fresh and mineral",
+                "pt": "Vinho branco de Godello de Bierzo, fresco e mineral",
+                "fr": "Vin blanc de Godello de Bierzo, frais et minéral",
+                "de": "Weißwein aus Godello aus Bierzo, frisch und mineralisch",
+                "th": "ไวน์ขาวจาก Godello ใน Bierzo, สดชื่นและมีแร่ธาตุ",
+                "ru": "Белое вино из Godello в Bierzo, свежее и минеральное"
+              }
+            },
+            {
+              "slug": "fattoria-san-lorenzo-le-oche-2022",
+              "id": 605,
+              "name_i18n": {
+                "es": "Fattoria San Lorenzo, Le Oche, 2022",
+                "en": "Fattoria San Lorenzo, Le Oche, 2022",
+                "pt": "Fattoria San Lorenzo, Le Oche, 2022",
+                "fr": "Fattoria San Lorenzo, Le Oche, 2022",
+                "de": "Fattoria San Lorenzo, Le Oche, 2022",
+                "th": "Fattoria San Lorenzo, Le Oche, 2022",
+                "ru": "Fattoria San Lorenzo, Le Oche, 2022"
+              },
+              "price": 39.0,
+              "priceCents": 3900,
+              "cover": "",
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino blanco de Verdicchio de Marche, complejo y estructurado",
+                "en": "White wine from Verdicchio in Marche, complex and structured",
+                "pt": "Vinho branco de Verdicchio de Marche, complexo e estruturado",
+                "fr": "Vin blanc de Verdicchio de Marche, complexe et structuré",
+                "de": "Weißwein aus Verdicchio aus Marche, komplex und strukturiert",
+                "th": "ไวน์ขาวจาก Verdicchio ใน Marche, ซับซ้อนและมีโครงสร้าง",
+                "ru": "Белое вино из Вердехо из Руэда, сложное и элегантное"
+              }
+            },
+            {
+              "slug": "primitivo-collantes-socaire-2021",
+              "id": 606,
+              "name_i18n": {
+                "es": "Primitivo Collantes, Socaire 2021",
+                "en": "Primitivo Collantes, Socaire 2021",
+                "pt": "Primitivo Collantes, Socaire 2021",
+                "fr": "Primitivo Collantes, Socaire 2021",
+                "de": "Primitivo Collantes, Socaire 2021",
+                "th": "Primitivo Collantes, Socaire 2021",
+                "ru": "Primitivo Collantes, Socaire 2021"
+              },
+              "price": 40.0,
+              "priceCents": 4000,
+              "cover": "",
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino blanco de Palomino de Cádiz, intenso y salino",
+                "en": "White wine from Palomino in Cádiz, intense and saline",
+                "pt": "Vinho branco de Palomino de Cádiz, intenso e salino",
+                "fr": "Vin blanc de Palomino de Cádiz, intense et salin",
+                "de": "Weißwein aus Palomino aus Cádiz, intensiv und salzig",
+                "th": "ไวน์ขาวจาก Palomino ใน Cádiz, เข้มข้นและเค็ม",
+                "ru": "Белое вино из Palomino в Кадисе, интенсивное и соленое"
+              }
+            },
+            {
+              "slug": "garnier-chablis-2021",
+              "id": 607,
+              "name_i18n": {
+                "es": "Garnier, Chablis 2021",
+                "en": "Garnier, Chablis 2021",
+                "pt": "Garnier, Chablis 2021",
+                "fr": "Garnier, Chablis 2021",
+                "de": "Garnier, Chablis 2021",
+                "th": "Garnier, Chablis 2021",
+                "ru": "Garnier, Chablis 2021"
+              },
+              "price": 47.0,
+              "priceCents": 4700,
+              "cover": "",
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino blanco de Chardonnay de Chablis, fresco y cítrico",
+                "en": "White wine from Chardonnay in Chablis, fresh and citrusy",
+                "pt": "Vinho branco de Chardonnay de Chablis, fresco e cítrico",
+                "fr": "Vin blanc de Chardonnay de Chablis, frais et citronné",
+                "de": "Weißwein aus Chardonnay aus Chablis, frisch und zitronig",
+                "th": "ไวน์ขาวจาก Chardonnay ใน Chablis, สดชื่นและมีกลิ่นมะนาว",
+                "ru": "Белое вино из Шардоне в Шабли, свежее и цитрусовое"
+              }
+            },
+            {
+              "slug": "bekka-obeideh-2021",
+              "id": 608,
+              "name_i18n": {
+                "es": "Bekka, Obeideh 2021",
+                "en": "Bekka, Obeideh 2021",
+                "pt": "Bekka, Obeideh 2021",
+                "fr": "Bekka, Obeideh 2021",
+                "de": "Bekka, Obeideh 2021",
+                "th": "Bekka, Obeideh 2021",
+                "ru": "Bekka, Obeideh 2021"
+              },
+              "price": 58.0,
+              "priceCents": 5800,
+              "cover": "",
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino blanco de Obeideh del Líbano, exótico y aromático",
+                "en": "White wine from Obeideh in Lebanon, exotic and aromatic",
+                "pt": "Vinho branco de Obeideh do Líbano, exótico e aromático",
+                "fr": "Vin blanc d'Obeideh du Liban, exotique et aromatique",
+                "de": "Weißwein aus Obeideh aus dem Libanon, exotisch und aromatisch",
+                "th": "ไวน์ขาวจาก Obeideh ในเลบานอน, แปลกใหม่และมีกลิ่นหอม",
+                "ru": "Белое вино из Obeideh в Ливане, экзотическое и ароматное"
+              }
+            },
+            {
+              "slug": "karamolegos-cuvee-34-2021",
+              "id": 609,
+              "name_i18n": {
+                "es": "Karamolegos, Cuvée 34 2021",
+                "en": "Karamolegos, Cuvée 34 2021",
+                "pt": "Karamolegos, Cuvée 34 2021",
+                "fr": "Karamolegos, Cuvée 34 2021",
+                "de": "Karamolegos Cuvée 34 2021",
+                "th": "Karamolegos, Cuvée 34 2021",
+                "ru": "Karamolegos, Cuvée 34 2021"
+              },
+              "price": 63.0,
+              "priceCents": 6300,
+              "cover": "",
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino blanco de Assyrtiko de Santorini, mineral y estructurado",
+                "en": "White wine from Assyrtiko in Santorini, mineral and structured",
+                "pt": "Vinho branco de Assyrtiko de Santorini, mineral e estruturado",
+                "fr": "Vin blanc d'Assyrtiko de Santorini, minéral et structuré",
+                "de": "Weißwein aus Assyrtiko aus Santorini, mineralisch und strukturiert",
+                "th": "ไวน์ขาวจาก Assyrtiko ใน Santorini, แร่ธาตุและมีโครงสร้าง",
+                "ru": "Белое вино из Assyrtiko в Санторини, минеральное и структурированное"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "sparkling",
+          "name_i18n": {
+            "es": "Espumoso",
+            "en": "Sparkling",
+            "pt": "Espumante",
+            "fr": "Mousseux",
+            "de": "Sekt",
+            "th": "ฟอง",
+            "ru": "Игристое"
+          },
+          "items": [
+            {
+              "id": 1,
+              "name_i18n": {
+                "common": "mallibran_sottoriva",
+                "es": "Mallibran, Sottoriva 2023",
+                "en": "Mallibran, Sottoriva 2023",
+                "pt": "Mallibran, Sottoriva 2023",
+                "fr": "Mallibran, Sottoriva 2023",
+                "de": "Mallibran, Sottoriva 2023",
+                "th": "Mallibran, Sottoriva 2023",
+                "ru": "Mallibran, Sottoriva 2023"
+              },
+              "price": 30.00,
+              "cover": "",
+              "category": {
+                "common": "sparkling_wine"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Prosecco de Glera de Col Fondo, fresco y burbujeante",
+                "en": "Prosecco from Glera in Col Fondo, fresh and bubbly",
+                "pt": "Prosecco de Glera de Col Fondo, fresco e espumante",
+                "fr": "Prosecco de Glera en Col Fondo, frais et pétillant",
+                "de": "Prosecco aus Glera in Col Fondo, frisch und spritzig",
+                "th": "โปรเซกโก้จาก Glera ใน Col Fondo, สดชื่นและมีฟอง",
+                "ru": "Белое вино из Albillo Real в Мадриде, свежее и сбалансированное"
+              }
+            },
+            {
+              "id": 2,
+              "name_i18n": {
+                "common": "oddero_cascia_fiori",
+                "es": "Oddero Cascia Fiori 2024 (sweet)",
+                "en": "Oddero Cascia Fiori 2024 (sweet)",
+                "pt": "Oddero Cascia Fiori 2024 (doce)",
+                "fr": "Oddero Cascia Fiori 2024 (doux)",
+                "de": "Oddero Cascia Fiori 2024 (süß)",
+                "th": "Oddero Cascia Fiori 2024 (หวาน)",
+                "ru": "Oddero Cascia Fiori 2024 (сладкое)"
+              },
+              "price": 39.00,
+              "cover": "",
+              "category": {
+                "common": "sparkling_wine"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Moscato d'Asti dulce y aromático",
+                "en": "Sweet and aromatic Moscato d'Asti",
+                "pt": "Moscato d'Asti doce e aromático",
+                "fr": "Moscato d'Asti doux et aromatique",
+                "de": "Süßer und aromatischer Moscato d'Asti",
+                "th": "มอสคาโต ดาเอสติ หวานและมีกลิ่นหอม",
+                "ru": "Сладкий и ароматный Moscato d'Asti"
+              }
+            },
+            {
+              "id": 3,
+              "name_i18n": {
+                "common": "mestres_visol",
+                "es": "Mestres, Visol 2017",
+                "en": "Mestres, Visol 2017",
+                "pt": "Mestres, Visol 2017",
+                "fr": "Mestres, Visol 2017",
+                "de": "Mestres, Visol 2017",
+                "th": "Mestres, Visol 2017",
+                "ru": "Mestres, Visol 2017"
+              },
+              "price": 47.00,
+              "cover": "",
+              "category": {
+                "common": "sparkling_wine"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Cava de Macabeu, Xarelo y Parellada, complejo y elegante",
+                "en": "Cava from Macabeu, Xarelo, and Parellada, complex and elegant",
+                "pt": "Cava de Macabeu, Xarelo e Parellada, complexo e elegante",
+                "fr": "Cava de Macabeu, Xarelo et Parellada, complexe et élégant",
+                "de": "Cava aus Macabeu, Xarelo und Parellada, komplex und elegant",
+                "th": "Cava จาก Macabeu, Xarelo และ Parellada, ซับซ้อนและหรูหรา",
+                "ru": "Кава из Macabeu, Xarelo и Parellada, сложное и элегантное"
+              }
+            },
+            {
+              "id": 4,
+              "name_i18n": {
+                "common": "thierry_fournier",
+                "es": "Thierry Fournier, Réserve Brut NV",
+                "en": "Thierry Fournier, Réserve Brut NV",
+                "pt": "Thierry Fournier, Réserve Brut NV",
+                "fr": "Thierry Fournier, Réserve Brut NV",
+                "de": "Thierry Fournier, Réserve Brut NV",
+                "th": "Thierry Fournier, Réserve Brut NV",
+                "ru": "Thierry Fournier, Réserve Brut NV"
+              },
+              "price": 15.00,
+              "cover": "",
+              "category": {
+                "common": "sparkling_wine"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Champagne Brut con Meunier, Pinot Noir y Chardonnay, fresco y equilibrado",
+                "en": "Champagne Brut with Meunier, Pinot Noir, and Chardonnay, fresh and balanced",
+                "pt": "Champanhe Brut com Meunier, Pinot Noir e Chardonnay, fresco e equilibrado",
+                "fr": "Champagne Brut avec Meunier, Pinot Noir et Chardonnay, frais et équilibré",
+                "de": "Champagner Brut mit Meunier, Pinot Noir und Chardonnay, frisch und ausgewogen",
+                "th": "แชมเปญ Brut กับ Meunier, Pinot Noir และ Chardonnay, สดชื่นและสมดุล",
+                "ru": "Шампанское Brut с Meunier, Pinot Noir и Chardonnay, свежее и сбалансированное"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "orange",
+          "name_i18n": {
+            "es": "Naranja",
+            "en": "Orange",
+            "pt": "Laranja",
+            "fr": "Orange",
+            "de": "Orange",
+            "th": "ส้ม",
+            "ru": "Оранжевое"
+          },
+          "items": [
+            {
+              "id": 221,
+              "name_i18n": {
+                "common": "celler_frisach_la_forada",
+                "es": "Celler Frisach, La Forada 2022",
+                "en": "Celler Frisach, La Forada 2022",
+                "pt": "Celler Frisach, La Forada 2022",
+                "fr": "Celler Frisach, La Forada 2022",
+                "de": "Celler Frisach, La Forada 2022",
+                "th": "Celler Frisach, La Forada 2022",
+                "ru": "Celler Frisach, La Forada 2022"
+              },
+              "price": 34.00,
+              "cover": "",
+              "category": {
+                "common": "orange_wine"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino naranja de Grenache Blanc de Terra Alta, complejo y estructurado",
+                "en": "Orange wine from Grenache Blanc in Terra Alta, complex and structured",
+                "pt": "Vinho laranja de Grenache Blanc de Terra Alta, complexo e estruturado",
+                "fr": "Vin orange de Grenache Blanc de Terra Alta, complexe et structuré",
+                "de": "Orangwein aus Grenache Blanc aus Terra Alta, komplex und strukturiert",
+                "th": "ไวน์ส้มจาก Grenache Blanc ใน Terra Alta, ซับซ้อนและมีโครงสร้าง",
+                "ru": "Оранжевое вино из Grenache Blanc в Terra Alta, сложное и структурированное"
+              }
+            },
+            {
+              "id": 222,
+              "name_i18n": {
+                "common": "fabio_coulet_orange_peels",
+                "es": "Fabio Coulet, Orange Peels 2023",
+                "en": "Fabio Coulet, Orange Peels 2023",
+                "pt": "Fabio Coulet, Orange Peels 2023",
+                "fr": "Fabio Coulet, Orange Peels 2023",
+                "de": "Fabio Coulet, Orange Peels 2023",
+                "th": "Fabio Coulet, Orange Peels 2023",
+                "ru": "Fabio Coulet, Orange Peels 2023"
+              },
+              "price": 46.00,
+              "cover": "",
+              "category": {
+                "common": "orange_wine"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino naranja de Muscat of Alexandria de Málaga, aromático y único",
+                "en": "Orange wine from Muscat of Alexandria in Málaga, aromatic and unique",
+                "pt": "Vinho laranja de Muscat of Alexandria de Málaga, aromático e único",
+                "fr": "Vin orange de Muscat of Alexandria de Málaga, aromatique et unique",
+                "de": "Orangwein aus Muscat of Alexandria aus Málaga, aromatisch und einzigartig",
+                "th": "ไวน์ส้มจาก Muscat of Alexandria ในมาลากา, มีกลิ่นหอมและไม่เหมือนใคร",
+                "ru": "Оранжевое вино из Muscat of Alexandria в Малаге, ароматное и уникальное"
+              }
+            },
+            {
+              "id": 223,
+              "name_i18n": {
+                "common": "i_cacciagalli_zgreo",
+                "es": "I Cacciagalli, Zgreo 2022",
+                "en": "I Cacciagalli, Zgreo 2022",
+                "pt": "I Cacciagalli, Zgreo 2022",
+                "fr": "I Cacciagalli, Zgreo 2022",
+                "de": "I Cacciagalli, Zgreo 2022",
+                "th": "I Cacciagalli, Zgreo 2022",
+                "ru": "I Cacciagalli, Zgreo 2022"
+              },
+              "price": 50.00,
+              "cover": "",
+              "category": {
+                "common": "orange_wine"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino naranja de Fiano de Roccamonfina, intenso y terroso",
+                "en": "Orange wine from Fiano in Roccamonfina, intense and earthy",
+                "pt": "Vinho laranja de Fiano de Roccamonfina, intenso e terroso",
+                "fr": "Vin orange de Fiano de Roccamonfina, intense et terreux",
+                "de": "Orangwein aus Fiano aus Roccamonfina, intensiv und erdig",
+                "th": "ไวน์ส้มจาก Fiano ใน Roccamonfina, เข้มข้นและมีดิน",
+                "ru": "Оранжевое вино из Fiano в Roccamonfina, интенсивное и землянистое"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "rose",
+          "name_i18n": {
+            "es": "Rosado",
+            "en": "Rosé",
+            "pt": "Rosé",
+            "fr": "Rosé",
+            "de": "Rosé",
+            "th": "กุหลาบ",
+            "ru": "Розовое"
+          },
+          "items": [
+            {
+              "id": 231,
+              "name_i18n": {
+                "common": "soto_manrique_naranjas_azules",
+                "es": "Soto Manrique, Naranjas Azules 2023",
+                "en": "Soto Manrique, Naranjas Azules 2023",
+                "pt": "Soto Manrique, Naranjas Azules 2023",
+                "fr": "Soto Manrique, Naranjas Azules 2023",
+                "de": "Soto Manrique, Naranjas Azules 2023",
+                "th": "Soto Manrique, Naranjas Azules 2023",
+                "ru": "Soto Manrique, Naranjas Azules 2023"
+              },
+              "price": 4.50,
+              "cover": "",
+              "category": {
+                "common": "rose_wine"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino rosado de Grenache de Madrid, fresco y frutal",
+                "en": "Rosé wine from Grenache in Madrid, fresh and fruity",
+                "pt": "Vinho rosé de Grenache de Madrid, fresco e frutado",
+                "fr": "Vin rosé de Grenache de Madrid, frais et fruité",
+                "de": "Roséwein aus Grenache aus Madrid, frisch und fruchtig",
+                "th": "ไวน์โรเซ่จาก Grenache ในมาดริด, สดชื่นและผลไม้",
+                "ru": "Розовое вино из Grenache в Мадриде, свежее и фруктовое"
+              }
+            },
+            {
+              "id": 232,
+              "name_i18n": {
+                "common": "miraval_rose",
+                "es": "Miraval, Rosé 2024",
+                "en": "Miraval, Rosé 2024",
+                "pt": "Miraval, Rosé 2024",
+                "fr": "Miraval, Rosé 2024",
+                "de": "Miraval, Rosé 2024",
+                "th": "Miraval, Rosé 2024",
+                "ru": "Miraval, Rosé 2024"
+              },
+              "price": 44.00,
+              "cover": "",
+              "category": {
+                "common": "rose_wine"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino rosado de Côtes de Provence con Cinsault, Grenache, Rolle y Syrah",
+                "en": "Rosé wine from Côtes de Provence with Cinsault, Grenache, Rolle, and Syrah",
+                "pt": "Vinho rosé de Côtes de Provence com Cinsault, Grenache, Rolle e Syrah",
+                "fr": "Vin rosé de Côtes de Provence avec Cinsault, Grenache, Rolle et Syrah",
+                "de": "Roséwein aus Côtes de Provence mit Cinsault, Grenache, Rolle und Syrah",
+                "th": "ไวน์โรเซ่จาก Côtes de Provence ที่มี Cinsault, Grenache, Rolle และ Syrah",
+                "ru": "Розовое вино из Côtes de Provence с Cinsault, Grenache, Rolle и Syrah"
+              }
+            },
+            {
+              "id": 233,
+              "name_i18n": {
+                "common": "clos_cibonne_cuvee_vignettes",
+                "es": "Clos Cibonne, Cuvée des Vignettes 2022",
+                "en": "Clos Cibonne, Cuvée des Vignettes 2022",
+                "pt": "Clos Cibonne, Cuvée des Vignettes 2022",
+                "fr": "Clos Cibonne, Cuvée des Vignettes 2022",
+                "de": "Clos Cibonne, Cuvée des Vignettes 2022",
+                "th": "Clos Cibonne, Cuvée des Vignettes 2022",
+                "ru": "Clos Cibonne, Cuvée des Vignettes 2022"
+              },
+              "price": 64.00,
+              "cover": "",
+              "category": {
+                "common": "rose_wine"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino rosado de Côtes de Provence con Tibouren y Grenache",
+                "en": "Rosé wine from Côtes de Provence with Tibouren and Grenache",
+                "pt": "Vinho rosé de Côtes de Provence com Tibouren e Grenache",
+                "fr": "Vin rosé de Côtes de Provence avec Tibouren et Grenache",
+                "de": "Roséwein aus Côtes de Provence mit Tibouren und Grenache",
+                "th": "ไวน์โรเซ่จาก Côtes de Provence ที่มี Tibouren และ Grenache",
+                "ru": "Розовое вино из Côtes de Provence с Tibouren и Grenache"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "red",
+          "name_i18n": {
+            "es": "Tinto",
+            "en": "Red",
+            "pt": "Tinto",
+            "fr": "Rouge",
+            "de": "Rot",
+            "th": "แดง",
+            "ru": "Красное"
+          },
+          "items": [
+            {
+              "id": 241,
+              "name_i18n": {
+                "common": "montelaguna_tinto",
+                "es": "Montelaguna, Tinto 2023",
+                "en": "Montelaguna, Tinto 2023",
+                "pt": "Montelaguna, Tinto 2023",
+                "fr": "Montelaguna, Tinto 2023",
+                "de": "Montelaguna, Tinto 2023",
+                "th": "Montelaguna, Tinto 2023",
+                "ru": "Montelaguna, Tinto 2023"
+              },
+              "price": 5.25,
+              "cover": "",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Tempranillo de Ribera del Duero, fresco y equilibrado",
+                "en": "Red wine from Tempranillo in Ribera del Duero, fresh and balanced",
+                "pt": "Vinho tinto de Tempranillo de Ribera del Duero, fresco e equilibrado",
+                "fr": "Vin rouge de Tempranillo de Ribera del Duero, frais et équilibré",
+                "de": "Rotwein aus Tempranillo aus Ribera del Duero, frisch und ausgewogen",
+                "th": "ไวน์แดงจาก Tempranillo ใน Ribera del Duero, สดชื่นและสมดุล",
+                "ru": "Красное вино из Tempranillo в Ribera del Duero, свежее и сбалансированное"
+              }
+            },
+            {
+              "id": 242,
+              "name_i18n": {
+                "common": "guimaro_tinto",
+                "es": "Guimaro, Tinto 2024",
+                "en": "Guimaro, Tinto 2024",
+                "pt": "Guimaro, Tinto 2024",
+                "fr": "Guimaro, Tinto 2024",
+                "de": "Guimaro, Tinto 2024",
+                "th": "Guimaro, Tinto 2024",
+                "ru": "Guimaro, Tinto 2024"
+              },
+              "price": 5.26,
+              "cover": "",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Mencía, Brancellao, Trousseau y otras variedades de Ribeira Sacra",
+                "en": "Red wine from Mencía, Brancellao, Trousseau, and other varieties in Ribeira Sacra",
+                "pt": "Vinho tinto de Mencía, Brancellao, Trousseau e outras variedades de Ribeira Sacra",
+                "fr": "Vin rouge de Mencía, Brancellao, Trousseau et autres variétés de Ribeira Sacra",
+                "de": "Rotwein aus Mencía, Brancellao, Trousseau und anderen Sorten aus Ribeira Sacra",
+                "th": "ไวน์แดงจาก Mencía, Brancellao, Trousseau และพันธุ์อื่น ๆ ใน Ribeira Sacra",
+                "ru": "Красное вино из Mencía, Brancellao, Trousseau и других сортов в Ribeira Sacra"
+              }
+            },
+            {
+              "id": 243,
+              "name_i18n": {
+                "common": "vina_del_lentisco",
+                "es": "Viña del Lentisco, Selvaveda 2022",
+                "en": "Viña del Lentisco, Selvaveda 2022",
+                "pt": "Viña del Lentisco, Selvaveda 2022",
+                "fr": "Viña del Lentisco, Selvaveda 2022",
+                "de": "Viña del Lentisco, Selvaveda 2022",
+                "th": "Viña del Lentisco, Selvaveda 2022",
+                "ru": "Viña del Lentisco, Selvaveda 2022"
+              },
+              "price": 26.00,
+              "cover": "",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Tempranillo, Graciano, Grenache y Carignan de Rioja",
+                "en": "Red wine from Tempranillo, Graciano, Grenache, and Carignan in Rioja",
+                "pt": "Vinho tinto de Tempranillo, Graciano, Grenache e Carignan de Rioja",
+                "fr": "Vin rouge de Tempranillo, Graciano, Grenache et Carignan de Rioja",
+                "de": "Rotwein aus Tempranillo, Graciano, Grenache und Carignan aus Rioja",
+                "th": "ไวน์แดงจาก Tempranillo, Graciano, Grenache และ Carignan ใน Rioja",
+                "ru": "Красное вино из Tempranillo, Graciano, Grenache и Carignan в Риохе"
+              }
+            },
+            {
+              "id": 244,
+              "name_i18n": {
+                "common": "vinedos_de_remelluri",
+                "es": "Viñedos de Remelluri, Labastida 2021",
+                "en": "Viñedos de Remelluri, Labastida 2021",
+                "pt": "Viñedos de Remelluri, Labastida 2021",
+                "fr": "Viñedos de Remelluri, Labastida 2021",
+                "de": "Viñedos de Remelluri, Labastida 2021",
+                "th": "Viñedos de Remelluri, Labastida 2021",
+                "ru": "Viñedos de Remelluri, Labastida 2021"
+              },
+              "price": 39.00,
+              "cover": "",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Tempranillo, Grenache y Graciano de Rioja",
+                "en": "Red wine from Tempranillo, Grenache, and Graciano in Rioja",
+                "pt": "Vinho tinto de Tempranillo, Grenache e Graciano de Rioja",
+                "fr": "Vin rouge de Tempranillo, Grenache et Graciano de Rioja",
+                "de": "Rotwein aus Tempranillo, Grenache und Graciano aus Rioja",
+                "th": "ไวน์แดงจาก Tempranillo, Grenache และ Graciano ใน Rioja",
+                "ru": "Красное вино из Tempranillo, Grenache и Graciano в Риохе"
+              }
+            },
+            {
+              "id": 245,
+              "name_i18n": {
+                "common": "borgogno_rivata",
+                "es": "Borgogno Rivata, Nebbiolo 2022",
+                "en": "Borgogno Rivata, Nebbiolo 2022",
+                "pt": "Borgogno Rivata, Nebbiolo 2022",
+                "fr": "Borgogno Rivata, Nebbiolo 2022",
+                "de": "Borgogno Rivata, Nebbiolo 2022",
+                "th": "Borgogno Rivata, Nebbiolo 2022",
+                "ru": "Borgogno Rivata, Nebbiolo 2022"
+              },
+              "price": 39.00,
+              "cover": "",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Nebbiolo de Langhe, elegante y tánico",
+                "en": "Red wine from Nebbiolo in Langhe, elegant and tannic",
+                "pt": "Vinho tinto de Nebbiolo de Langhe, elegante e tânico",
+                "fr": "Vin rouge de Nebbiolo de Langhe, élégant et tannique",
+                "de": "Rotwein aus Nebbiolo aus Langhe, elegant und tanninhaltig",
+                "th": "ไวน์แดงจาก Nebbiolo ใน Langhe, หรูหราและแทนนิค",
+                "ru": "Красное вино из Nebbiolo в Langhe, элегантное и танинное"
+              }
+            },
+            {
+              "id": 246,
+              "name_i18n": {
+                "common": "graillot_domaine_ouleb",
+                "es": "Graillot, Domaine des Ouleb, Thaleh 2022",
+                "en": "Graillot, Domaine des Ouleb, Thaleh 2022",
+                "pt": "Graillot, Domaine des Ouleb, Thaleh 2022",
+                "fr": "Graillot, Domaine des Ouleb, Thaleh 2022",
+                "de": "Graillot, Domaine des Ouleb, Thaleh 2022",
+                "th": "Graillot, Domaine des Ouleb, Thaleh 2022",
+                "ru": "Graillot, Domaine des Ouleb, Thaleh 2022"
+              },
+              "price": 39.00,
+              "cover": "",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Syrah de Meknès, potente y especiado",
+                "en": "Red wine from Syrah in Meknès, powerful and spiced",
+                "pt": "Vinho tinto de Syrah de Meknès, potente e especiado",
+                "fr": "Vin rouge de Syrah de Meknès, puissant et épicé",
+                "de": "Rotwein aus Syrah aus Meknès, kräftig und gewürzt",
+                "th": "ไวน์แดงจาก Syrah ใน Meknès, เข้มข้นและมีเครื่องเทศ",
+                "ru": "Красное вино из Syrah в Мекнесе, мощное и пряное"
+              }
+            },
+            {
+              "id": 247,
+              "name_i18n": {
+                "common": "4kilos_tanuki_bob",
+                "es": "4Kilos, Tanuki Bob 2022",
+                "en": "4Kilos, Tanuki Bob 2022",
+                "pt": "4Kilos, Tanuki Bob 2022",
+                "fr": "4Kilos, Tanuki Bob 2022",
+                "de": "4Kilos, Tanuki Bob 2022",
+                "th": "4Kilos, Tanuki Bob 2022",
+                "ru": "4Kilos, Tanuki Bob 2022"
+              },
+              "price": 39.00,
+              "cover": "",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Mantonegro y Syrah de Mallorca, frutal y vivaz",
+                "en": "Red wine from Mantonegro and Syrah in Mallorca, fruity and lively",
+                "pt": "Vinho tinto de Mantonegro e Syrah de Mallorca, frutado e vibrante",
+                "fr": "Vin rouge de Mantonegro et Syrah de Mallorca, fruité et vif",
+                "de": "Rotwein aus Mantonegro und Syrah aus Mallorca, fruchtig und lebendig",
+                "th": "ไวน์แดงจาก Mantonegro และ Syrah ในมอลตา, ผลไม้และมีชีวิตชีวา",
+                "ru": "Красное вино из Mantonegro и Syrah на Майорке, фруктовое и живое"
+              }
+            },
+            {
+              "id": 248,
+              "name_i18n": {
+                "common": "mittas_xinomavro",
+                "es": "Mittas, Xinomavro 2021",
+                "en": "Mittas, Xinomavro 2021",
+                "pt": "Mittas, Xinomavro 2021",
+                "fr": "Mittas, Xinomavro 2021",
+                "de": "Mittas, Xinomavro 2021",
+                "th": "Mittas, Xinomavro 2021",
+                "ru": "Mittas, Xinomavro 2021"
+              },
+              "price": 40.00,
+              "cover": "",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Xinomavro de Naoussa, robusto y terroso",
+                "en": "Red wine from Xinomavro in Naoussa, robust and earthy",
+                "pt": "Vinho tinto de Xinomavro de Naoussa, robusto e terroso",
+                "fr": "Vin rouge de Xinomavro de Naoussa, robuste et terreux",
+                "de": "Rotwein aus Xinomavro aus Naoussa, robust und erdig",
+                "th": "ไวน์แดงจาก Xinomavro ใน Naoussa, แข็งแกร่งและมีดิน",
+                "ru": "Красное вино из Xinomavro в Науссе, крепкое и землянистое"
+              }
+            },
+            {
+              "id": 249,
+              "name_i18n": {
+                "common": "vinas_mora_andreis",
+                "es": "Vinas Mora, Andreis, 2021",
+                "en": "Vinas Mora, Andreis, 2021",
+                "pt": "Vinas Mora, Andreis, 2021",
+                "fr": "Vinas Mora, Andreis, 2021",
+                "de": "Vinas Mora, Andreis, 2021",
+                "th": "Vinas Mora, Andreis, 2021",
+                "ru": "Vinas Mora, Andreis, 2021"
+              },
+              "price": 47.00,
+              "cover": "",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Babic de Primošten, intenso y especiado",
+                "en": "Red wine from Babic in Primošten, intense and spiced",
+                "pt": "Vinho tinto de Babic de Primošten, intenso e especiado",
+                "fr": "Vin rouge de Babic de Primošten, intense et épicé",
+                "de": "Rotwein aus Babic aus Primošten, intensiv und gewürzt",
+                "th": "ไวน์แดงจาก Babic ใน Primošten, เข้มข้นและมีเครื่องเทศ",
+                "ru": "Красное вино из Babic в Примоштене, интенсивное и пряное"
+              }
+            },
+            {
+              "id": 250,
+              "name_i18n": {
+                "common": "galleyty_rouge",
+                "es": "Gallety, Rouge 2021",
+                "en": "Gallety, Rouge 2021",
+                "pt": "Gallety, Rouge 2021",
+                "fr": "Gallety, Rouge 2021",
+                "de": "Gallety, Rouge 2021",
+                "th": "Gallety, Rouge 2021",
+                "ru": "Gallety, Rouge 2021"
+              },
+              "price": 48.00,
+              "cover": "",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Grenache y Syrah de Côtes de Vivarais, robusto y frutal",
+                "en": "Red wine from Grenache and Syrah in Côtes de Vivarais, robust and fruity",
+                "pt": "Vinho tinto de Grenache e Syrah de Côtes de Vivarais, robusto e frutado",
+                "fr": "Vin rouge de Grenache et Syrah de Côtes de Vivarais, robuste et fruité",
+                "de": "Rotwein aus Grenache und Syrah aus Côtes de Vivarais, robust und fruchtig",
+                "th": "ไวน์แดงจาก Grenache และ Syrah ใน Côtes de Vivarais, แข็งแกร่งและผลไม้",
+                "ru": "Красное вино из Grenache и Syrah в Côtes de Vivarais, крепкое и фруктовое"
+              }
+            },
+            {
+              "id": 251,
+              "name_i18n": {
+                "common": "parparoussis_epilegmenos",
+                "es": "Parparoussis, Epilegmenos Reserva 2016",
+                "en": "Parparoussis, Epilegmenos Reserva 2016",
+                "pt": "Parparoussis, Epilegmenos Reserva 2016",
+                "fr": "Parparoussis, Epilegmenos Reserva 2016",
+                "de": "Parparoussis, Epilegmenos Reserva 2016",
+                "th": "Parparoussis, Epilegmenos Reserva 2016",
+                "ru": "Parparoussis, Epilegmenos Reserva 2016"
+              },
+              "price": 58.00,
+              "cover": "",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Agiorgitiko de Nemea, maduro y complejo",
+                "en": "Red wine from Agiorgitiko in Nemea, mature and complex",
+                "pt": "Vinho tinto de Agiorgitiko de Nemea, maduro e complexo",
+                "fr": "Vin rouge de Agiorgitiko de Nemea, mûr et complexe",
+                "de": "Rotwein aus Agiorgitiko aus Nemea, reif und komplex",
+                "th": "ไวน์แดงจาก Agiorgitiko ใน Nemea, สุกและซับซ้อน",
+                "ru": "Красное вино из Agiorgitiko в Немеа, зрелое и сложное"
+              }
+            },
+            {
+              "id": 252,
+              "name_i18n": {
+                "common": "le_chiuse_rosso",
+                "es": "Le Chiuse, Rosso 2019",
+                "en": "Le Chiuse, Rosso 2019",
+                "pt": "Le Chiuse, Rosso 2019",
+                "fr": "Le Chiuse, Rosso 2019",
+                "de": "Le Chiuse, Rosso 2019",
+                "th": "Le Chiuse, Rosso 2019",
+                "ru": "Le Chiuse, Rosso 2019"
+              },
+              "price": 58.00,
+              "cover": "",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Sangiovese de Rosso di Montalcino, elegante y estructurado",
+                "en": "Red wine from Sangiovese in Rosso di Montalcino, elegant and structured",
+                "pt": "Vinho tinto de Sangiovese de Rosso di Montalcino, elegante e estruturado",
+                "fr": "Vin rouge de Sangiovese de Rosso di Montalcino, élégant et structuré",
+                "de": "Rotwein aus Sangiovese aus Rosso di Montalcino, elegant und strukturiert",
+                "th": "ไวน์แดงจาก Sangiovese ใน Rosso di Montalcino, หรูหราและมีโครงสร้าง",
+                "ru": "Красное вино из Sangiovese в Rosso di Montalcino, элегантное и структурированное"
+              }
+            },
+            {
+              "id": 253,
+              "name_i18n": {
+                "common": "jean_fery_sous_la_cabotte",
+                "es": "Jean Féry, Sous La Cabotte 2022",
+                "en": "Jean Féry, Sous La Cabotte 2022",
+                "pt": "Jean Féry, Sous La Cabotte 2022",
+                "fr": "Jean Féry, Sous La Cabotte 2022",
+                "de": "Jean Féry, Sous La Cabotte 2022",
+                "th": "Jean Féry, Sous La Cabotte 2022",
+                "ru": "Jean Féry, Sous La Cabotte 2022"
+              },
+              "price": 77.00,
+              "cover": "",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Pinot Noir de Savigny-les-Beaune, delicado y complejo",
+                "en": "Red wine from Pinot Noir in Savigny-les-Beaune, delicate and complex",
+                "pt": "Vinho tinto de Pinot Noir de Savigny-les-Beaune, delicado e complexo",
+                "fr": "Vin rouge de Pinot Noir de Savigny-les-Beaune, délicat et complexe",
+                "de": "Rotwein aus Pinot Noir aus Savigny-les-Beaune, zart und komplex",
+                "th": "ไวน์แดงจาก Pinot Noir ใน Savigny-les-Beaune, ละเอียดอ่อนและซับซ้อน",
+                "ru": "Красное вино из Pinot Noir в Савиньи-ле-Бอน, нежное и сложное"
+              }
+            },
+            {
+              "id": 254,
+              "name_i18n": {
+                "common": "chateau_de_pibarnon_rouge",
+                "es": "Château de Pibarnon, Rouge 2019",
+                "en": "Château de Pibarnon, Rouge 2019",
+                "pt": "Château de Pibarnon, Rouge 2019",
+                "fr": "Château de Pibarnon, Rouge 2019",
+                "de": "Château de Pibarnon, Rouge 2019",
+                "th": "Château de Pibarnon, Rouge 2019",
+                "ru": "Château de Pibarnon, Rouge 2019"
+              },
+              "price": 89.00,
+              "cover": "",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Mourvèdre y Grenache de Bandol, intenso y especiado",
+                "en": "Red wine from Mourvèdre and Grenache in Bandol, intense and spiced",
+                "pt": "Vinho tinto de Mourvèdre e Grenache de Bandol, intenso e especiado",
+                "fr": "Vin rouge de Mourvèdre et Grenache de Bandol, intense et épicé",
+                "de": "Rotwein aus Mourvèdre und Grenache aus Bandol, intensiv und gewürzt",
+                "th": "ไวน์แดงจาก Mourvèdre และ Grenache ใน Bandol, เข้มข้นและมีเครื่องเทศ",
+                "ru": "Красное вино из Mourvèdre и Grenache в Бандоле, интенсивное и пряное"
+              }
+            },
+            {
+              "id": 255,
+              "name_i18n": {
+                "common": "chateau_musar_rouge",
+                "es": "Château Musar, Rouge 2017",
+                "en": "Château Musar, Rouge 2017",
+                "pt": "Château Musar, Rouge 2017",
+                "fr": "Château Musar, Rouge 2017",
+                "de": "Château Musar, Rouge 2017",
+                "th": "Château Musar, Rouge 2017",
+                "ru": "Château Musar, Rouge 2017"
+              },
+              "price": 91.00,
+              "cover": "",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Ghazir con Cabernet Sauvignon, Cinsault y Carignan, maduro y rico",
+                "en": "Red wine from Ghazir with Cabernet Sauvignon, Cinsault, and Carignan, mature and rich",
+                "pt": "Vinho tinto de Ghazir com Cabernet Sauvignon, Cinsault e Carignan, maduro e rico",
+                "fr": "Vin rouge de Ghazir avec Cabernet Sauvignon, Cinsault et Carignan, mûr et riche",
+                "de": "Rotwein aus Ghazir mit Cabernet Sauvignon, Cinsault und Carignan, reif und reich",
+                "th": "ไวน์แดงจาก Ghazir ที่มี Cabernet Sauvignon, Cinsault และ Carignan, สุกและอุดมสมบูรณ์",
+                "ru": "Красное вино из Ghazir с Cabernet Sauvignon, Cinsault и Carignan, зрелое и богатое"
+              }
+            },
+            {
+              "id": 256,
+              "name_i18n": {
+                "common": "domaine_santa_duc_le_pied",
+                "es": "Domaine Santa Duc, Le Pied de Baud 2020",
+                "en": "Domaine Santa Duc, Le Pied de Baud 2020",
+                "pt": "Domaine Santa Duc, Le Pied de Baud 2020",
+                "fr": "Domaine Santa Duc, Le Pied de Baud 2020",
+                "de": "Domaine Santa Duc, Le Pied de Baud 2020",
+                "th": "Domaine Santa Duc, Le Pied de Baud 2020",
+                "ru": "Domaine Santa Duc, Le Pied de Baud 2020"
+              },
+              "price": 97.00,
+              "cover": "",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Châteauneuf-du-Pape con Grenache y Mourvèdre, potente y elegante",
+                "en": "Red wine from Châteauneuf-du-Pape with Grenache and Mourvèdre, powerful and elegant",
+                "pt": "Vinho tinto de Châteauneuf-du-Pape com Grenache e Mourvèdre, potente e elegante",
+                "fr": "Vin rouge de Châteauneuf-du-Pape avec Grenache et Mourvèdre, puissant et élégant",
+                "de": "Rotwein aus Châteauneuf-du-Pape mit Grenache und Mourvèdre, kräftig und elegant",
+                "th": "ไวน์แดงจาก Châteauneuf-du-Pape ที่มี Grenache และ Mourvèdre, เข้มข้นและหรูหรา",
+                "ru": "Красное вино из Châteauneuf-du-Pape с Grenache и Mourvèdre, мощное и элегантное"
+              }
+            },
+            {
+              "id": 257,
+              "name_i18n": {
+                "common": "mastrobberardino_radici",
+                "es": "Mastrobberardino, Radici Riserva 2018",
+                "en": "Mastrobberardino, Radici Riserva 2018",
+                "pt": "Mastrobberardino, Radici Riserva 2018",
+                "fr": "Mastrobberardino, Radici Riserva 2018",
+                "de": "Mastrobberardino, Radici Riserva 2018",
+                "th": "Mastrobberardino, Radici Riserva 2018",
+                "ru": "Mastrobberardino, Radici Riserva 2018"
+              },
+              "price": 99.00,
+              "cover": "",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Aglianico de Taurasi, profundo y estructurado",
+                "en": "Red wine from Aglianico in Taurasi, deep and structured",
+                "pt": "Vinho tinto de Aglianico de Taurasi, profundo e estruturado",
+                "fr": "Vin rouge de Aglianico de Taurasi, profond et structuré",
+                "de": "Rotwein aus Aglianico aus Taurasi, tief und strukturiert",
+                "th": "ไวน์แดงจาก Aglianico ใน Taurasi, ลึกและมีโครงสร้าง",
+                "ru": "Красное вино из Aglianico в Taurasi, глубокое и структурированное"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "special",
+          "name_i18n": {
+            "es": "Especiales",
+            "en": "Specials",
+            "pt": "Especiais",
+            "fr": "Spéciales",
+            "de": "Spezialitäten",
+            "th": "พิเศษ",
+            "ru": "Специальные"
+          },
+          "items": [
+            {
+              "id": 261,
+              "name_i18n": {
+                "common": "saint_martin_icewine",
+                "es": "Saint Martin, Icewine 2016",
+                "en": "Saint Martin, Icewine 2016",
+                "pt": "Saint Martin, Icewine 2016",
+                "fr": "Saint Martin, Icewine 2016",
+                "de": "Saint Martin, Icewine 2016",
+                "th": "Saint Martin, Icewine 2016",
+                "ru": "Saint Martin, Icewine 2016"
+              },
+              "price": 70.00,
+              "cover": "",
+              "category": {
+                "common": "special"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino dulce de hielo de Riesling de Okanagan Valley, intenso y dulce",
+                "en": "Icewine from Riesling in Okanagan Valley, intense and sweet",
+                "pt": "Vinho de gelo de Riesling de Okanagan Valley, intenso e doce",
+                "fr": "Vin de glace de Riesling de Okanagan Valley, intense et doux",
+                "de": "Eiswein aus Riesling aus Okanagan Valley, intensiv und süß",
+                "th": "ไวน์น้ำแข็งจาก Riesling ใน Okanagan Valley, เข้มข้นและหวาน",
+                "ru": "Ледяное вино из Riesling в Оканаган Валлей, интенсивное и сладкое"
+              }
+            },
+            {
+              "id": 262,
+              "name_i18n": {
+                "common": "chateau_dyquem_sauternes",
+                "es": "Château d'Yquem, Sauternes 2014",
+                "en": "Château d'Yquem, Sauternes 2014",
+                "pt": "Château d'Yquem, Sauternes 2014",
+                "fr": "Château d'Yquem, Sauternes 2014",
+                "de": "Château d'Yquem, Sauternes 2014",
+                "th": "Château d'Yquem, Sauternes 2014",
+                "ru": "Château d'Yquem, Sauternes 2014"
+              },
+              "price": 250.00,
+              "cover": "",
+              "category": {
+                "common": "special"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino dulce de Sémillon y Sauvignon Blanc de Sauternes, complejo y lujoso",
+                "en": "Sweet wine from Sémillon and Sauvignon Blanc in Sauternes, complex and luxurious",
+                "pt": "Vinho doce de Sémillon e Sauvignon Blanc de Sauternes, complexo e luxuoso",
+                "fr": "Vin doux de Sémillon et Sauvignon Blanc de Sauternes, complexe et luxueux",
+                "de": "Süßer Wein aus Sémillon und Sauvignon Blanc aus Sauternes, komplex und luxuriös",
+                "th": "ไวน์หวานจาก Sémillon และ Sauvignon Blanc ใน Sauternes, ซับซ้อนและหรูหรา",
+                "ru": "Сладкое вино из Sémillon и Sauvignon Blanc в Sauternes, сложное и роскошное"
+              }
+            },
+            {
+              "id": 263,
+              "name_i18n": {
+                "common": "krutzler_ruster_auer",
+                "es": "Krutzler, Ruster Ausbruch 2018",
+                "en": "Krutzler, Ruster Ausbruch 2018",
+                "pt": "Krutzler, Ruster Ausbruch 2018",
+                "fr": "Krutzler, Ruster Ausbruch 2018",
+                "de": "Krutzler, Ruster Ausbruch 2018",
+                "th": "Krutzler, Ruster Ausbruch 2018",
+                "ru": "Krutzler, Ruster Ausbruch 2018"
+              },
+              "price": 95.00,
+              "cover": "",
+              "category": {
+                "common": "special"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino dulce de Furmint y Welschriesling de Rust, rico y aromático",
+                "en": "Sweet wine from Furmint and Welschriesling in Rust, rich and aromatic",
+                "pt": "Vinho doce de Furmint e Welschriesling de Rust, rico e aromático",
+                "fr": "Vin doux de Furmint et Welschriesling de Rust, riche et aromatique",
+                "de": "Süßer Wein aus Furmint und Welschriesling aus Rust, reich und aromatisch",
+                "th": "ไวน์หวานจาก Furmint และ Welschriesling ใน Rust, อุดมสมบูรณ์และหอม",
+                "ru": "Сладкое вино из Furmint и Welschriesling в Русте, богатое и ароматное"
+              }
+            }
+          ]
+        }
+      ],
+      "items": []
+    }
+  ],
+  "items": [],
+  "lastUpdated": "2025-08-13T12:00:00Z"
+}
