@@ -69,15 +69,15 @@
   "categories": [
     {
       "order": 1,
-      "slug": "quick",
+      "slug": "daily",
       "name_i18n": {
-        "es": "Algo Rápido",
-        "en": "Something Quick",
-        "pt": "Algo Rápido",
-        "fr": "Quelque Chose de Rapide",
-        "de": "Etwas Schnelles",
-        "th": "อะไรที่รวดเร็ว",
-        "ru": "Что-то Быстрое"
+        "es": "Menú del día",
+        "en": "Daily Menu",
+        "pt": "Menu do Dia",
+        "fr": "Menu du Jour",
+        "de": "Tagesmenü",
+        "th": "เมนูประจำวัน",
+        "ru": "Ежедневное меню"
       },
       "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/appetiers.webp",
       "items": [
