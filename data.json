@@ -106,7 +106,7 @@
                 "ru": "Чесночный суп"
               },
               "price": 19.95,
-              "cover": "garlicsoup.webp",
+              "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/onionsoup.webp",
               "allergens": [],
               "description": {
                 "es": "Una sopa tradicional hecha con ajo, pan, caldo, pimentón y huevo, muy común en Castilla. Es sencilla, sabrosa y perfecta para días fríos.",
