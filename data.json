@@ -13,7 +13,7 @@
   "assetsBaseUrl": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/",
   "logo": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/logo.webp",
   "categoryImg": true,
-  "itemCardImage": false,
+  "itemCardImage": true,
   "itemCardAllergens": false,
   "mapsURL": "https://www.google.es/maps/@40.5252821,-3.8160297,959225m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI1MDgwNC4wIKXMDSoASAFQAw%3D%3D",
   "mapsAddress": "Calle de la Princesa, 1, 28008 Madrid, Spain",
