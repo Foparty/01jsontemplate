@@ -94,28 +94,103 @@
           },
           "items": [
             {
-              "id": 100,
+              "id": 101,
               "name_i18n": {
-                "common": "garlicbread",
-                "es": "Pan de Ajo",
-                "en": "Garlic Bread",
-                "pt": "Pão de Alho",
-                "fr": "Pain à l'Ail",
-                "de": "Knoblauchbrot",
-                "th": "ขนมปังกระเทียม",
-                "ru": "Чесночный хлеб"
+                "common": "garlicsoup",
+                "es": "Sopa de Ajo",
+                "en": "Garlic Soup",
+                "pt": "Sopa de Alho",
+                "fr": "Soupe à l'Ail",
+                "de": "Knoblauchsuppe",
+                "th": "ซุปกระเทียม",
+                "ru": "Чесночный суп"
               },
               "price": 19.95,
               "cover": "",
               "allergens": [],
               "description": {
-                "es": "Pan de Miga con Ajo y Mantequilla de Hierbas",
-                "en": "Topped w/ Garlic & Herb Butter",
-                "pt": "Pão de Alho com Manteiga de Ervas",
-                "fr": "Pain à l'Ail avec Beurre aux Herbes",
-                "de": "Knoblauchbrot mit Kräuterbutter",
-                "th": "ขนมปังกระเทียมทาด้วยเนยสมุนไพร",
-                "ru": "Хлеб с чесноком и травяным маслом"
+                "es": "Una sopa tradicional hecha con ajo, pan, caldo, pimentón y huevo, muy común en Castilla. Es sencilla, sabrosa y perfecta para días fríos.",
+                "en": "A traditional soup made with garlic, bread, broth, paprika, and egg, very common in Castilla. It is simple, flavorful, and perfect for cold days.",
+                "pt": "Uma sopa tradicional feita com alho, pão, caldo, páprica e ovo, muito comum na Castilla. É simples, saborosa e perfeita para dias frios.",
+                "fr": "Une soupe traditionnelle faite avec de l'ail, du pain, du bouillon, du paprika et de l'œuf, très courante en Castille. Elle est simple, savoureuse et parfaite pour les jours froids.",
+                "de": "Eine traditionelle Suppe aus Knoblauch, Brot, Brühe, Paprika und Ei, sehr verbreitet in Kastilien. Sie ist einfach, geschmackvoll und perfekt für kalte Tage.",
+                "th": "ซุปแบบดั้งเดิมที่ทำจากกระเทียม ขนมปัง น้ำซุป ปาปริก้า และไข่ ซึ่งเป็นที่นิยมมากในแคว้นคาสตีล เป็นซุปที่เรียบง่าย อร่อย และเหมาะสำหรับวันที่หนาวเย็น",
+                "ru": "Традиционный суп из чеснока, хлеба, бульона, паприки и яйца, очень распространенный в Кастилии. Он простой, вкусный и идеален для холодных дней."
+              }
+            },
+            {
+              "id": 102,
+              "name_i18n": {
+                "common": "mixedsalad",
+                "es": "Ensalada Mixta",
+                "en": "Mixed Salad",
+                "pt": "Salada Mista",
+                "fr": "Salade Mixte",
+                "de": "Gemischter Salat",
+                "th": "สลัดผสม",
+                "ru": "Смешанный салат"
+              },
+              "price": 19.95,
+              "cover": "",
+              "allergens": [],
+              "description": {
+                "es": "Una ensalada fresca con lechuga, tomate, cebolla, pepino, aceitunas y a veces atún o huevo duro, aliñada con aceite de oliva y vinagre. Es un clásico en toda España.",
+                "en": "A fresh salad with lettuce, tomato, onion, cucumber, olives, and sometimes tuna or hard-boiled egg, dressed with olive oil and vinegar. It is a classic throughout Spain.",
+                "pt": "Uma salada fresca com alface, tomate, cebola, pepino, azeitonas e às vezes atum ou ovo cozido, temperada com azeite e vinagre. É um clássico em toda a Espanha.",
+                "fr": "Une salade fraîche avec de la laitue, tomate, oignon, concombre, olives et parfois du thon ou œuf dur, assaisonnée d'huile d'olive et de vinaigre. C'est un classique dans toute l'Espagne.",
+                "de": "Ein frischer Salat mit Kopfsalat, Tomate, Zwiebel, Gurke, Oliven und manchmal Thunfisch oder hartgekochtem Ei, angemacht mit Olivenöl und Essig. Es ist ein Klassiker in ganz Spanien.",
+                "th": "สลัดสดใหม่ที่มีผักกาดหอม มะเขือเทศ หัวหอม แตงกวา มะกอก และบางครั้งมีทูน่าหรือไข่ต้ม ปรุงรสด้วยน้ำมันมะกอกและน้ำส้มสายชู เป็นเมนูคลาสสิกทั่วประเทศสเปน",
+                "ru": "Свежий салат с листьями салата, помидорами, луком, огурцом, оливками и иногда тунцом или вареным яйцом, заправленный оливковым маслом и уксусом. Это классика по всей Испании."
+              }
+            },
+            {
+              "id": 103,
+              "name_i18n": {
+                "common": "gazpacho",
+                "es": "Gazpacho",
+                "en": "Gazpacho",
+                "pt": "Gazpacho",
+                "fr": "Gazpacho",
+                "de": "Gazpacho",
+                "th": "กาซปาโช",
+                "ru": "Гаспачо"
+              },
+              "price": 19.95,
+              "cover": "",
+              "allergens": [],
+              "description": {
+                "es": "Una sopa fría de tomate, pepino, pimiento, ajo y aceite de oliva, típica de Andalucía, ideal para el verano.",
+                "en": "A cold soup made with tomato, cucumber, bell pepper, garlic, and olive oil, typical of Andalusia, perfect for summer.",
+                "pt": "Uma sopa fria feita com tomate, pepino, pimentão, alho e azeite, típica da Andaluzia, perfeita para o verão.",
+                "fr": "Une soupe froide faite de tomate, concombre, poivron, ail et huile d'olive, typique de l'Andalousie, parfaite pour l'été.",
+                "de": "Eine kalte Suppe aus Tomate, Gurke, Paprika, Knoblauch und Olivenöl, typisch für Andalusien, perfekt für den Sommer.",
+                "th": "ซุปเย็นทำจากมะเขือเทศ แตงกวา พริกหวาน กระเทียม และน้ำมันมะกอก ซึ่งเป็นเมนูที่นิยมในแคว้นอันดาลูเซีย เหมาะสำหรับฤดูร้อน",
+                "ru": "Холодный суп из помидоров, огурцов, болгарского перца, чеснока и оливкового масла, типичный для Андалусии, идеально подходит для лета."
+              }
+            },
+            {
+              "id": 104,
+              "name_i18n": {
+                "common": "greenbeans",
+                "es": "Judías verdes con patata",
+                "en": "Green Beans with Potato",
+                "pt": "Vagem Verde com Batata",
+                "fr": "Haricots Verts avec Pomme de Terre",
+                "de": "Grüne Bohnen mit Kartoffel",
+                "th": "ถั่วเขียวกับมันฝรั่ง",
+                "ru": "Зеленая фасоль с картофелем"
+              },
+              "price": 19.95,
+              "cover": "",
+              "allergens": [],
+              "description": {
+                "es": "Un plato sencillo de judías verdes cocidas con patatas, a menudo aliñado con un sofrito de ajo y aceite de oliva, común en muchas regiones.",
+                "en": "A simple dish of boiled green beans with potatoes, often dressed with a sauté of garlic and olive oil, common in many regions.",
+                "pt": "Um prato simples de vagem verde cozida com batatas, muitas vezes temperado com um refogado de alho e azeite, comum em muitas regiões.",
+                "fr": "Un plat simple de haricots verts cuits avec des pommes de terre, souvent assaisonné d'un sauté d'ail et d'huile d'olive, commun dans de nombreuses régions.",
+                "de": "Ein einfaches Gericht aus gekochten grünen Bohnen mit Kartoffeln, oft gewürzt mit einem Knoblauch- und Olivenöl-Sauté, das in vielen Regionen verbreitet ist.",
+                "th": "จานง่ายๆ ของถั่วเขียวต้มกับมันฝรั่ง มักปรุงรสด้วยกระเทียมผัดและน้ำมันมะกอก ซึ่งเป็นที่นิยมในหลายภูมิภาค",
+                "ru": "Простое блюдо из вареной зеленой фасоли с картофелем, часто приправленное обжаренным чесноком и оливковым маслом, распространенное во многих регионах."
               }
             }
           ]
