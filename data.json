@@ -108,6 +108,31 @@
           }
         },
         {
+          "id": 100,
+          "name_i18n": {
+            "common": "garlicbread",
+            "es": "Pan de Ajo",
+            "en": "Garlic Bread",
+            "pt": "Pão de Alho",
+            "fr": "Pain à l'Ail",
+            "de": "Knoblauchbrot",
+            "th": "ขนมปังกระเทียม",
+            "ru": "Чесночный хлеб"
+          },
+          "price": 19.95,
+          "cover": "",
+          "allergens": [],
+          "description": {
+            "es": "Pan de Miga con Ajo y Mantequilla de Hierbas",
+            "en": "Topped w/ Garlic & Herb Butter",
+            "pt": "Pão de Alho com Manteiga de Ervas",
+            "fr": "Pain à l'Ail avec Beurre aux Herbes",
+            "de": "Knoblauchbrot mit Kräuterbutter",
+            "th": "ขนมปังกระเทียมทาด้วยเนยสมุนไพร",
+            "ru": "Хлеб с чесноком и травяным маслом"
+          }
+        },
+        {
           "slug": "sardina-ahumada",
           "id": 101,
           "name_i18n": {
