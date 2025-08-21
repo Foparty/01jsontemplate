@@ -1908,9 +1908,6 @@
               },
               "price": 34.00,
               "cover": "",
-              "category": {
-                "common": "orange_wine"
-              },
               "allergens": [
                 "sulfites"
               ],
@@ -1938,9 +1935,6 @@
               },
               "price": 46.00,
               "cover": "",
-              "category": {
-                "common": "orange_wine"
-              },
               "allergens": [
                 "sulfites"
               ],
@@ -1968,9 +1962,6 @@
               },
               "price": 50.00,
               "cover": "",
-              "category": {
-                "common": "orange_wine"
-              },
               "allergens": [
                 "sulfites"
               ],
