@@ -10,7 +10,7 @@
     "th",
     "ru"
   ],
-  "assetsBaseUrl": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/",
+  "assetsBaseUrl": "",
   "logo": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/logo.webp",
   "categoryImg": true,
   "itemCardImage": true,
@@ -24,12 +24,6 @@
       "lat": 40.5252821,
       "lng": -3.8160297
     }
-  },
-  "config": {
-    "currency": "EUR",
-    "categoryImg": true,
-    "itemCardImage": false,
-    "itemCardAllergens": false
   },
   "aboutDescription": {
     "es": "Restaurante italiano con una amplia variedad de platos tradicionales y modernos, desde entrantes hasta postres, todo preparado con ingredientes frescos y de alta calidad.",
@@ -105,7 +99,7 @@
                 "th": "ซุปกระเทียม",
                 "ru": "Чесночный суп"
               },
-              "price": 19.95,
+              "price": null,
               "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/onionsoup.webp",
               "allergens": [],
               "description": {
@@ -130,8 +124,8 @@
                 "th": "สลัดผสม",
                 "ru": "Смешанный салат"
               },
-              "price": 19.95,
-              "cover": "",
+              "price": null,
+              "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/mixedsalad.webp",
               "allergens": [],
               "description": {
                 "es": "Una ensalada fresca con lechuga, tomate, cebolla, pepino, aceitunas y a veces atún o huevo duro, aliñada con aceite de oliva y vinagre. Es un clásico en toda España.",
@@ -155,8 +149,8 @@
                 "th": "กาซปาโช",
                 "ru": "Гаспачо"
               },
-              "price": 19.95,
-              "cover": "",
+              "price": null,
+              "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/gazpacho.webp",
               "allergens": [],
               "description": {
                 "es": "Una sopa fría de tomate, pepino, pimiento, ajo y aceite de oliva, típica de Andalucía, ideal para el verano.",
@@ -180,7 +174,121 @@
                 "th": "ถั่วเขียวกับมันฝรั่ง",
                 "ru": "Зеленая фасоль с картофелем"
               },
-              "price": 19.95,
+              "price": null,
+              "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/greenbeanspotatoes.webp",
+              "allergens": [],
+              "description": {
+                "es": "Un plato sencillo de judías verdes cocidas con patatas, a menudo aliñado con un sofrito de ajo y aceite de oliva, común en muchas regiones.",
+                "en": "A simple dish of boiled green beans with potatoes, often dressed with a sauté of garlic and olive oil, common in many regions.",
+                "pt": "Um prato simples de vagem verde cozida com batatas, muitas vezes temperado com um refogado de alho e azeite, comum em muitas regiões.",
+                "fr": "Un plat simple de haricots verts cuits avec des pommes de terre, souvent assaisonné d'un sauté d'ail et d'huile d'olive, commun dans de nombreuses régions.",
+                "de": "Ein einfaches Gericht aus gekochten grünen Bohnen mit Kartoffeln, oft gewürzt mit einem Knoblauch- und Olivenöl-Sauté, das in vielen Regionen verbreitet ist.",
+                "th": "จานง่ายๆ ของถั่วเขียวต้มกับมันฝรั่ง มักปรุงรสด้วยกระเทียมผัดและน้ำมันมะกอก ซึ่งเป็นที่นิยมในหลายภูมิภาค",
+                "ru": "Простое блюдо из вареной зеленой фасоли с картофелем, часто приправленное обжаренным чесноком и оливковым маслом, распространенное во многих регионах."
+              }
+            }
+          ]
+        },
+        {
+          "slug": "second",
+          "name_i18n": {
+            "es": "Segundo plato",
+            "en": "Second Course",
+            "pt": "Segundo Prato",
+            "fr": "Deuxième Plat",
+            "de": "Zweiter Gang",
+            "th": "จานที่สอง",
+            "ru": "Второе Блюдо"
+          },
+          "items": [
+            {
+              "id": 201,
+              "name_i18n": {
+                "common": "chikengarlic",
+                "es": "Pollo al ajillo",
+                "en": "Garlic Chicken",
+                "pt": "Frango ao Alho",
+                "fr": "Poulet à l'Ail",
+                "de": "Knoblauchhähnchen",
+                "th": "ไก่กระเทียม",
+                "ru": "Курица с чесноком"
+              },
+              "price": null,
+              "cover": "",
+              "allergens": [],
+              "description": {
+                "es": "Pollo cocinado con ajo, aceite de oliva y a menudo un toque de vino blanco o hierbas, un plato sabroso y muy común en toda España.",
+                "en": "Chicken cooked with garlic, olive oil, and often a touch of white wine or herbs, a flavorful dish very common throughout Spain.",
+                "pt": "Frango cozido com alho, azeite e muitas vezes um toque de vinho branco ou ervas, um prato saboroso muito comum em toda a Espanha.",
+                "fr": "Poulet cuit avec de l'ail, de l'huile d'olive et souvent une touche de vin blanc ou d'herbes, un plat savoureux très courant dans toute l'Espagne.",
+                "de": "Hähnchen gekocht mit Knoblauch, Olivenöl und oft einem Hauch von Weißwein oder Kräutern, ein geschmackvolles Gericht, das in ganz Spanien sehr verbreitet ist.",
+                "th": "ไก่ที่ปรุงด้วยกระเทียม น้ำมันมะกอก และมักจะมีไวน์ขาวหรือสมุนไพรเพิ่มรสชาติ เป็นจานที่อร่อยและเป็นที่นิยมมากในสเปน",
+                "ru": "Курица, приготовленная с чесноком, оливковым маслом и часто с добавлением белого вина или трав, вкусное блюдо, очень распространенное по всей Испании."
+              }
+            },
+            {
+              "id": 202,
+              "name_i18n": {
+                "common": "mixedsalad",
+                "es": "Ensalada Mixta",
+                "en": "Mixed Salad",
+                "pt": "Salada Mista",
+                "fr": "Salade Mixte",
+                "de": "Gemischter Salat",
+                "th": "สลัดผสม",
+                "ru": "Смешанный салат"
+              },
+              "price": null,
+              "cover": "",
+              "allergens": [],
+              "description": {
+                "es": "Una ensalada fresca con lechuga, tomate, cebolla, pepino, aceitunas y a veces atún o huevo duro, aliñada con aceite de oliva y vinagre. Es un clásico en toda España.",
+                "en": "A fresh salad with lettuce, tomato, onion, cucumber, olives, and sometimes tuna or hard-boiled egg, dressed with olive oil and vinegar. It is a classic throughout Spain.",
+                "pt": "Uma salada fresca com alface, tomate, cebola, pepino, azeitonas e às vezes atum ou ovo cozido, temperada com azeite e vinagre. É um clássico em toda a Espanha.",
+                "fr": "Une salade fraîche avec de la laitue, tomate, oignon, concombre, olives et parfois du thon ou œuf dur, assaisonnée d'huile d'olive et de vinaigre. C'est un classique dans toute l'Espagne.",
+                "de": "Ein frischer Salat mit Kopfsalat, Tomate, Zwiebel, Gurke, Oliven und manchmal Thunfisch oder hartgekochtem Ei, angemacht mit Olivenöl und Essig. Es ist ein Klassiker in ganz Spanien.",
+                "th": "สลัดสดใหม่ที่มีผักกาดหอม มะเขือเทศ หัวหอม แตงกวา มะกอก และบางครั้งมีทูน่าหรือไข่ต้ม ปรุงรสด้วยน้ำมันมะกอกและน้ำส้มสายชู เป็นเมนูคลาสสิกทั่วประเทศสเปน",
+                "ru": "Свежий салат с листьями салата, помидорами, луком, огурцом, оливками и иногда тунцом или вареным яйцом, заправленный оливковым маслом и уксусом. Это классика по всей Испании."
+              }
+            },
+            {
+              "id": 203,
+              "name_i18n": {
+                "common": "gazpacho",
+                "es": "Gazpacho",
+                "en": "Gazpacho",
+                "pt": "Gazpacho",
+                "fr": "Gazpacho",
+                "de": "Gazpacho",
+                "th": "กาซปาโช",
+                "ru": "Гаспачо"
+              },
+              "price": null,
+              "cover": "",
+              "allergens": [],
+              "description": {
+                "es": "Una sopa fría de tomate, pepino, pimiento, ajo y aceite de oliva, típica de Andalucía, ideal para el verano.",
+                "en": "A cold soup made with tomato, cucumber, bell pepper, garlic, and olive oil, typical of Andalusia, perfect for summer.",
+                "pt": "Uma sopa fria feita com tomate, pepino, pimentão, alho e azeite, típica da Andaluzia, perfeita para o verão.",
+                "fr": "Une soupe froide faite de tomate, concombre, poivron, ail et huile d'olive, typique de l'Andalousie, parfaite pour l'été.",
+                "de": "Eine kalte Suppe aus Tomate, Gurke, Paprika, Knoblauch und Olivenöl, typisch für Andalusien, perfekt für den Sommer.",
+                "th": "ซุปเย็นทำจากมะเขือเทศ แตงกวา พริกหวาน กระเทียม และน้ำมันมะกอก ซึ่งเป็นเมนูที่นิยมในแคว้นอันดาลูเซีย เหมาะสำหรับฤดูร้อน",
+                "ru": "Холодный суп из помидоров, огурцов, болгарского перца, чеснока и оливкового масла, типичный для Андалусии, идеально подходит для лета."
+              }
+            },
+            {
+              "id": 204,
+              "name_i18n": {
+                "common": "greenbeans",
+                "es": "Judías verdes con patata",
+                "en": "Green Beans with Potato",
+                "pt": "Vagem Verde com Batata",
+                "fr": "Haricots Verts avec Pomme de Terre",
+                "de": "Grüne Bohnen mit Kartoffel",
+                "th": "ถั่วเขียวกับมันฝรั่ง",
+                "ru": "Зеленая фасоль с картофелем"
+              },
+              "price": null,
               "cover": "",
               "allergens": [],
               "description": {
@@ -194,549 +302,1145 @@
               }
             }
           ]
+        },
+        {
+          "slug": "dessert",
+          "name_i18n": {
+            "es": "Postre",
+            "en": "Dessert",
+            "pt": "Sobremesa",
+            "fr": "Dessert",
+            "de": "Dessert",
+            "th": "ของหวาน",
+            "ru": "Десерт"
+          },
+          "items": [
+            {
+              "id": 301,
+              "name_i18n": {
+                "common": "eggflan",
+                "es": "Flan de huevo",
+                "en": "Egg Flan",
+                "pt": "Flan de Ovo",
+                "fr": "Flan aux Oeufs",
+                "de": "Eierflan",
+                "th": "พุดดิ้งไข่",
+                "ru": "Яичный флан"
+              },
+              "price": null,
+              "cover": "",
+              "allergens": [],
+              "description": {
+                "es": "Pollo cocinado con ajo, aceite de oliva y a menudo un toque de vino blanco o hierbas, un plato sabroso y muy común en toda España.",
+                "en": "Chicken cooked with garlic, olive oil, and often a touch of white wine or herbs, a flavorful dish very common throughout Spain.",
+                "pt": "Frango cozido com alho, azeite e muitas vezes um toque de vinho branco ou ervas, um prato saboroso muito comum em toda a Espanha.",
+                "fr": "Poulet cuit avec de l'ail, de l'huile d'olive et souvent une touche de vin blanc ou d'herbes, un plat savoureux très courant dans toute l'Espagne.",
+                "de": "Hähnchen gekocht mit Knoblauch, Olivenöl und oft einem Hauch von Weißwein oder Kräutern, ein geschmackvolles Gericht, das in ganz Spanien sehr verbreitet ist.",
+                "th": "ไก่ที่ปรุงด้วยกระเทียม น้ำมันมะกอก และมักจะมีไวน์ขาวหรือสมุนไพรเพิ่มรสชาติ เป็นจานที่อร่อยและเป็นที่นิยมมากในสเปน",
+                "ru": "Курица, приготовленная с чесноком, оливковым маслом и часто с добавлением белого вина или трав, вкусное блюдо, очень распространенное по всей Испании."
+              }
+            }
+          ]
         }
       ]
     },
     {
       "order": 2,
-      "slug": "coldfresh",
+      "slug": "appetizers",
       "name_i18n": {
-        "es": "Ensaladas Frescas y Crudas",
-        "en": "Cold Fresh and Raw",
-        "pt": "Saladas Frias e Cruas",
-        "fr": "Salades Froides Fraîches et Crues",
-        "de": "Kaltes Frisches und Rohes",
-        "th": "สลัดเย็นสดและดิบ",
-        "ru": "Холодные Свежие и Сырые Салаты"
+        "es": "Entrantes",
+        "en": "Appetizers",
+        "pt": "Entradas",
+        "fr": "Entrées",
+        "de": "Vorspeisen",
+        "th": "อาหารเรียกน้ำย่อย",
+        "ru": "Закуски"
       },
-      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/coldfresh.webp",
+      "cover": "",
       "items": [
         {
-          "slug": "lechuga-romana",
-          "id": 200,
+          "slug": "bravas",
+          "id": 1001,
           "name_i18n": {
-            "es": "Lechuga romana, queso curado, vinagreta de balsámico blanco",
-            "en": "Romaine lettuce, cured cheese, white balsamic vinaigrette",
-            "pt": "Alface romana, queijo curado, vinagreta de balsâmico branco",
-            "fr": "Laitue romaine, fromage affiné, vinaigrette au balsamique blanc",
-            "de": "Römersalat, gereifter Käse, Weiße-Balsamico-Vinaigrette",
-            "th": "ผักกาดโรเมน ชีสหมัก น้ำสลัดบัลซามิกขาว",
-            "ru": "Ромен, выдержанный сыр, белый бальзамический соус"
+            "es": "Patatas bravas",
+            "en": "Spicy Potatoes",
+            "pt": "Batatas Picantes",
+            "fr": "Pommes de Terre Épicées",
+            "de": "Würzige Kartoffeln",
+            "th": "มันฝรั่งเผ็ด",
+            "ru": "Острые картофельные"
           },
-          "price": 12.0,
-          "priceCents": 1200,
-          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/onionsoup.webp",
+          "price": 7.5,
+          "priceCents": 750,
+          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/bravas.webp",
           "allergens": [
-            "dairy"
+            "egg"
           ],
           "description": {
-            "es": "Lechuga romana fresca con queso curado y vinagreta de balsámico blanco",
-            "en": "Fresh romaine lettuce with cured cheese and white balsamic vinaigrette",
-            "pt": "Alface romana fresca com queijo curado e vinagreta de balsâmico branco",
-            "fr": "Laitue romaine fraîche avec fromage affiné et vinaigrette au balsamique blanc",
-            "de": "Frischer Römersalat mit gereiftem Käse und Weiße-Balsamico-Vinaigrette",
-            "th": "ผักกาดโรเมนสดกับชีสหมักและน้ำสลัดบัลซามิกขาว",
-            "ru": "Свежий ромен с выдержанным сыром и белым бальзамическим соусом"
+            "es": "Patatas fritas con salsa brava, una mezcla de tomate, pimentón y ajo, muy populares en España.",
+            "en": "Homemade pici pasta served with pecorino and black pepper",
+            "pt": "Batatas fritas com molho brava, uma mistura de tomate, páprica e alho, muito populares na Espanha.",
+            "fr": "Pommes de terre frites avec sauce brava, un mélange de tomate, paprika et ail, très populaires en Espagne.",
+            "de": "Hausgemachte Pici-Pasta serviert mit Pecorino und schwarzem Pfeffer",
+            "th": "มันฝรั่งทอดกับซอสบราวา ซึ่งเป็นส่วนผสมของมะเขือเทศ ปาปริก้า และกระเทียม เป็นที่นิยมมากในสเปน",
+            "ru": "Жареный картофель с соусом брава, смесью томатов, паприки и чеснока, очень популярная в Испании."
           }
         },
         {
-          "slug": "tomate-vinagreta",
-          "id": 201,
+          "slug": "garlicprawns",
+          "id": 1002,
           "name_i18n": {
-            "es": "Tomate, vinagreta de alcaparras, crumble de aceituna negra",
-            "en": "Tomato, caper vinaigrette, black olive crumble",
-            "pt": "Tomate, vinagreta de alcaparras, crumble de azeitona preta",
-            "fr": "Tomate, vinaigrette aux câpres, crumble d'olive noire",
-            "de": "Tomate, Kapernvinaigrette, schwarze Olivenkrümel",
-            "th": "มะเขือเทศ น้ำสลัดเคเปอร์ ครัมเบิลมะกอกดำ",
-            "ru": "Помидор, каперсовая заправка, крошка черной оливки"
+            "es": "Gambas al ajillo",
+            "en": "Garlic Prawns",
+            "pt": "Camarões ao Alho",
+            "fr": "Crevettes à l'Ail",
+            "de": "Knoblauchgarnelen",
+            "th": "กุ้งกระเทียม",
+            "ru": "Креветки с чесноком"
           },
           "price": 12.0,
           "priceCents": 1200,
-          "cover": "",
+          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/gambasajillo.webp",
+          "allergens": [
+            "crustaceans",
+            "garlic"
+          ],
+          "description": {
+            "es": "Gambas salteadas con ajo y aceite de oliva, un plato clásico y sabroso de la cocina española.",
+            "en": "Prawns sautéed with garlic and olive oil, a classic and flavorful dish from Spanish cuisine.",
+            "pt": "Camarões salteados com alho e azeite, um prato clássico e saboroso da culinária espanhola.",
+            "fr": "Crevettes sautées à l'ail et à l'huile d'olive, un plat classique et savoureux de la cuisine espagnole.",
+            "de": "Garnelen in Knoblauch und Olivenöl sautiert, ein klassisches und geschmackvolles Gericht der spanischen Küche.",
+            "th": "กุ้งผัดกระเทียมกับน้ำมันมะกอก เป็นจานคลาสสิกและอร่อยจากอาหารสเปน",
+            "ru": "Креветки, обжаренные с чесноком и оливковым маслом, классическое и вкусное блюдо испанской кухни."
+          }
+        },
+        {
+          "slug": "croquetas",
+          "id": 1003,
+          "name_i18n": {
+            "es": "Croquetas de jamón",
+            "en": "Ham Croquettes",
+            "pt": "Croquetes de Presunto",
+            "fr": "Croquettes au Jambon",
+            "de": "Schinken-Kroketten",
+            "th": "คร็อกเก้แฮม",
+            "ru": "Ветчинные крокеты"
+          },
+          "price": 8.0,
+          "priceCents": 800,
+          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/croquetas.webp",
+          "allergens": [
+            "gluten",
+            "egg",
+            "dairy"
+          ],
+          "description": {
+            "es": "Croquetas de jamón, un aperitivo clásico español, hechas con una bechamel cremosa y trocitos de jamón, empanizadas y fritas hasta doradas.",
+            "en": "Ham croquettes, a classic Spanish appetizer, made with a creamy béchamel and pieces of ham, breaded and fried until golden.",
+            "pt": "Croquetes de presunto, um aperitivo clássico espanhol, feitos com um bechamel cremoso e pedaços de presunto, empanados e fritos até dourar.",
+            "fr": "Croquettes au jambon, un apéritif classique espagnol, préparées avec une béchamel crémeuse et des morceaux de jambon, panées et frites jusqu'à ce qu'elles soient dorées.",
+            "de": "Schinken-Kroketten, ein klassischer spanischer Aperitif, hergestellt mit einer cremigen Béchamel und Stücken von Schinken, paniert und frittiert bis sie goldbraun sind.",
+            "th": "คร็อกเก้แฮม อาหารเรียกน้ำย่อยคลาสสิกของสเปน ทำจากเบชาเมลครีมมี่และชิ้นแฮม เคลือบเกล็ดขนมปังและทอดจนเป็นสีทอง",
+            "ru": "Ветчинные крокеты, классическая испанская закуска, приготовленные с кремовой бешамель и кусочками ветчины, панированные и обжаренные до золотистой корочки."
+          }
+        },
+        {
+          "slug": "romanacalamari",
+          "id": 1004,
+          "name_i18n": {
+            "es": "Calamares a la romana",
+            "en": "Battered Calamari",
+            "pt": "Lulas à Romana",
+            "fr": "Calamars à la Romaine",
+            "de": "Panierte Calamari",
+            "th": "ปลาหมึกชุบแป้งทอด",
+            "ru": "Кальмары в кляре"
+          },
+          "price": 11.5,
+          "priceCents": 1150,
+          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/calamaresromana.webp",
+          "allergens": [
+            "gluten",
+            "egg",
+            "molluscs"
+          ],
+          "description": {
+            "es": "Calamares rebozados y fritos, un aperitivo muy popular en España, servido con limón y alioli.",
+            "en": "Battered and fried calamari, a very popular appetizer in Spain, served with lemon and aioli.",
+            "pt": "Lulas empanadas e fritas, um aperitivo muito popular na Espanha, servido com limão e aioli.",
+            "fr": "Calamars panés et frits, un apéritif très populaire en Espagne, servi avec du citron et de l'aïoli.",
+            "de": "Panierte und frittierte Calamari, ein sehr beliebter Aperitif in Spanien, serviert mit Zitrone und Aioli.",
+            "th": "ปลาหมึกชุบแป้งทอด เป็นอาหารเรียกน้ำย่อยที่นิยมมากในสเปน เสิร์ฟพร้อมมะนาวและ",
+            "ru": "Кальмары в кляре и жареные, очень популярная закуска в Испании, подается с лимоном и айоли."
+          }
+        },
+        {
+          "slug": "ibericoham",
+          "id": 1005,
+          "name_i18n": {
+            "es": "Jamón Ibérico",
+            "en": "Iberian Ham",
+            "pt": "Presunto Ibérico",
+            "fr": "Jambon Ibérique",
+            "de": "Iberischer Schinken",
+            "th": "แฮมอิเบริโก",
+            "ru": "Иберийский хамон"
+          },
+          "price": 14.0,
+          "priceCents": 1400,
+          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/jamoniberico.webp",
           "allergens": [],
           "description": {
-            "es": "Tomate fresco con vinagreta de alcaparras y crumble de aceituna negra",
-            "en": "Fresh tomato with caper vinaigrette and black olive crumble",
-            "pt": "Tomate fresco com vinagreta de alcaparras e crumble de azeitona preta",
-            "fr": "Tomate frais avec vinaigrette aux câpres et crumble d'olive noire",
-            "de": "Frischer Tomate mit Kapernvinaigrette und schwarze Olivenkrümel",
-            "th": "มะเขือเทศสดกับน้ำสลัดเคเปอร์และครัมเบิลมะกอกดำ",
-            "ru": "Свежий помидор с каперсовой заправкой и крошкой черной оливки"
+            "es": "Jamón Ibérico, un jamón curado de alta calidad, conocido por su sabor intenso y textura suave, muy apreciado en la gastronomía española.",
+            "en": "Iberian ham, a high-quality cured ham known for its intense flavor and smooth texture, highly appreciated in Spanish gastronomy.",
+            "pt": "Presunto Ibérico, um presunto curado de alta qualidade, conhecido por seu sabor intenso e textura suave, muito apreciado na gastronomia espanhola.",
+            "fr": "Jambon Ibérique, un jambon cru de haute qualité, connu pour sa saveur intense et sa texture lisse, très apprécié dans la gastronomie espagnole.",
+            "de": "Iberischer Schinken, ein hochwertiger luftgetrockneter Schinken, bekannt für seinen intensiven Geschmack und seine zarte Textur, sehr geschätzt in der spanischen Gastronomie.",
+            "th": "แฮมอิเบริโก แฮมแห้งคุณภาพสูงที่มีรสชาติเข้มข้นและเนื้อสัมผัสนุ่มนวล เป็นที่ชื่นชอบในวงการอาหารสเปน",
+            "ru": "Иберийский хамон, высококачественный вяленый хамон, известный своим интенсивным вкусом и мягкой текстурой, высоко ценится в испанской гастрономии."
           }
         },
         {
-          "slug": "ensalada-uvas",
-          "id": 202,
+          "slug": "russiansalad",
+          "id": 1006,
           "name_i18n": {
-            "es": "Ensalada de uvas, pepino, pistacho, queso feta",
-            "en": "Grape salad, cucumber, pistachio, feta cheese",
-            "pt": "Salada de uvas, pepino, pistachio, queijo feta",
-            "fr": "Salade de raisins, concombre, pistache, fromage feta",
-            "de": "Traubensalat, Gurke, Pistazie, Feta-Käse",
-            "th": "สลัดองุ่น แตงกวา พิสตาชิโอ ชีสเฟต้า",
-            "ru": "Салат из винограда, огурца, фисташек и сыра фета"
+            "es": "Ensaladilla Rusa",
+            "en": "Russian Salad",
+            "pt": "Salada Russa",
+            "fr": "Salade Russe",
+            "de": "Russischer Salat",
+            "th": "สลัดรัสเซีย",
+            "ru": "Русский салат"
           },
-          "price": 13.0,
-          "priceCents": 1300,
-          "cover": "",
+          "price": 6.5,
+          "priceCents": 650,
+          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/ensaladillarusa.webp",
           "allergens": [
-            "dairy",
-            "nuts"
+            "egg",
+            "fish"
           ],
           "description": {
-            "es": "Ensalada fresca de uvas, pepino, pistachos y queso feta",
-            "en": "Fresh grape salad with cucumber, pistachios, and feta cheese",
-            "pt": "Salada fresca de uvas, pepino, pistachios e queijo feta",
-            "fr": "Salade fraîche de raisins, concombre, pistaches et fromage feta",
-            "de": "Frischer Traubensalat mit Gurke, Pistazien und Feta-Käse",
-            "th": "สลัดองุ่นสดกับแตงกวา พิสตาชิโอ และชีสเฟต้า",
-            "ru": "Свежий салат из винограда с огурцом, фисташками и сыром фета"
-          }
-        },
-        {
-          "slug": "ensalada-cordero",
-          "id": 203,
-          "name_i18n": {
-            "es": "Ensalada de cordero, tzatziki, hierbas aromáticas",
-            "en": "Lamb salad, tzatziki, aromatic herbs",
-            "pt": "Salada de cordeiro, tzatziki, ervas aromáticas",
-            "fr": "Salade d'agneau, tzatziki, herbes aromatiques",
-            "de": "Lamm-Salat, Tzatziki, aromatische Kräuter",
-            "th": "สลัดแกะ ซาซิกิ สมุนไพรหอม",
-            "ru": "Салат из ягненка, цацики, ароматные травы"
-          },
-          "price": 18.0,
-          "priceCents": 1800,
-          "cover": "",
-          "allergens": [
-            "dairy"
-          ],
-          "description": {
-            "es": "Ensalada de cordero tierno con tzatziki y hierbas aromáticas",
-            "en": "Tender lamb salad with tzatziki and aromatic herbs",
-            "pt": "Salada de cordeiro tenro com tzatziki e ervas aromáticas",
-            "fr": "Salade d'agneau tendre avec tzatziki et herbes aromatiques",
-            "de": "Zarter Lamm-Salat mit Tzatziki und aromatischen Kräutern",
-            "th": "สลัดแกะเนื้อนุ่มกับซาซิกิและสมุนไพรหอม",
-            "ru": "Салат из нежного ягненка с цацики и ароматными травами"
-          }
-        },
-        {
-          "slug": "carpaccio-gamba",
-          "id": 204,
-          "name_i18n": {
-            "es": "Carpaccio de gamba roja, chile tatema, aceite aromático",
-            "en": "Red shrimp carpaccio, charred chili, aromatic oil",
-            "pt": "Carpaccio de camarão vermelho, pimenta queimada, óleo aromático",
-            "fr": "Carpaccio de crevette rouge, piment grillé, huile aromatique",
-            "de": "Roter Garnelen-Carpaccio, gegrillter Chili, aromatisches Öl",
-            "th": "คาร์ปาชโชกุ้งแดง พริกย่าง น้ำมันหอม",
-            "ru": "Карпаччо из красной креветки, обожженный перец, ароматическое масло"
-          },
-          "price": 24.0,
-          "priceCents": 2400,
-          "cover": "",
-          "allergens": [
-            "shellfish"
-          ],
-          "description": {
-            "es": "Carpaccio de gamba roja con chile tatema y aceite aromático",
-            "en": "Red shrimp carpaccio with charred chili and aromatic oil",
-            "pt": "Carpaccio de camarão vermelho com pimenta queimada e óleo aromático",
-            "fr": "Carpaccio de crevette rouge avec piment grillé et huile aromatique",
-            "de": "Roter Garnelen-Carpaccio mit gegrilltem Chili und aromatisches Öl",
-            "th": "คาร์ปาชโชกุ้งแดงกับพริกย่างและน้ำมันหอม",
-            "ru": "Карпаччо из красной креветки с обожженным перцем и ароматическим маслом"
-          }
-        },
-        {
-          "slug": "tartar-pescado",
-          "id": 205,
-          "name_i18n": {
-            "es": "Tartar de pescado azul, pico de gallo mediterráneo, yogur griego",
-            "en": "Blue fish tartare, Mediterranean pico de gallo, Greek yogurt",
-            "pt": "Tártaro de peixe azul, pico de gallo mediterrâneo, iogurte grego",
-            "fr": "Tartare de poisson bleu, pico de gallo méditerranéen, yaourt grec",
-            "de": "Blaufisch-Tartar, mediterranes Pico de Gallo, griechischer Joghurt",
-            "th": "ทาร์ทาร์ปลาน้ำเงิน พิโกเดอกัลโล เมดิเตอร์เรเนียน โยเกิร์ตกรีก",
-            "ru": "Тартар из синей рыбы, средиземноморский пико де гальо, греческий йогурт"
-          },
-          "price": 19.0,
-          "priceCents": 1900,
-          "cover": "",
-          "allergens": [
-            "fish",
-            "dairy"
-          ],
-          "description": {
-            "es": "Tartar de pescado azul con pico de gallo mediterráneo y yogur griego",
-            "en": "Blue fish tartare with Mediterranean pico de gallo and Greek yogurt",
-            "pt": "Tártaro de peixe azul com pico de gallo mediterrâneo e iogurte grego",
-            "fr": "Tartare de poisson bleu avec pico de gallo méditerranéen et yaourt grec",
-            "de": "Blaufisch-Tartar mit mediterranem Pico de Gallo und griechischem Joghurt",
-            "th": "ทาร์ทาร์ปลาน้ำเงินกับพิโกเดอกัลโลเมดิเตอร์เรเนียนและโยเกิร์ตกรีก",
-            "ru": "Тартар из синей рыбы со средиземноморским пико де гальо и греческим йогуртом"
-          }
-        },
-        {
-          "slug": "steak-tartar",
-          "id": 206,
-          "name_i18n": {
-            "es": "Steak tartar, pecorino, semillas de mostaza, crackers de aceite de oliva",
-            "en": "Steak tartare, pecorino, mustard seeds, olive oil crackers",
-            "pt": "Steak tartare, pecorino, sementes de mostarda, crackers de azeite",
-            "fr": "Steak tartare, pecorino, graines de moutarde, crackers à l'huile d'olive",
-            "de": "Steak-Tartar, Pecorino, Senfkörner, Olivenöl-Cracker",
-            "th": "สเต็กทาร์ทาร์ เปโครีโน เมล็ดมัสตาร์ด แครกเกอร์น้ำมันมะกอก",
-            "ru": "Стейк тартар, пекорино, семена горчицы, крекеры с оливковым маслом"
-          },
-          "price": 19.5,
-          "priceCents": 1950,
-          "cover": "",
-          "allergens": [
-            "dairy"
-          ],
-          "description": {
-            "es": "Steak tartar con pecorino, semillas de mostaza y crackers de aceite de oliva",
-            "en": "Steak tartare with pecorino, mustard seeds, and olive oil crackers",
-            "pt": "Steak tartare com pecorino, sementes de mostarda e crackers de azeite",
-            "fr": "Steak tartare avec pecorino, graines de moutarde et crackers à l'huile d'olive",
-            "de": "Steak-Tartar mit Pecorino, Senfkörnern und Olivenöl-Cracker",
-            "th": "สเต็กทาร์ทาร์กับเปโครีโน เมล็ดมัสตาร์ด และแครกเกอร์น้ำมันมะกอก",
-            "ru": "Стейк тартар с пекорино, семенами горчицы и крекерами с оливковым маслом"
+            "es": "Ensaladilla Rusa, una ensalada fría hecha con patatas, zanahorias, guisantes, atún y mayonesa, muy popular en España.",
+            "en": "Russian Salad, a cold salad made with potatoes, carrots, peas, tuna, and mayonnaise, very popular in Spain.",
+            "pt": "Salada Russa, uma salada fria feita com batatas, cenouras, ervilhas, atum e maionese, muito popular na Espanha.",
+            "fr": "Salade Russe, une salade froide faite de pommes de terre, carottes, petits pois, thon et mayonnaise, très populaire en Espagne.",
+            "de": "Russischer Salat, ein kalter Salat aus Kartoffeln, Karotten, Erbsen, Thunfisch und Mayonnaise, sehr beliebt in Spanien.",
+            "th": "สลัดรัสเซีย สลัดเย็นทำจากมันฝรั่ง แครอท ถั่วลันเตา ทูน่า และมายองเนส เป็นที่นิยมมากในสเปน",
+            "ru": "Русский салат, холодный салат из картофеля, моркови, горошка, тунца и майонеза, очень популярный в Испании."
           }
         }
       ]
     },
     {
       "order": 3,
-      "slug": "hotbig",
+      "slug": "salads",
       "name_i18n": {
-        "es": "Caliente y un poco más grande",
-        "en": "Hot and a bit bigger",
-        "pt": "Quente e um pouco maior",
-        "fr": "Chaud et un peu plus grand",
-        "de": "Heiß und ein bisschen größer",
-        "th": "ร้อนและใหญ่ขึ้นเล็กน้อย",
-        "ru": "Горячее и немного больше"
+        "es": "Ensaladas",
+        "en": "Salads",
+        "pt": "Salads",
+        "fr": "Salades",
+        "de": "Salate",
+        "th": "สลัด",
+        "ru": "Салаты"
       },
-      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/main.webp",
+      "cover": "",
       "items": [
         {
-          "slug": "pasta-pici-casera",
-          "id": 301,
+          "slug": "mixedsalad",
+          "id": 2001,
           "name_i18n": {
-            "es": "Pasta pici casera, pecorino, pimienta negra",
-            "en": "Homemade pici pasta, pecorino, black pepper",
-            "pt": "Pasta pici caseira, pecorino, pimenta preta",
-            "fr": "Pâtes pici maison, pecorino, poivre noir",
-            "de": "Hausgemachte Pici-Pasta, Pecorino, schwarzer Pfeffer",
-            "th": "พาสต้า พิชีโฮมเมด เปโครีโน พริกไทยดำ",
-            "ru": "Домашняя паста пичи, пекорино, черный перец"
+            "es": "Ensalada Mixta",
+            "en": "Mixed Salad",
+            "pt": "Salada Mista",
+            "fr": "Salade Mixte",
+            "de": "Gemischter Salat",
+            "th": "สลัดผสม",
+            "ru": "Смешанный салат"
           },
-          "price": 16.0,
-          "priceCents": 1600,
-          "cover": "",
+          "price": 7.5,
+          "priceCents": 750,
+          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/ensaladamixta.webp",
           "allergens": [
-            "dairy"
+            "egg"
           ],
           "description": {
-            "es": "Pasta pici casera servida con pecorino y pimienta negra",
-            "en": "Homemade pici pasta served with pecorino and black pepper",
-            "pt": "Pasta pici caseira servida com pecorino e pimenta preta",
-            "fr": "Pâtes pici maison servies avec pecorino et poivre noir",
-            "de": "Hausgemachte Pici-Pasta serviert mit Pecorino und schwarzem Pfeffer",
-            "th": "พาสต้าเส้นพิชีทำเอง เสิร์ฟกับชีสเปโครีโนและพริกไทยดำ",
-            "ru": "Домашняя паста пичи, подается с пекорино и черным перцем"
+            "es": "Una ensalada fresca con lechuga, tomate, cebolla, pepino, aceitunas y a veces atún o huevo duro, aliñada con aceite de oliva y vinagre. Es un clásico en toda España.",
+            "en": "A fresh salad with lettuce, tomato, onion, cucumber, olives, and sometimes tuna or hard-boiled egg, dressed with olive oil and vinegar. It is a classic throughout Spain.",
+            "pt": "Uma salada fresca com alface, tomate, cebola, pepino, azeitonas e às vezes atum ou ovo cozido, temperada com azeite e vinagre. É um clássico em toda a Espanha.",
+            "fr": "Une salade fraîche avec de la laitue, tomate, oignon, concombre, olives et parfois du thon ou œuf dur, assaisonnée d'huile d'olive et de vinaigre. C'est un classique dans toute l'Espagne.",
+            "de": "Ein frischer Salat mit Kopfsalat, Tomate, Zwiebel, Gurke, Oliven und manchmal Thunfisch oder hartgekochtem Ei, angemacht mit Olivenöl und Essig. Es ist ein Klassiker in ganz Spanien.",
+            "th": "สลัดสดใหม่ที่มีผักกาดหอม มะเขือเทศ หัวหอม แตงกวา มะกอก และบางครั้งมีทูน่าหรือไข่ต้ม ปรุงรสด้วยน้ำมันมะกอกและน้ำส้มสายชู เป็นเมนูคลาสสิกทั่วประเทศสเปน",
+            "ru": "Свежий салат с листьями салата, помидорами, луком, огурцом, оливками и иногда тунцом или вареным яйцом, заправленный оливковым маслом и уксусом. Это классика по всей Испании."
           }
         },
         {
-          "slug": "fettuccine-casero",
-          "id": 302,
+          "slug": "roastedpeppersalad",
+          "id": 2002,
           "name_i18n": {
-            "es": "Fettuccine casero, calamar, aglio e olio, tomate picante",
-            "en": "Homemade fettuccine, squid, aglio e olio, spicy tomato",
-            "pt": "Fettuccine caseiro, lula, aglio e olio, tomate picante",
-            "fr": "Fettuccine maison, calmar, aglio e olio, tomate épicé",
-            "de": "Hausgemachte Fettuccine, Tintenfisch, aglio e olio, scharfe Tomate",
-            "th": "เฟตตูชินี่โฮมเมด หมึก อากลิโอเอโอลิโอ ซอสมะเขือเทศเผ็ด",
-            "ru": "Домашняя феттучини, кальмар, аглио э олио, острый помидор"
+            "es": "Ensalada de Pimientos Asados",
+            "en": "Roasted Pepper Salad",
+            "pt": "Salada de Pimentões Assados",
+            "fr": "Salade de Poivrons Rôtis",
+            "de": "Röstpaprika-Salat",
+            "th": "สลัดพริกย่าง",
+            "ru": "Салат из запеченного перца"
           },
-          "price": 17.5,
-          "priceCents": 1750,
-          "cover": "",
+          "price": 9.5,
+          "priceCents": 950,
+          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/peppersalad.webp",
           "allergens": [
-            "shellfish"
+            "garlic"
           ],
           "description": {
-            "es": "Fettuccine casero con calamar, aglio e olio y tomate picante",
-            "en": "Homemade fettuccine with squid, aglio e olio, and spicy tomato",
-            "pt": "Fettuccine caseiro com lula, aglio e olio e tomate picante",
-            "fr": "Fettuccine maison avec calmar, aglio e olio et tomate épicé",
-            "de": "Hausgemachte Fettuccine mit Tintenfisch, aglio e olio und scharfer Tomate",
-            "th": "เฟตตูชินี่โฮมเมดกับหมึก อากลิโอเอโอลิโอ และซอสมะเขือเทศเผ็ด",
-            "ru": "Домашняя феттучини с кальмаром, аглио э олио и острым помидором"
+            "es": "Ensalada de pimientos asados, una mezcla de pimientos rojos y verdes asados, a menudo acompañada de cebolla, ajo y aliñada con aceite de oliva.",
+            "en": "Roasted pepper salad, a mix of roasted red and green peppers, often accompanied by onion, garlic, and dressed with olive oil.",
+            "pt": "Salada de pimentões assados, uma mistura de pimentões vermelhos e verdes assados, muitas vezes acompanhada de cebola, alho e temperada com azeite.",
+            "fr": "Salade de poivrons rôtis, un mélange de poivrons rouges et verts rôtis, souvent accompagné d'oignon, d'ail et assaisonné d'huile d'olive.",
+            "de": "Röstpaprika-Salat, eine Mischung aus gerösteten roten und grünen Paprika, oft begleitet von Zwiebeln, Knoblauch und mit Olivenöl angemacht.",
+            "th": "สลัดพริกย่าง เป็นการผสมผสานของพริกแดงและเขียวย่าง มักจะมีหัวหอม กระเทียม และปรุงรสด้วยน้ำมันมะกอก",
+            "ru": "Салат из запеченного перца, смесь запеченных красных и зеленых перцев, часто с луком, чесноком и заправленный оливковым маслом."
           }
         },
         {
-          "slug": "almejas-alubias",
-          "id": 303,
+          "slug": "escalivada",
+          "id": 2003,
           "name_i18n": {
-            "es": "Almejas, alubias, vino blanco, pan de masa madre",
-            "en": "Clams, beans, white wine, sourdough bread",
-            "pt": "Ameijoas, feijão, vinho branco, pão de massa madre",
-            "fr": "Palourdes, haricots, vin blanc, pain au levain",
-            "de": "Muscheln, Bohnen, Weißwein, Sauerteigbrot",
-            "th": "หอยลาย ถั่ว ไวน์ขาว ขนมปังซาวโดว์",
-            "ru": "Моллюски, фасоль, белое вино, хлеб на закваске"
+            "es": "Escalivada",
+            "en": "Grilled Vegetable Salad",
+            "pt": "Salada de Legumes Grelhados",
+            "fr": "Salade de Légumes Grillés",
+            "de": "Grillgemüsesalat",
+            "th": "สลัดผักย่าง",
+            "ru": "Салат из жареных овощей"
           },
-          "price": 22.5,
-          "priceCents": 2250,
-          "cover": "",
+          "price": 8.0,
+          "priceCents": 800,
+          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/escalivada.webp",
           "allergens": [
-            "shellfish"
+            "egg"
           ],
           "description": {
-            "es": "Almejas frescas con alubias, vino blanco y pan de masa madre",
-            "en": "Fresh clams with beans, white wine, and sourdough bread",
-            "pt": "Ameijoas frescas com feijão, vinho branco e pão de massa madre",
-            "fr": "Palourdes fraîches avec haricots, vin blanc et pain au levain",
-            "de": "Frische Muscheln mit Bohnen, Weißwein und Sauerteigbrot",
-            "th": "หอยลายสดกับถั่วและไวน์ขาว เสิร์ฟพร้อมขนมปังซาวโดว์",
-            "ru": "Свежие моллюски с фасолью, белым вином и хлебом на закваске"
-          }
-        },
-        {
-          "slug": "lomo-corvina",
-          "id": 304,
-          "name_i18n": {
-            "es": "Lomo de corvina, bisque de gamba, broccolini",
-            "en": "Corvina loin, shrimp bisque, broccolini",
-            "pt": "Lombo de corvina, bisque de camarão, broccolini",
-            "fr": "Filet de corvina, bisque de crevette, broccolini",
-            "de": "Corvina-Lende, Garnelenbisque, Broccolini",
-            "th": "เนื้อปลากอร์วินา น้ำซุปกุ้ง บรอกโคลินี",
-            "ru": "Филе корвины, биск из креветок, брокколи"
-          },
-          "price": 24.0,
-          "priceCents": 2400,
-          "cover": "",
-          "allergens": [
-            "fish",
-            "shellfish"
-          ],
-          "description": {
-            "es": "Lomo de corvina con bisque de gamba y broccolini",
-            "en": "Corvina loin with shrimp bisque and broccolini",
-            "pt": "Lombo de corvina com bisque de camarão e broccolini",
-            "fr": "Filet de corvina avec bisque de crevette et broccolini",
-            "de": "Corvina-Lende mit Garnelenbisque und Broccolini",
-            "th": "เนื้อปลากอร์วินาเสิร์ฟกับน้ำซุปกุ้งและบรอกโคลินี",
-            "ru": "Филе корвины с биск из креветок и брокколи"
-          }
-        },
-        {
-          "slug": "pulpo-brasas",
-          "id": 305,
-          "name_i18n": {
-            "es": "Pulpo a la brasa, patata crujiente, vinagreta de tomate",
-            "en": "Grilled octopus, crispy potato, tomato vinaigrette",
-            "pt": "Polvo grelhado, batata crocante, vinagreta de tomate",
-            "fr": "Poulpe grillé, pomme de terre croustillante, vinaigrette de tomate",
-            "de": "Gegrillter Oktopus, knusprige Kartoffel, Tomatenvinaigrette",
-            "th": "ปลาหมึกย่าง มันฝรั่งกรอบ น้ำสลัดมะเขือเทศ",
-            "ru": "Грильованный осьминог, хрустящий картофель, томатная винегрет"
-          },
-          "price": 22.0,
-          "priceCents": 2200,
-          "cover": "",
-          "allergens": [],
-          "description": {
-            "es": "Pulpo a la brasa con patata crujiente y vinagreta de tomate",
-            "en": "Grilled octopus with crispy potato and tomato vinaigrette",
-            "pt": "Polvo grelhado com batata crocante e vinagreta de tomate",
-            "fr": "Poulpe grillé avec pomme de terre croustillante et vinaigrette de tomate",
-            "de": "Gegrillter Oktopus mit knuspriger Kartoffel und Tomatenvinaigrette",
-            "th": "ปลาหมึกย่างกับมันฝรั่งกรอบและน้ำสลัดมะเขือเทศ",
-            "ru": "Грильованный осьминог с хрустящим картофелем и томатной винегрет"
-          }
-        },
-        {
-          "slug": "lomo-alto-brasas",
-          "id": 306,
-          "name_i18n": {
-            "es": "Lomo alto a la brasa, puré de apionabo",
-            "en": "Grilled high loin, celery root puree",
-            "pt": "Lombo alto grelhado, purê de aipo",
-            "fr": "Haut-longe grillé, purée de céleri-rave",
-            "de": "Gegrilltes Hochrippenstück, Selleriepüree",
-            "th": "เนื้อสันย่าง พูเร่รากขึ้นฉ่าย",
-            "ru": "Грильованная верхняя часть вырезки, пюре из сельдерея"
-          },
-          "price": 30.0,
-          "priceCents": 3000,
-          "cover": "",
-          "allergens": [],
-          "description": {
-            "es": "Lomo alto a la brasa servido con puré de apionabo",
-            "en": "Grilled high loin served with celery root puree",
-            "pt": "Lombo alto grelhado servido com purê de aipo",
-            "fr": "Haut-longe grillé servi avec purée de céleri-rave",
-            "de": "Gegrilltes Hochrippenstück serviert mit Selleriepüree",
-            "th": "เนื้อสันย่างเสิร์ฟกับพูเร่รากขึ้นฉ่าย",
-            "ru": "Грильованная верхняя часть вырезки, подается с пюре из сельдерея"
+            "es": "Escalivada, una ensalada de verduras asadas como berenjenas, pimientos y cebollas, aliñada con aceite de oliva y a veces acompañada de atún o anchoas.",
+            "en": "Grilled vegetable salad, a salad of roasted vegetables such as eggplants, peppers, and onions, dressed with olive oil and sometimes accompanied by tuna or anchovies.",
+            "pt": "Salada de legumes grelhados, uma salada de vegetais assados como berinjelas, pimentões e cebolas, temperada com azeite e às vezes acompanhada de atum ou anchovas.",
+            "fr": "Salade de légumes grillés, une salade de légumes rôtis tels que des aubergines, des poivrons et des oignons, assaisonnée d'huile d'olive et parfois accompagnée de thon ou d'anchois.",
+            "de": "Grillgemüsesalat, ein Salat aus geröstetem Gemüse wie Auberginen, Paprika und Zwiebeln, angemacht mit Olivenöl und manchmal begleitet von Thunfisch oder Sardellen.",
+            "th": "สลัดผักย่าง เป็นสลัดผักย่างเช่น มะเขือยาว พริก และหัวหอม ปรุงรสด้วยน้ำมันมะกอกและบางครั้งมีทูน่าหรือแองโชวี่",
+            "ru": "Салат из жареных овощей, салат из запеченных овощей, таких как баклажаны, перцы и лук, заправленный оливковым маслом и иногда с тунцом или анчоусами."
           }
         }
       ]
     },
     {
       "order": 4,
-      "slug": "sweet",
+      "slug": "soupscreams",
       "name_i18n": {
-        "es": "Algo Dulce",
-        "en": "Something Sweet",
-        "pt": "Algo Doce",
-        "fr": "Quelque Chose de Sucré",
-        "de": "Etwas Süßes",
-        "th": "ของหวาน",
-        "ru": "Что-то Сладкое"
+        "es": "Sopas y Cremas",
+        "en": "Soups and Creams",
+        "pt": "Sopas e Cremes",
+        "fr": "Soupes et Crèmes",
+        "de": "Suppen und Cremes",
+        "th": "ซุปและครีม",
+        "ru": "Супы и Кремы"
       },
-      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/dessert.webp",
+      "cover": "",
       "items": [
         {
-          "slug": "tarta-limon",
-          "id": 401,
+          "slug": "gazpacho",
+          "id": 3001,
           "name_i18n": {
-            "es": "Tarta de limón, crème fraîche, ralladura de limón",
-            "en": "Lemon tart, crème fraîche, lemon zest",
-            "pt": "Torta de limão, crème fraîche, raspas de limão",
-            "fr": "Tarte au citron, crème fraîche, zeste de citron",
-            "de": "Zitronentarte, crème fraîche, Zitronenschale",
-            "th": "ทาร์ตเลมอน ครีมเฟรช ผิวเลมอนขูด",
-            "ru": "Лимонный тарт, крем-фреш, цедра лимона"
+            "es": "Gazpacho Andaluz",
+            "en": "Gazpacho",
+            "pt": "Gazpacho Andaluz",
+            "fr": "Gazpacho Andalou",
+            "de": "Andalusisches Gazpacho",
+            "th": "กาซปาโช",
+            "ru": "Гаспачо"
           },
           "price": 7.0,
           "priceCents": 700,
-          "cover": "",
+          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/gazpacho.webp",
           "allergens": [
-            "dairy"
-          ],
-          "description": {
-            "es": "Tarta de limón con crème fraîche y ralladura de limón",
-            "en": "Lemon tart with crème fraîche and lemon zest",
-            "pt": "Torta de limão com crème fraîche e raspas de limão",
-            "fr": "Tarte au citron avec crème fraîche et zeste de citron",
-            "de": "Zitronentarte mit crème fraîche und Zitronenschale",
-            "th": "ทาร์ตเลมอนกับครีมเฟรชและผิวเลมอนขูด",
-            "ru": "Лимонный тарт с крем-фреш и цедрой лимона"
-          }
-        },
-        {
-          "slug": "flan-naranja",
-          "id": 402,
-          "name_i18n": {
-            "es": "Flan de naranja, naranja confitada",
-            "en": "Orange flan, candied orange",
-            "pt": "Flan de laranja, laranja confitada",
-            "fr": "Flan à l'orange, orange confite",
-            "de": "Orangenflan, kandierte Orange",
-            "th": "ฟลันส้ม ส้มเชื่อม",
-            "ru": "Апельсиновый флан, апельсин в сахаре"
-          },
-          "price": 7.0,
-          "priceCents": 700,
-          "cover": "",
-          "allergens": [
-            "dairy"
-          ],
-          "description": {
-            "es": "Flan de naranja con trozos de naranja confitada",
-            "en": "Orange flan with candied orange pieces",
-            "pt": "Flan de laranja com pedaços de laranja confitada",
-            "fr": "Flan à l'orange avec morceaux d'orange confite",
-            "de": "Orangenflan mit kandierten Orangenstücken",
-            "th": "ฟลันส้มกับชิ้นส้มเชื่อม",
-            "ru": "Апельсиновый флан с кусочками апельсина в сахаре"
-          }
-        },
-        {
-          "slug": "torrijas-chocolate",
-          "id": 403,
-          "name_i18n": {
-            "es": "Torrijas, chocolate cremoso",
-            "en": "Torrijas, creamy chocolate",
-            "pt": "Torrijas, chocolate cremoso",
-            "fr": "Torrijas, chocolat crémeux",
-            "de": "Torrijas, cremige Schokolade",
-            "th": "โทริฆาส ช็อกโกแลตครีมมี่",
-            "ru": "Торрихас, кремовый шоколад"
-          },
-          "price": 8.5,
-          "priceCents": 850,
-          "cover": "",
-          "allergens": [
-            "dairy",
             "gluten"
           ],
           "description": {
-            "es": "Torrijas tradicionales con una salsa de chocolate cremoso",
-            "en": "Traditional torrijas with a creamy chocolate sauce",
-            "pt": "Torrijas tradicionais com um molho de chocolate cremoso",
-            "fr": "Torrijas traditionnelles avec une sauce au chocolat crémeux",
-            "de": "Traditionelle Torrijas mit einer cremigen Schokoladensauce",
-            "th": "โทริฆาสแบบดั้งเดิมกับซอสช็อกโกแลตครีมมี่",
-            "ru": "Традиционные торрихас с кремовым шоколадным соусом"
+            "es": "Una sopa fría de tomate, pepino, pimiento, ajo y aceite de oliva, típica de Andalucía, ideal para el verano.",
+            "en": "A cold soup made with tomato, cucumber, bell pepper, garlic, and olive oil, typical of Andalusia, perfect for summer.",
+            "pt": "Uma sopa fria feita com tomate, pepino, pimentão, alho e azeite, típica da Andaluzia, perfeita para o verão.",
+            "fr": "Une soupe froide faite de tomate, concombre, poivron, ail et huile d'olive, typique de l'Andalousie, parfaite pour l'été.",
+            "de": "Eine kalte Suppe aus Tomate, Gurke, Paprika, Knoblauch und Olivenöl, typisch für Andalusien, perfekt für den Sommer.",
+            "th": "ซุปเย็นทำจากมะเขือเทศ แตงกวา พริกหวาน กระเทียม และน้ำมันมะกอก ซึ่งเป็นเมนูที่นิยมในแคว้นอันดาลูเซีย เหมาะสำหรับฤดูร้อน",
+            "ru": "Холодный суп из помидоров, огурцов, болгарского перца, чеснока и оливкового масла, типичный для Андалусии, идеально подходит для лета."
+          }
+        },
+        {
+          "slug": "salmorejo",
+          "id": 3002,
+          "name_i18n": {
+            "es": "Salmorejo Cordobés",
+            "en": "Salmorejo",
+            "pt": "Salmorejo Cordobês",
+            "fr": "Salmorejo Cordouan",
+            "de": "Cordoba Salmorejo",
+            "th": "ซัลโมเรโฆ",
+            "ru": "Сальморехо"
+          },
+          "price": 8.5,
+          "priceCents": 850,
+          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/salmorejo.webp",
+          "allergens": [
+            "gluten",
+            "eggs"
+          ],
+          "description": {
+            "es": "Salmorejo, una crema fría de tomate y pan, típica de Córdoba, más espesa que el gazpacho y a menudo servida con huevo duro y jamón.",
+            "en": "Salmorejo, a cold cream of tomato and bread, typical of Córdoba, thicker than gazpacho and often served with hard-boiled egg and ham.",
+            "pt": "Salmorejo, uma crema fria de tomate e pão, típica de Córdoba, mais espessa que o gazpacho e muitas vezes servida com ovo cozido e presunto.",
+            "fr": "Salmorejo, une crème froide de tomate et pain, typique de Cordoue, plus épaisse que le gazpacho et souvent servie avec œuf dur et jambon.",
+            "de": "Salmorejo, eine kalte Tomaten-Brot-Creme, typisch für Córdoba, dicker als Gazpacho und oft serviert mit hartgekochtem Ei und Schinken.",
+            "th": "ซัลโมเรโฆ เป็นครีมเย็นทำจากมะเขือเทศและขนมปัง ซึ่งเป็นที่นิยมในเมืองคอร์โดบา มีความเข้มข้นกว่ากาซปาโช และมักเสิร์ฟพร้อมไข่ต้มและแฮม",
+            "ru": "Сальморехо, холодная крем-суп из помидоров и хлеба, типичная для Кордовы, гуще, чем гаспачо, и часто подается с вареным яйцом и ветчиной."
+          }
+        },
+        {
+          "slug": "garlicsoup",
+          "id": 3003,
+          "name_i18n": {
+            "es": "Sopa de Ajo",
+            "en": "Garlic Soup",
+            "pt": "Sopa de Alho",
+            "fr": "Soupe à l'Ail",
+            "de": "Knoblauchsuppe",
+            "th": "ซุปกระเทียม",
+            "ru": "Чесночный суп"
+          },
+          "price": 8.0,
+          "priceCents": 800,
+          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/garlicsoup.webp",
+          "allergens": [
+            "gluten",
+            "eggs"
+          ],
+          "description": {
+            "es": "Sopa de Ajo, una sopa caliente y reconfortante hecha con ajo, pan, pimentón y huevo, típica de la cocina castellana.",
+            "en": "Garlic Soup, a hot and comforting soup made with garlic, bread, paprika, and egg, typical of Castilian cuisine.",
+            "pt": "Sopa de Alho, uma sopa quente e reconfortante feita com alho, pão, páprica e ovo, típica da culinária castelhana.",
+            "fr": "Soupe à l'Ail, une soupe chaude et réconfortante faite d'ail, pain, paprika et œuf, typique de la cuisine castillane.",
+            "de": "Knoblauchsuppe, eine heiße und tröstliche Suppe aus Knoblauch, Brot, Paprika und Ei, typisch für die kastilische Küche.",
+            "th": "ซุปกระเทียม เป็นซุปอุ่นๆ ที่ทำจากกระเทียม ขนมปัง ปาปริก้า และไข่ ซึ่งเป็นที่นิยมในอาหารคาสติลเลียน",
+            "ru": "Чесночный суп, горячий и согревающий суп из чеснока, хлеба, паприки и яйца, типичный для кастильской кухни."
           }
         }
       ]
     },
     {
       "order": 5,
-      "slug": "bread",
+      "slug": "main",
       "name_i18n": {
-        "es": "Servicio de Pan",
-        "en": "Bread service",
-        "pt": "Serviço de Pão",
-        "fr": "Service de Pain",
-        "de": "Brotservice",
-        "th": "บริการขนมปัง",
-        "ru": "Хлебное Обслуживание"
+        "es": "Platos Principales",
+        "en": "Main Courses",
+        "pt": "Pratos Principais",
+        "fr": "Plats Principaux",
+        "de": "Hauptgerichte",
+        "th": "จานหลัก",
+        "ru": "Основные Блюда"
       },
-      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/bread.webp",
-      "items": [
+      "cover": "",
+      "subcategories": [
         {
-          "slug": "focaccia-grill",
-          "id": 501,
+          "slug": "meat",
           "name_i18n": {
-            "es": "Focaccia al grill, garbanzos y tomate",
-            "en": "Grilled focaccia, chickpeas and tomato",
-            "pt": "Focaccia grelhada, grão-de-bico e tomate",
-            "fr": "Focaccia grillée, pois chiches et tomate",
-            "de": "Gegrillte Focaccia, Kichererbsen und Tomate",
-            "th": "โฟคาเซียย่าง ถั่วชิกพี และมะเขือเทศ",
-            "ru": "Фокачча на гриле, нут и помидор"
+            "es": "Carnes",
+            "en": "Meat",
+            "pt": "Carnes",
+            "fr": "Viandes",
+            "de": "Fleisch",
+            "th": "เนื้อสัตว์",
+            "ru": "Мясные Блюда"
           },
-          "price": 3.0,
-          "priceCents": 300,
-          "cover": "",
-          "allergens": [
-            "gluten"
-          ],
-          "description": {
-            "es": "Focaccia al grill acompañada de garbanzos y tomate fresco",
-            "en": "Grilled focaccia served with chickpeas and fresh tomato",
-            "pt": "Focaccia grelhada acompanhada de grão-de-bico e tomate fresco",
-            "fr": "Focaccia grillée servie avec pois chiches et tomate frais",
-            "de": "Gegrillte Focaccia serviert mit Kichererbsen und frischer Tomate",
-            "th": "โฟคาเซียย่างเสิร์ฟพร้อมถั่วชิกพีและมะเขือเทศสด",
-            "ru": "Фокачча на гриле, подается с нутом и свежим помидором"
-          }
+          "items": [
+            {
+              "id": 5001,
+              "name_i18n": {
+                "common": "beefsteak",
+                "es": "Chuletón de Buey",
+                "en": "Beef Steak",
+                "pt": "Bife de Vaca",
+                "fr": "Côte de Bœuf",
+                "de": "Rindersteak",
+                "th": "สเต็กเนื้อวัว",
+                "ru": "Говяжий Стейк"
+              },
+              "price": 24.0,
+              "priceCents": 2400,
+              "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/chuletonbuey.webp",
+              "allergens": [],
+              "description": {
+                "es": "Un chuletón de buey a la parrilla, jugoso y tierno, servido con guarnición de patatas y verduras asadas. Es un plato emblemático de la cocina española.",
+                "en": "A grilled beef steak, juicy and tender, served with a side of potatoes and roasted vegetables. It is an iconic dish of Spanish cuisine.",
+                "pt": "Um bife de vaca grelhado, suculento e macio, servido com acompanhamento de batatas e legumes assados. É um prato icônico da culinária espanhola.",
+                "fr": "Une côte de bœuf grillée, juteuse et tendre, servie avec un accompagnement de pommes de terre et de légumes rôtis. C'est un plat emblématique de la cuisine espagnole.",
+                "de": "Ein gegrilltes Rindersteak, saftig und zart, serviert mit einer Beilage aus Kartoffeln und geröstetem Gemüse. Es ist ein ikonisches Gericht der spanischen Küche.",
+                "th": "สเต็กเนื้อวัวย่างที่ฉ่ำและนุ่ม เสิร์ฟพร้อมกับมันฝรั่งและผักย่าง เป็นจานที่เป็นเอกลักษณ์ของอาหารสเปน",
+                "ru": "Жареный говяжий стейк, сочный и нежный, подается с гарниром из картофеля и запеченных овощей. Это знаковое блюдо испанской кухни."
+              }
+            },
+            {
+              "id": 5002,
+              "name_i18n": {
+                "common": "roastpig",
+                "es": "Cochinillo Asado",
+                "en": "Roast Suckling Pig",
+                "pt": "Leitão assado",
+                "fr": "Cochon de lait rôti",
+                "de": "Spanferkelbraten",
+                "th": "หมูย่าง",
+                "ru": "Запеченный поросенок"
+              },
+              "price": 27.0,
+              "priceCents": 2700,
+              "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/cochinillo.webp",
+              "allergens": [],
+              "description": {
+                "es": "Un cochinillo asado, tierno y crujiente, típico de la región de Castilla y León, servido con ensalada y patatas asadas. Es un plato festivo muy apreciado.",
+                "en": "A roast suckling pig, tender and crispy, typical of the Castilla y León region, served with salad and roasted potatoes. It is a highly appreciated festive dish.",
+                "pt": "Um leitão assado tenro e crocante, típico da região de Castela e Leão, servido com salada e batatas assadas. É um prato festivo muito apreciado.",
+                "fr": "Un cochon de lait rôti, tendre et croustillant, typique de la région de Castille et León, servi avec une salade et des pommes de terre rôties. C'est un plat festif très apprécié.",
+                "de": "Ein Spanferkelbraten, zart und knusprig, typisch für die Region Kastilien und León, serviert mit Salat und gerösteten Kartoffeln. Es ist ein sehr geschätztes Festtagsgericht.",
+                "th": "หมูย่างที่นุ่มและกรอบ ซึ่งเป็นที่นิยมในแคว้นคาสตีลและลีออน เสิร์ฟพร้อมสลัดและมันฝรั่งย่าง เป็นจานเทศกาลที่ได้รับความนิยมอย่างมาก",
+                "ru": "Запеченный поросенок, нежный и хрустящий, типичный для региона Кастилия и Леон, подается с салатом и запеченным картофелем. Это очень ценимое праздничное блюдо."
+              }
+            },
+            {
+              "id": 5003,
+              "name_i18n": {
+                "common": "garlicchicken",
+                "es": "Pollo al Ajillo",
+                "en": "Garlic Chicken",
+                "pt": "Frango ao Alho",
+                "fr": "Poulet à l'Ail",
+                "de": "Knoblauchhähnchen",
+                "th": "ไก่กระเทียม",
+                "ru": "Курица с чесноком"
+              },
+              "price": 16.5,
+              "priceCents": 1650,
+              "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/polloajillo.webp",
+              "allergens": [
+                "garlic"
+              ],
+              "description": {
+                "es": "Pollo al ajillo, un plato de pollo frito con abundante ajo y aceite de oliva, a menudo acompañado de arroz o patatas. Es un plato sabroso y muy común en toda España.",
+                "en": "Garlic chicken, a dish of fried chicken with plenty of garlic and olive oil, often accompanied by rice or potatoes. It is a flavorful dish very common throughout Spain.",
+                "pt": "Frango ao alho, um prato de frango frito com bastante alho e azeite, muitas vezes acompanhado de arroz ou batatas. É um prato saboroso muito comum em toda a Espanha.",
+                "fr": "Poulet à l'ail, un plat de poulet frit avec beaucoup d'ail et d'huile d'olive, souvent accompagné de riz ou de pommes de terre. C'est un plat savoureux très courant dans toute l'Espagne.",
+                "de": "Knoblauchhähnchen, ein Gericht aus gebratenem Hähnchen mit viel Knoblauch und Olivenöl, oft begleitet von Reis oder Kartoffeln. Es ist ein geschmackvolles Gericht, das in ganz Spanien sehr verbreitet ist.",
+                "th": "ไก่กระเทียม เป็นจานไก่ทอดที่มีการใช้กระเทียมและน้ำมันมะกอกมาก มักจะเสิร์ฟพร้อมข้าวหรือมันฝรั่ง เป็นจานที่อร่อยและเป็นที่นิยมมากในสเปน",
+                "ru": "Курица с чесноком, блюдо из жареной курицы с большим количеством чеснока и оливкового масла, часто подается с рисом или картофелем. Это вкусное блюдо очень распространено по всей Испании."
+              }
+            }
+          ]
+        },
+        {
+          "slug": "fishseafood",
+          "name_i18n": {
+            "es": "Pescados y Mariscos",
+            "en": "Fish and Seafood",
+            "pt": "Fish and Seafood",
+            "fr": "Poissons et Fruits de Mer",
+            "de": "Fisch und Meeresfrüchte",
+            "th": "ปลาและอาหารทะเล",
+            "ru": "Рыба и Морепродукты"
+          },
+          "items": [
+            {
+              "id": 6001,
+              "name_i18n": {
+                "common": "codfish",
+                "es": "Bacalao a la Vizcaína",
+                "en": "Codfish Vizcaína",
+                "pt": "Bacalhau à Vizcaína",
+                "fr": "Morue à la Vizcaína",
+                "de": "Kabeljau Vizcaína",
+                "th": "ปลาค็อดวิซкайนา",
+                "ru": "Треска по-вискайски"
+              },
+              "price": 21.0,
+              "priceCents": 2100,
+              "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/bacalao.webp",
+              "allergens": [
+                "fish"
+              ],
+              "description": {
+                "es": "Bacalao a la Vizcaína, un plato de bacalao cocinado con una salsa de pimientos choriceros, cebolla y tomate, típico del País Vasco.",
+                "en": "Codfish Vizcaína, a dish of cod cooked with a sauce of choricero peppers, onion, and tomato, typical of the Basque Country.",
+                "pt": "Bacalhau à Vizcaína, um prato de bacalhau cozido com um molho de pimentões choriceros, cebola e tomate, típico do País Basco.",
+                "fr": "Morue à la Vizcaína, un plat de morue cuisiné avec une sauce de poivrons choriceros, oignon et tomate, typique du Pays Basque.",
+                "de": "Kabeljau Vizcaína, ein Gericht aus Kabeljau, gekocht mit einer Sauce aus Choricero-Paprika, Zwiebeln und Tomaten, typisch für das Baskenland.",
+                "th": "ปลาค็อดวิซкайนา เป็นจานปลาค็อดที่ปรุงด้วยซอสพริกชอริเซโร หัวหอม และมะเขือเทศ ซึ่งเป็นที่นิยมในแคว้นบาสก์",
+                "ru": "Треска по-вискайски, блюдо из трески, приготовленной с соусом из перца чориcеро, лука и помидоров, типичное для Страны Басков."
+              }
+            },
+            {
+              "id": 6002,
+              "name_i18n": {
+                "common": "hakeincider",
+                "es": "Merluza a la Sidra",
+                "en": "Hake in Cider",
+                "pt": "Pescada na Sidra",
+                "fr": "Merluza à la Cidre",
+                "de": "Seehecht in Cidre",
+                "th": "ปลาฮาเกะในไซเดอร์",
+                "ru": "Пикша в сидре"
+              },
+              "price": 23.5,
+              "priceCents": 2350,
+              "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/merluza.webp",
+              "allergens": [
+                "fish"
+              ],
+              "description": {
+                "es": "Merluza a la Sidra, un plato de merluza cocinada en una salsa de sidra, cebolla y manzana, típico de Asturias. Es un plato sabroso y aromático.",
+                "en": "Hake in Cider, a dish of hake cooked in a sauce of cider, onion, and apple, typical of Asturias. It is a flavorful and aromatic dish.",
+                "pt": "Pescada na Sidra, um prato de pescada cozida em um molho de sidra, cebola e maçã, típico das Astúrias. É um prato saboroso e aromático.",
+                "fr": "Merluza à la Cidre, un plat de merluza cuisiné dans une sauce de cidre, oignon et pomme, typique des Asturies. C'est un plat savoureux et aromatique.",
+                "de": "Seehecht in Cidre, ein Gericht aus Seehecht, gekocht in einer Sauce aus Cidre, Zwiebeln und Äpfeln, typisch für Asturien. Es ist ein geschmackvolles und aromatisches Gericht.",
+                "th": "ปลาฮาเกะในไซเดอร์ เป็นจานปลาฮาเกะที่ปรุงในซอสไซเดอร์ หัวหอม และแอปเปิ้ล ซึ่งเป็นที่นิยมในแคว้นอัสตูเรียส เป็นจานที่มีรสชาติและกลิ่นหอม",
+                "ru": "Пикша в сидре, блюдо из пикши, приготовленной в соусе из сидра, лука и яблока, типичное для Астурии. Это вкусное и ароматное блюдо."
+              }
+            },
+            {
+              "id": 6003,
+              "name_i18n": {
+                "common": "seafoodpaella",
+                "es": "Paella de Mariscos",
+                "en": "Seafood Paella",
+                "pt": "Paella de Mariscos",
+                "fr": "Paella de Fruits de Mer",
+                "de": "Meeresfrüchte Paella",
+                "th": "ข้าวผัดทะเล",
+                "ru": "Паэлья с Морепродуктами"
+              },
+              "price": 19.0,
+              "priceCents": 1900,
+              "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/paellamariscos.webp",
+              "allergens": [
+                "garlic",
+                "crustaceans",
+                "molluscs",
+                "fish"
+              ],
+              "description": {
+                "es": "Paella de Mariscos, un plato emblemático de la cocina española, hecho con arroz, mariscos frescos como gambas, mejillones y calamares, cocinado con azafrán y alioli. Es un plato festivo muy popular.",
+                "en": "Seafood Paella, an iconic dish of Spanish cuisine, made with rice, fresh seafood such as shrimp, mussels, and squid, cooked with saffron and alioli. It is a festive dish very popular.",
+                "pt": "Paella de Mariscos, um prato icônico da culinária espanhola, feito com arroz, frutos do mar frescos como camarões, mexilhões e lulas, cozido com açafrão e alioli. É um prato festivo muito popular.",
+                "fr": "Paella de Fruits de Mer, un plat emblématique de la cuisine espagnole, fait avec du riz, des fruits de mer frais tels que des crevettes, des moules et des calamars, cuisiné avec du safran et de l'alioli. C'est un plat festif très populaire.",
+                "de": "Meeresfrüchte Paella, ein ikonisches Gericht der spanischen Küche, zubereitet mit Reis, frischen Meeresfrüchten wie Garnelen, Muscheln und Tintenfisch, gekocht mit Safran und Alioli. Es ist ein sehr beliebtes Festtagsgericht.",
+                "th": "ข้าวผัดทะเล เป็นจานที่เป็นเอกลักษณ์ของอาหารสเปน ทำจากข้าวและอาหารทะเลสด เช่น กุ้ง หอยแมลงภู่ และปลาหมึก ปรุงด้วยหญ้าฝรั่นและอาลิโอลี เป็นจานที่นิยมในงานเทศกาล",
+                "ru": "Паэлья с Морепродуктами, знаковое блюдо испанской кухни, приготовленное из риса, свежих морепродуктов, таких как креветки, мидии и кальмары, с добавлением шафрана и алиоли. Это очень популярное праздничное блюдо."
+              }
+            }
+          ]
+        },
+        {
+          "slug": "rices",
+          "name_i18n": {
+            "es": "Arroces",
+            "en": "Rice Dishes",
+            "pt": "Arroz",
+            "fr": "Plats de Riz",
+            "de": "Reisgerichte",
+            "th": "จานข้าว",
+            "ru": "Рисовые Блюда"
+          },
+          "items": [
+            {
+              "id": 7001,
+              "name_i18n": {
+                "common": "valencianapaella",
+                "es": "Paella Valenciana",
+                "en": "Valencian Paella",
+                "pt": "Paella Valenciana",
+                "fr": "Paella Valencienne",
+                "de": "Valencianische Paella",
+                "th": "ข้าวผัดวาเลนเซีย",
+                "ru": "Валенсийская Паэлья"
+              },
+              "price": 21.0,
+              "priceCents": 2100,
+              "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/paellavalenciana.webp",
+              "allergens": [
+                "fish"
+              ],
+              "description": {
+                "es": "Paella Valenciana, un plato tradicional de la Comunidad Valenciana, hecho con arroz, pollo, conejo, judía verde y garrofó, cocinado con azafrán. Es un plato festivo muy popular.",
+                "en": "Valencian Paella, a traditional dish from the Valencian Community, made with rice, chicken, rabbit, green beans, and garrofó beans, cooked with saffron. It is a highly popular festive dish.",
+                "pt": "Paella Valenciana, um prato tradicional da Comunidade Valenciana, feito com arroz, frango, coelho, vagens verdes e feijão garrofó, cozido com açafrão. É um prato festivo muito popular.",
+                "fr": "Paella Valencienne, un plat traditionnel de la Communauté Valencienne, fait avec du riz, poulet, lapin, haricots verts et haricots garrofó, cuisiné avec du safran. C'est un plat festif très populaire.",
+                "de": "Valencianische Paella, ein traditionelles Gericht aus der Valencianischen Gemeinschaft, zubereitet mit Reis, Huhn, Kaninchen, grünen Bohnen und Garrofó-Bohnen, gekocht mit Safran. Es ist ein sehr beliebtes Festtagsgericht.",
+                "th": "ข้าวผัดวาเลนเซีย เป็นจานดั้งเดิมจากชุมชนวาเลนเซีย ทำจากข้าว ไก่ กระต่าย ถั่วเขียว และถั่วการอฟโฟ ปรุงด้วยหญ้าฝรั่น เป็นจานเทศกาลที่ได้รับความนิยมอย่างมาก",
+                "ru": "Валенсийская Паэлья, традиционное блюдо из Валенсийского сообщества, приготовленное из риса, курицы, кролика, зеленой фасоли и фасоли гаррофо, с добавлением шафрана. Это очень популярное праздничное блюдо."
+              }
+            },
+            {
+              "id": 7002,
+              "name_i18n": {
+                "common": "blackrice",
+                "es": "Arroz Negro",
+                "en": "Black Rice",
+                "pt": "Arroz preto",
+                "fr": "Arroz Noir",
+                "de": "Schwarzer Reis",
+                "th": "ข้าวดำ",
+                "ru": "Черный Рис"
+              },
+              "price": 23.5,
+              "priceCents": 2350,
+              "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/arroznegro.webp",
+              "allergens": [
+                "fish"
+              ],
+              "description": {
+                "es": "Arroz con tinta de calamar, calamares y alioli.",
+                "en": "Black Rice with squid ink, squid, and alioli.",
+                "pt": "Arroz preto com tinta de lula, lulas e alioli.",
+                "fr": "Arroz Noir avec encre de calmar, calmars et alioli.",
+                "de": "Schwarzer Reis mit Tintenfisch-Tinte, Tintenfischen und Alioli.",
+                "th": "ข้าวดำกับหมึกปลาหมึก ปลาหมึก และอาลิโอลี",
+                "ru": "Черный Рис с чернилами кальмара, кальмарами и алиоли."
+              }
+            },
+            {
+              "id": 7003,
+              "name_i18n": {
+                "common": "abandarice",
+                "es": "Arroz a Banda",
+                "en": "A Banda Rice",
+                "pt": "Arroz a Banda",
+                "fr": "Arroz a Banda",
+                "de": "A Banda Reis",
+                "th": "ข้าวอาบันดา",
+                "ru": "A Banda Рис"
+              },
+              "price": 19.0,
+              "priceCents": 1900,
+              "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/arrozabanda.webp",
+              "allergens": [
+                "garlic",
+                "crustaceans",
+                "molluscs",
+                "fish"
+              ],
+              "description": {
+                "es": "Arroz a Banda, un plato de arroz cocinado con caldo de pescado, acompañado de alioli y a menudo con mariscos como gambas y mejillones. Es un plato típico de la costa mediterránea.l",
+                "en": "A Banda Rice, a dish of rice cooked with fish broth, accompanied by alioli and often with seafood such as shrimp and mussels. It is a typical dish of the Mediterranean coast.",
+                "pt": "Arroz a Banda, um prato de arroz cozido com caldo de peixe, acompanhado de alioli e muitas vezes com frutos do mar como camarões e mexilhões. É um prato típico da costa mediterrânea.",
+                "fr": "Arroz a Banda, un plat de riz cuit avec du bouillon de poisson, accompagné d'alioli et souvent de fruits de mer tels que des crevettes et des moules. C'est un plat typique de la côte méditerranéenne.",
+                "de": "A Banda Reis, ein Gericht aus Reis, gekocht mit Fischbrühe, begleitet von Alioli und oft mit Meeresfrüchten wie Garnelen und Muscheln. Es ist ein typisches Gericht der Mittelmeerküste.",
+                "th": "ข้าวอาบันดา เป็นจานข้าวที่ปรุงด้วยน้ำซุปปลา เสิร์ฟพร้อมอาลิโอลีและมักจะมีอาหารทะเล เช่น กุ้งและหอยแมลงภู่ เป็นจานที่เป็นเอกลักษณ์ของชายฝั่งเมดิเตอร์เรเนียน",
+                "ru": "A Banda Рис, блюдо из риса, приготовленного с рыбным бульоном, подается с алиоли и часто с морепродуктами, такими как креветки и мидии. Это типичное блюдо средиземноморского побережья."
+              }
+            }
+          ]
         }
       ]
     },
     {
       "order": 6,
+      "slug": "sides",
+      "name_i18n": {
+        "es": "Guarniciones",
+        "en": "Sides",
+        "pt": "Acompanhamentos",
+        "fr": "Accompagnements",
+        "de": "Beilagen",
+        "th": "ข้างเคียง",
+        "ru": "Гарниры"
+      },
+      "cover": "",
+      "items": [
+        {
+          "slug": "padronpeppers",
+          "id": 8001,
+          "name_i18n": {
+            "es": "Pimientos de Padrón",
+            "en": "Padrón Peppers",
+            "pt": "Pimentões de Padrón",
+            "fr": "Piments de Padrón",
+            "de": "Padrón-Paprika",
+            "th": "พริกพาดรอน",
+            "ru": "Паприка Падрон"
+          },
+          "price": 7.0,
+          "priceCents": 700,
+          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/pimientospadron.webp",
+          "allergens": [
+            "gluten"
+          ],
+          "description": {
+            "es": "Pimientos de Padrón, pequeños pimientos verdes fritos en aceite de oliva, típicos de Galicia. Algunos son picantes, otros no, lo que los hace un aperitivo divertido.",
+            "en": "Padrón Peppers, small green peppers fried in olive oil, typical of Galicia. Some are spicy, others are not, making them a fun appetizer.",
+            "pt": "Pimentões de Padrón, pequenos pimentões verdes fritos em azeite de oliva, típicos da Galícia. Alguns são picantes, outros não, tornando-os um aperitivo divertido.",
+            "fr": "Piments de Padrón, petits piments verts frits dans de l'huile d'olive, typiques de la Galice. Certains sont épicés, d'autres ne le sont pas, ce qui en fait une entrée amusante.",
+            "de": "Padrón-Paprika, kleine grüne Paprika, in Olivenöl frittiert, typisch für Galicien. Einige sind scharf, andere nicht, was sie zu einem unterhaltsamen Appetitanreger macht.",
+            "th": "พริกพาดรอน เป็นพริกเขียวเล็กๆ ที่ทอดในน้ำมันมะกอก ซึ่งเป็นที่นิยมในแคว้นกาลิเซีย บางลูกเผ็ด บางลูกไม่เผ็ด ทำให้เป็นของว่างที่สนุกสนาน",
+            "ru": "Паприка Падрон, маленькие зеленые перцы, жареные в оливковом масле, типичные для Галисии. Некоторые острые, другие нет, что делает их веселой закуской."
+          }
+        },
+        {
+          "slug": "fries",
+          "id": 8002,
+          "name_i18n": {
+            "es": "Patatas Fritas",
+            "en": "French Fries",
+            "pt": "Batatas Fritas",
+            "fr": "Frites",
+            "de": "Pommes Frites",
+            "th": "เฟรนช์ฟรายส์",
+            "ru": "Картофель Фри"
+          },
+          "price": 8.5,
+          "priceCents": 850,
+          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/patatasfritas.webp",
+          "allergens": [
+            "gluten",
+            "eggs"
+          ],
+          "description": {
+            "es": "Patatas Fritas, crujientes y doradas, servidas con sal. Son un acompañamiento clásico que combina bien con casi cualquier plato.",
+            "en": "French Fries, crispy and golden, served with salt. They are a classic side that pairs well with almost any dish.",
+            "pt": "Batatas Fritas, crocantes e douradas, servidas com sal. São um acompanhamento clássico que combina bem com quase qualquer prato.",
+            "fr": "Frites, croustillantes et dorées, servies avec du sel. Elles sont un accompagnement classique qui se marie bien avec presque tous les plats.",
+            "de": "Pommes Frites, knusprig und goldbraun, serviert mit Salz. Sie sind eine klassische Beilage, die gut zu fast jedem Gericht passt.",
+            "th": "เฟรนช์ฟรายส์ เป็นมันฝรั่งทอดที่กรอบและมีสีทอง เสิร์ฟพร้อมเกลือ เป็นข้างเคียงคลาสสิกที่เข้ากันได้ดีกับเกือบทุกจาน",
+            "ru": "Картофель Фри, хрустящий и золотистый, подается с солью. Это классический гарнир, который хорошо сочетается почти с любым блюдом."
+          }
+        },
+        {
+          "slug": "trigueros",
+          "id": 8003,
+          "name_i18n": {
+            "es": "Espárragos Trigueros",
+            "en": "Green Asparagus",
+            "pt": "Aspargos Verdes",
+            "fr": "Asperges Vertes",
+            "de": "Grüne Spargel",
+            "th": "หน่อไม้ฝรั่งเขียว",
+            "ru": "Зеленые Спаржи"
+          },
+          "price": 8.0,
+          "priceCents": 800,
+          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/trigueros.webp",
+          "allergens": [
+            "gluten",
+            "eggs"
+          ],
+          "description": {
+            "es": "Espárragos Trigueros, espárragos verdes frescos asados o salteados, típicos de la primavera. Son un acompañamiento saludable y delicioso.",
+            "en": "Green Asparagus, fresh green asparagus roasted or sautéed, typical of spring. They are a healthy and delicious side dish.",
+            "pt": "Aspargos Verdes, aspargos verdes frescos assados ou salteados, típicos da primavera. São um acompanhamento saudável e delicioso.",
+            "fr": "Asperges Vertes, des asperges vertes fraîches rôties ou sautées, typiques du printemps. Elles sont un accompagnement sain et délicieux.",
+            "de": "Grüne Spargel, frische grüne Spargel, geröstet oder sautiert, typisch für den Frühling. Sie sind eine gesunde und köstliche Beilage.",
+            "th": "หน่อไม้ฝรั่งเขียว เป็นหน่อไม้ฝรั่งเขียวสดที่ย่างหรือผัด ซึ่งเป็นที่นิยมในฤดูใบไม้ผลิ เป็นข้างเคียงที่ดีต่อสุขภาพและอร่อย",
+            "ru": "Зеленые Спаржи, свежие зеленые спаржи, запеченные или обжаренные, типичные для весны. Это здоровый и вкусный гарнир."
+          }
+        },
+        {
+          "slug": "vegs",
+          "id": 8004,
+          "name_i18n": {
+            "es": "Verduras a la plancha",
+            "en": "Grilled Vegetables",
+            "pt": "Legumes Grelhados",
+            "fr": "Légumes Grillés",
+            "de": "Gegrilltes Gemüse",
+            "th": "ผักย่าง",
+            "ru": "Овощи на гриле"
+          },
+          "price": 8.0,
+          "priceCents": 800,
+          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/verdurasplancha.webp",
+          "allergens": [
+            "gluten",
+            "eggs"
+          ],
+          "description": {
+            "es": "Verduras a la plancha, una mezcla de verduras frescas como pimientos, calabacines y berenjenas, asadas a la parrilla. Son un acompañamiento saludable y lleno de sabor.",
+            "en": "Grilled Vegetables, a mix of fresh vegetables such as peppers, zucchini, and eggplant, grilled to perfection. They are a healthy and flavorful side dish.",
+            "pt": "Legumes Grelhados, uma mistura de legumes frescos como pimentões, abobrinhas e berinjelas, grelhados à perfeição. São um acompanhamento saudável e cheio de sabor.",
+            "fr": "Légumes Grillés, un mélange de légumes frais tels que poivrons, courgettes et aubergines, grillés à la perfection. Ils sont un accompagnement sain et plein de saveur.",
+            "de": "Gegrilltes Gemüse, eine Mischung aus frischem Gemüse wie Paprika, Zucchini und Auberginen, perfekt gegrillt. Sie sind eine gesunde und geschmackvolle Beilage.",
+            "th": "ผักย่าง เป็นการผสมผสานของผักสด เช่น พริก, ซูกินี และมะเขือยาว ที่ย่างจนสุกอย่างลงตัว เป็นข้างเคียงที่ดีต่อสุขภาพและเต็มไปด้วยรสชาติ",
+            "ru": "Овощи на гриле, смесь свежих овощей, таких как перцы, кабачки и баклажаны, идеально приготовленные на гриле. Это здоровый и вкусный гарнир."
+          }
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "slug": "spoondishes",
+      "name_i18n": {
+        "es": "Platos de Cuchara",
+        "en": "Spoon Dishes",
+        "pt": "Pratos de Colher",
+        "fr": "Plats à Cuillère",
+        "de": "Löffelgerichte",
+        "th": "จานช้อน",
+        "ru": "Блюда с Ложкой"
+      },
+      "cover": "",
+      "items": [
+        {
+          "slug": "cocido",
+          "id": 9001,
+          "name_i18n": {
+            "es": "Cocido Madrileño",
+            "en": "Madrid Stew",
+            "pt": "Cozido Madrileno",
+            "fr": "Ragoût Madrilène",
+            "de": "Madrider Eintopf",
+            "th": "สตูว์มาดริด",
+            "ru": "Мадридский Тушеный"
+          },
+          "price": 7.0,
+          "priceCents": 700,
+          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/cocidomadrileno.webp",
+          "allergens": [
+            "gluten"
+          ],
+          "description": {
+            "es": "Cocido Madrileño, un guiso tradicional de Madrid hecho con garbanzos, carne de cerdo, chorizo y verduras. Se sirve en dos partes: primero el caldo y luego los sólidos.",
+            "en": "Madrid Stew, a traditional stew from Madrid made with chickpeas, pork meat, chorizo, and vegetables. It is served in two parts: first the broth and then the solids.",
+            "pt": "Cozido Madrileno, um guisado tradicional de Madrid feito com grão-de-bico, carne de porco, chouriço e legumes. É servido em duas partes: primeiro o caldo e depois os sólidos.",
+            "fr": "Ragoût Madrilène, un ragoût traditionnel de Madrid fait avec des pois chiches, de la viande de porc, du chorizo et des légumes. Il est servi en deux parties : d'abord le bouillon puis les solides.",
+            "de": "Madrider Eintopf, ein traditioneller Eintopf aus Madrid, zubereitet mit Kichererbsen, Schweinefleisch, Chorizo und Gemüse. Er wird in zwei Teilen serviert: zuerst die Brühe und dann die festen Bestandteile.",
+            "th": "สตูว์มาดริด เป็นสตูว์ดั้งเดิมจากมาดริดที่ทำจากถั่วชิกพี เนื้อหมู ไส้กรอกชอริโซ และผัก เสิร์ฟเป็นสองส่วน: น้ำซุปก่อนแล้วตามด้วยของแข็ง",
+            "ru": "Мадридский Тушеный, традиционное тушеное блюдо из Мадрида, приготовленное из нута, свинины, чоризо и овощей. Подается в двух частях: сначала бульон, затем твердые ингредиенты."
+          }
+        },
+        {
+          "slug": "asturiana",
+          "id": 9002,
+          "name_i18n": {
+            "es": "Fabada Asturiana",
+            "en": "Asturian Bean Stew",
+            "pt": "Ensopado de Feijão Asturiano",
+            "fr": "Ragoût de Haricots Asturien",
+            "de": "Asturianisches Bohneneintopf",
+            "th": "สตูว์ถั่วอัสตูเรีย",
+            "ru": "Астурийский Бобовый Тушеный"
+          },
+          "price": 8.0,
+          "priceCents": 800,
+          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/fabadaasturiana.webp",
+          "allergens": [
+            "gluten",
+            "eggs"
+          ],
+          "description": {
+            "es": "Fabada Asturiana, un guiso de alubias blancas con chorizo, morcilla y panceta, típico de Asturias. Es un plato contundente y muy sabroso.",
+            "en": "Asturian Bean Stew, a stew of white beans with chorizo, blood sausage, and pancetta, typical of Asturias. It is a hearty and very flavorful dish.",
+            "pt": "Ensopado de Feijão Asturiano, um guisado de feijão branco com chouriço, morcela e panceta, típico das Astúrias. É um prato robusto e muito saboroso.",
+            "fr": "Ragoût de Haricots Asturien, un ragoût de haricots blancs avec chorizo, boudin noir et pancetta, typique des Asturies. C'est un plat copieux et très savoureux.",
+            "de": "Asturianisches Bohneneintopf, ein Eintopf aus weißen Bohnen mit Chorizo, Blutwurst und Pancetta, typisch für Asturien. Es ist ein herzhaftes und sehr geschmackvolles Gericht.",
+            "th": "สตูว์ถั่วอัสตูเรีย เป็นสตูว์ถั่วขาวที่มีไส้กรอกชอริโซ ไส้กรอกเลือด และพานเซตตา ซึ่งเป็นที่นิยมในแคว้นอัสตูเรียส เป็นจานที่หนักแน่นและมีรสชาติอร่อยมาก",
+            "ru": "Астурийский Бобовый Тушеный, тушеное блюдо из белых бобов с чоризо, кровяной колбасой и панчеттой, типичное для Астурии. Это сытное и очень вкусное блюдо."
+          }
+        },
+        {
+          "slug": "lentils",
+          "id": 9003,
+          "name_i18n": {
+            "es": "Lentejas Estofadas",
+            "en": "Stewed Lentils",
+            "pt": "Lentilhas Estufadas",
+            "fr": "Lentilles Sautés",
+            "de": "Geschmorte Linsen",
+            "th": "เลนทิลสตูว์",
+            "ru": "Тушеные Чечевицы"
+          },
+          "price": 8.0,
+          "priceCents": 800,
+          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/lentejasestofadas.webp",
+          "allergens": [
+            "gluten",
+            "eggs"
+          ],
+          "description": {
+            "es": "Lentejas Estofadas, un guiso de lentejas con verduras, chorizo y panceta. Es un plato nutritivo y reconfortante, ideal para los días fríos.",
+            "en": "Stewed Lentils, a stew of lentils with vegetables, chorizo, and pancetta. It is a nutritious and comforting dish, perfect for cold days.",
+            "pt": "Lentilhas Estufadas, um guisado de lentilhas com legumes, chouriço e panceta. É um prato nutritivo e reconfortante, ideal para dias frios.",
+            "fr": "Lentilles Sautés, un ragoût de lentilles avec des légumes, chorizo et pancetta. C'est un plat nutritif et réconfortant, parfait pour les jours froids.",
+            "de": "Geschmorte Linsen, ein Eintopf aus Linsen mit Gemüse, Chorizo und Pancetta. Es ist ein nahrhaftes und tröstliches Gericht, perfekt für kalte Tage.",
+            "th": "เลนทิลสตูว์ เป็นสตูว์เลนทิลที่มีผัก ไส้กรอกชอริโซ และพานเซตตา เป็นจานที่มีคุณค่าทางโภชนาการและให้ความอบอุ่น เหมาะสำหรับวันที่หนาวเย็น",
+            "ru": "Тушеные Чечевицы, тушеное блюдо из чечевицы с овощами, чоризо и панчеттой. Это питательное и согревающее блюдо, идеально подходящее для холодных дней."
+          }
+        },
+        {
+          "slug": "potegalego",
+          "id": 9004,
+          "name_i18n": {
+            "es": "Pote Gallego",
+            "en": "Galician Stew",
+            "pt": "Ensopado Galego",
+            "fr": "Ragoût Galicien",
+            "de": "Galicischer Eintopf",
+            "th": "สตูว์กาลิเซีย",
+            "ru": "Галисийский Тушеный"
+          },
+          "price": 8.0,
+          "priceCents": 800,
+          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/potegallego.webp",
+          "allergens": [
+            "gluten",
+            "eggs"
+          ],
+          "description": {
+            "es": "Pote Gallego, un guiso gallego hecho con grelos, chorizo, panceta y patatas. Es un plato muy sabroso y nutritivo, ideal para los días fríos.",
+            "en": "Galician Stew, a Galician stew made with turnip tops, chorizo, pancetta, and potatoes. It is a very flavorful and nutritious dish, perfect for cold days.",
+            "pt": "Ensopado Galego, um ensopado galego feito com grelos, chouriço, panceta e batatas. É um prato muito saboroso e nutritivo, ideal para dias frios.",
+            "fr": "Ragoût Galicien, un ragoût galicien fait avec des fanes de navet, chorizo, pancetta et pommes de terre. C'est un plat très savoureux et nutritif, parfait pour les jours froids.",
+            "de": "Galicischer Eintopf, ein galicischer Eintopf aus Rübstiel, Chorizo, Pancetta und Kartoffeln. Es ist ein sehr schmackhaftes und nahrhaftes Gericht, perfekt für kalte Tage.",
+            "th": "สตูว์กาลิเซีย เป็นสตูว์กาลิเซียที่ทำจากยอดหัวผักกาด ไส้กรอกชอริโซ พานเซตตา และมันฝรั่ง เป็นจานที่มีรสชาติอร่อยและมีคุณค่าทางโภชนาการ เหมาะสำหรับวันที่หนาวเย็น",
+            "ru": "Галисийский Тушеный, галисийское тушеное блюдо из верхушек репы, чоризо, панчетты и картофеля. Это очень вкусное и питательное блюдо, идеально подходящее для холодных дней."
+          }
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "slug": "desserts",
+      "name_i18n": {
+        "es": "Postres",
+        "en": "Desserts",
+        "pt": "Sobremesas",
+        "fr": "Desserts",
+        "de": "Desserts",
+        "th": "ของหวาน",
+        "ru": "Десерты"
+      },
+      "cover": "",
+      "items": [
+        {
+          "slug": "eggflan",
+          "id": 10001,
+          "name_i18n": {
+            "es": "Flan de Huevo",
+            "en": "Egg Flan",
+            "pt": "Flan de Ovo",
+            "fr": "Flan aux Oeufs",
+            "de": "Eierflan",
+            "th": "พุดดิ้งไข่",
+            "ru": "Яичный Флан"
+          },
+          "price": 7.0,
+          "priceCents": 700,
+          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/flandehuevo.webp",
+          "allergens": [
+            "gluten"
+          ],
+          "description": {
+            "es": "Flan de Huevo, un postre clásico español hecho con huevos, leche y azúcar, cocido al baño maría. Es suave y cremoso, con un delicioso caramelo por encima.",
+            "en": "Egg Flan, a classic Spanish dessert made with eggs, milk, and sugar, cooked in a water bath. It is soft and creamy, with a delicious caramel topping.",
+            "pt": "Flan de Ovo, uma sobremesa clássica espanhola feita com ovos, leite e açúcar, cozida em banho-maria. É suave e cremosa, com uma deliciosa cobertura de caramelo.",
+            "fr": "Flan aux Oeufs, un dessert classique espagnol fait avec des œufs, du lait et du sucre, cuit au bain-marie. Il est doux et crémeux, avec un délicieux caramel sur le dessus.",
+            "de": "Eierflan, ein klassisches spanisches Dessert aus Eiern, Milch und Zucker, im Wasserbad gegart. Es ist weich und cremig, mit einer köstlichen Karamellschicht obendrauf.",
+            "th": "พุดดิ้งไข่ เป็นของหวานคลาสสิกของสเปนที่ทำจากไข่ นม และน้ำตาล ปรุงในน้ำอุ่น มีความนุ่มและครีมมี่ พร้อมด้วยคาราเมลอร่อยๆ ด้านบน",
+            "ru": "Яичный Флан, классический испанский десерт, приготовленный из яиц, молока и сахара, запеченный на водяной бане. Он мягкий и кремовый, с восхитительной карамельной начинкой сверху."
+          }
+        },
+        {
+          "slug": "catalancream",
+          "id": 10002,
+          "name_i18n": {
+            "es": "Crema Catalana",
+            "en": "Catalan Cream",
+            "pt": "Creme Catalana",
+            "fr": "Crème Catalane",
+            "de": "Katalanische Creme",
+            "th": "ครีมคาตาลัน",
+            "ru": "Каталонская Крема"
+          },
+          "price": 8.0,
+          "priceCents": 800,
+          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/cremacatalana.webp",
+          "allergens": [
+            "gluten",
+            "eggs"
+          ],
+          "description": {
+            "es": "Crema Catalana, un postre típico de Cataluña, similar a la crème brûlée, hecho con yemas de huevo, leche, azúcar y canela. Se carameliza por encima para crear una capa crujiente.",
+            "en": "Catalan Cream, a typical dessert from Catalonia, similar to crème brûlée, made with egg yolks, milk, sugar, and cinnamon. It is caramelized on top to create a crunchy layer.",
+            "pt": "Creme Catalana, uma sobremesa típica da Catalunha, semelhante à crème brûlée, feita com gemas de ovo, leite, açúcar e canela. É caramelizada por cima para criar uma camada crocante.",
+            "fr": "Crème Catalane, un dessert typique de Catalogne, similaire à la crème brûlée, fait avec des jaunes d'œufs, du lait, du sucre et de la cannelle. Il est caramélisé sur le dessus pour créer une couche croustillante.",
+            "de": "Katalanische Creme, ein typisches Dessert aus Katalonien, ähnlich wie Crème brûlée, hergestellt aus Eigelb, Milch, Zucker und Zimt. Es wird oben karamellisiert, um eine knusprige Schicht zu erzeugen.",
+            "th": "ครีมคาตาลัน เป็นของหวานที่เป็นเอกลักษณ์ของแคว้นกาตาลุญญา คล้ายกับครีมบรูเล่ ทำจากไข่แดง นม น้ำตาล และอบเชย มีการทำให้เป็นคาราเมลด้านบนเพื่อสร้างชั้นกรอบ",
+            "ru": "Каталонская Крема, типичный десерт из Каталонии, похожий на крем-брюле, приготовленный из яичных желтков, молока, сахара и корицы. Сверху карамелизуется для создания хрустящей корочки."
+          }
+        },
+        {
+          "slug": "milkedrice",
+          "id": 10003,
+          "name_i18n": {
+            "es": "Arroz con Leche",
+            "en": "Rice Pudding",
+            "pt": "Arroz Doce",
+            "fr": "Riz au Lait",
+            "de": "Milchreis",
+            "th": "ข้าวพุดดิ้ง",
+            "ru": "Рисовый Пудинг"
+          },
+          "price": 8.0,
+          "priceCents": 800,
+          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/arrozleche.webp",
+          "allergens": [
+            "gluten",
+            "eggs"
+          ],
+          "description": {
+            "es": "Arroz con Leche, un postre tradicional español hecho con arroz, leche, azúcar y canela. Es cremoso y reconfortante, ideal para cualquier ocasión.",
+            "en": "Rice Pudding, a traditional Spanish dessert made with rice, milk, sugar, and cinnamon. It is creamy and comforting, perfect for any occasion.",
+            "pt": "Arroz Doce, uma sobremesa tradicional espanhola feita com arroz, leite, açúcar e canela. É cremoso e reconfortante, perfeito para qualquer ocasião.",
+            "fr": "Riz au Lait, un dessert traditionnel espagnol fait avec du riz, du lait, du sucre et de la cannelle. Il est crémeux et réconfortant, parfait pour toute occasion.",
+            "de": "Milchreis, ein traditionelles spanisches Dessert aus Reis, Milch, Zucker und Zimt. Es ist cremig und tröstlich, perfekt für jede Gelegenheit.",
+            "th": "ข้าวพุดดิ้ง เป็นของหวานดั้งเดิมของสเปนที่ทำจากข้าว นม น้ำตาล และอบเชย มีความครีมมี่และให้ความอบอุ่น เหมาะสำหรับทุกโอกาส",
+            "ru": "Рисовый Пудинг, традиционный испанский десерт, приготовленный из риса, молока, сахара и корицы. Он кремовый и согревающий, идеально подходит для любого случая."
+          }
+        },
+        {
+          "slug": "santiagocake",
+          "id": 10004,
+          "name_i18n": {
+            "es": "Tarta de Santiago",
+            "en": "Santiago Cake",
+            "pt": "Bolo de Santiago",
+            "fr": "Gâteau de Santiago",
+            "de": "Santiago Kuchen",
+            "th": "เค้กซานติอาโก",
+            "ru": "Сантьяго Торт"
+          },
+          "price": 8.0,
+          "priceCents": 800,
+          "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/tartasantiago.webp",
+          "allergens": [
+            "gluten",
+            "eggs"
+          ],
+          "description": {
+            "es": "Tarta de Santiago, un pastel tradicional gallego hecho con almendras molidas, azúcar y huevos. Es un postre delicioso y ligero, típico de la región de Galicia.",
+            "en": "Santiago Cake, a traditional Galician cake made with ground almonds, sugar, and eggs. It is a delicious and light dessert, typical of the Galicia region.",
+            "pt": "Bolo de Santiago, um bolo tradicional galego feito com amêndoas moídas, açúcar e ovos. É uma sobremesa deliciosa e leve, típica da região da Galícia.",
+            "fr": "Gâteau de Santiago, un gâteau traditionnel galicien fait avec des amandes moulues, du sucre et des œufs. C'est un dessert délicieux et léger, typique de la région de Galice.",
+            "de": "Santiago Kuchen, ein traditioneller galicischer Kuchen aus gemahlenen Mandeln, Zucker und Eiern. Es ist ein köstliches und leichtes Dessert, typisch für die Region Galicien.",
+            "th": "เค้กซานติอาโก เป็นเค้กดั้งเดิมของแคว้นกาลิเซียที่ทำจากอัลมอนด์บด น้ำตาล และไข่ เป็นของหวานที่อร่อยและเบา เหมาะกับภูมิภาคกาลิเซีย",
+            "ru": "Сантьяго Торт, традиционный галисийский торт, приготовленный из молотого миндаля, сахара и яиц. Это вкусный и легкий десерт, типичный для региона Галисия."
+          }
+        }
+      ]
+    },
+    {
+      "order": 9,
       "slug": "wines",
       "name_i18n": {
         "es": "Vinos",
