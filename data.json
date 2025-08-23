@@ -8,7 +8,8 @@
     "fr",
     "de",
     "th",
-    "ru"
+    "ru",
+    "pl"
   ],
   "assetsBaseUrl": "",
   "logo": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/logo.webp",
@@ -32,7 +33,8 @@
     "fr": "Restaurant italien avec une large variété de plats traditionnels et modernes, des entrées aux desserts, tous préparés avec des ingrédients frais et de haute qualité.",
     "de": "Italienisches Restaurant mit einer großen Auswahl an traditionellen und modernen Gerichten, von Vorspeisen bis zu Desserts, die alle mit frischen, hochwertigen Zutaten zubereitet werden.",
     "th": "ร้านอาหารอิตาเลียนที่มีเมนูหลากหลายตั้งแต่อาหารเรียกน้ำย่อยไปจนถึงของหวาน ทุกจานทำจากวัตถุดิบสดใหม่และมีคุณภาพสูง",
-    "ru": "Итальянский ресторан с широким выбором традиционных и современных блюд, от закусок до десертов, все приготовлено из свежих, высококачественных ингредиентов."
+    "ru": "Итальянский ресторан с широким выбором традиционных и современных блюд, от закусок до десертов, все приготовлено из свежих, высококачественных ингредиентов.",
+    "pl": "Włoska restauracja z szerokim wyborem tradycyjnych i nowoczesnych dań, od przystawek po desery, wszystkie przygotowane ze świeżych, wysokiej jakości składników."
   },
   "aboutContactNums": [
     "+34 123 456 789",
@@ -71,7 +73,8 @@
         "fr": "Menu du Jour",
         "de": "Tagesmenü",
         "th": "เมนูประจำวัน",
-        "ru": "Ежедневное меню"
+        "ru": "Ежедневное меню",
+        "pl": "Menu Dnia"
       },
       "cover": "",
       "subcategories": [
@@ -84,7 +87,8 @@
             "fr": "Premier Plat",
             "de": "Erster Gang",
             "th": "จานแรก",
-            "ru": "Первое Блюдо"
+            "ru": "Первое Блюдо",
+            "pl": "Pierwsze Danie"
           },
           "items": [
             {
@@ -97,7 +101,8 @@
                 "fr": "Soupe à l'Ail",
                 "de": "Knoblauchsuppe",
                 "th": "ซุปกระเทียม",
-                "ru": "Чесночный суп"
+                "ru": "Чесночный суп",
+                "pl": "Zupa Czosnkowa"
               },
               "price": null,
               "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/onionsoup.webp",
@@ -109,7 +114,8 @@
                 "fr": "Une soupe traditionnelle faite avec de l'ail, du pain, du bouillon, du paprika et de l'œuf, très courante en Castille. Elle est simple, savoureuse et parfaite pour les jours froids.",
                 "de": "Eine traditionelle Suppe aus Knoblauch, Brot, Brühe, Paprika und Ei, sehr verbreitet in Kastilien. Sie ist einfach, geschmackvoll und perfekt für kalte Tage.",
                 "th": "ซุปแบบดั้งเดิมที่ทำจากกระเทียม ขนมปัง น้ำซุป ปาปริก้า และไข่ ซึ่งเป็นที่นิยมมากในแคว้นคาสตีล เป็นซุปที่เรียบง่าย อร่อย และเหมาะสำหรับวันที่หนาวเย็น",
-                "ru": "Традиционный суп из чеснока, хлеба, бульона, паприки и яйца, очень распространенный в Кастилии. Он простой, вкусный и идеален для холодных дней."
+                "ru": "Традиционный суп из чеснока, хлеба, бульона, паприки и яйца, очень распространенный в Кастилии. Он простой, вкусный и идеален для холодных дней.",
+                "pl": "Tradycyjna zupa z czosnkiem, chlebem, bulionem, papryką i jajkiem, bardzo popularna w Kastylii. Jest prosta, smaczna i idealna na zimne dni."
               }
             },
             {
@@ -122,7 +128,8 @@
                 "fr": "Salade Mixte",
                 "de": "Gemischter Salat",
                 "th": "สลัดผสม",
-                "ru": "Смешанный салат"
+                "ru": "Смешанный салат",
+                "pl": "Sałatka Mieszana"
               },
               "price": null,
               "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/mixedsalad.webp",
@@ -134,7 +141,8 @@
                 "fr": "Une salade fraîche avec de la laitue, tomate, oignon, concombre, olives et parfois du thon ou œuf dur, assaisonnée d'huile d'olive et de vinaigre. C'est un classique dans toute l'Espagne.",
                 "de": "Ein frischer Salat mit Kopfsalat, Tomate, Zwiebel, Gurke, Oliven und manchmal Thunfisch oder hartgekochtem Ei, angemacht mit Olivenöl und Essig. Es ist ein Klassiker in ganz Spanien.",
                 "th": "สลัดสดใหม่ที่มีผักกาดหอม มะเขือเทศ หัวหอม แตงกวา มะกอก และบางครั้งมีทูน่าหรือไข่ต้ม ปรุงรสด้วยน้ำมันมะกอกและน้ำส้มสายชู เป็นเมนูคลาสสิกทั่วประเทศสเปน",
-                "ru": "Свежий салат с листьями салата, помидорами, луком, огурцом, оливками и иногда тунцом или вареным яйцом, заправленный оливковым маслом и уксусом. Это классика по всей Испании."
+                "ru": "Свежий салат с листьями салата, помидорами, луком, огурцом, оливками и иногда тунцом или вареным яйцом, заправленный оливковым маслом и уксусом. Это классика по всей Испании.",
+                "pl": "Świeża sałatka z sałatą, pomidorem, cebulą, ogórkiem, oliwkami i czasami tuńczykiem lub jajkiem na twardo, doprawiona oliwą z oliwek i octem. To klasyk w całej Hiszpanii."
               }
             },
             {
@@ -147,7 +155,8 @@
                 "fr": "Gazpacho",
                 "de": "Gazpacho",
                 "th": "กาซปาโช",
-                "ru": "Гаспачо"
+                "ru": "Гаспачо",
+                "pl": "Gazpacho"
               },
               "price": null,
               "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/gazpacho.webp",
@@ -159,7 +168,8 @@
                 "fr": "Une soupe froide faite de tomate, concombre, poivron, ail et huile d'olive, typique de l'Andalousie, parfaite pour l'été.",
                 "de": "Eine kalte Suppe aus Tomate, Gurke, Paprika, Knoblauch und Olivenöl, typisch für Andalusien, perfekt für den Sommer.",
                 "th": "ซุปเย็นทำจากมะเขือเทศ แตงกวา พริกหวาน กระเทียม และน้ำมันมะกอก ซึ่งเป็นเมนูที่นิยมในแคว้นอันดาลูเซีย เหมาะสำหรับฤดูร้อน",
-                "ru": "Холодный суп из помидоров, огурцов, болгарского перца, чеснока и оливкового масла, типичный для Андалусии, идеально подходит для лета."
+                "ru": "Холодный суп из помидоров, огурцов, болгарского перца, чеснока и оливкового масла, типичный для Андалусии, идеально подходит для лета.",
+                "pl": "Zimna zupa zrobiona z pomidorów, ogórków, papryki, czosnku i oliwy z oliwek, typowa dla Andaluzji, idealna na lato."
               }
             },
             {
@@ -172,7 +182,8 @@
                 "fr": "Haricots Verts avec Pomme de Terre",
                 "de": "Grüne Bohnen mit Kartoffel",
                 "th": "ถั่วเขียวกับมันฝรั่ง",
-                "ru": "Зеленая фасоль с картофелем"
+                "ru": "Зеленая фасоль с картофелем",
+                "pl": "Fasolka Szparagowa z Ziemniakami"
               },
               "price": null,
               "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/greenbeanspotatoes.webp",
@@ -184,7 +195,8 @@
                 "fr": "Un plat simple de haricots verts cuits avec des pommes de terre, souvent assaisonné d'un sauté d'ail et d'huile d'olive, commun dans de nombreuses régions.",
                 "de": "Ein einfaches Gericht aus gekochten grünen Bohnen mit Kartoffeln, oft gewürzt mit einem Knoblauch- und Olivenöl-Sauté, das in vielen Regionen verbreitet ist.",
                 "th": "จานง่ายๆ ของถั่วเขียวต้มกับมันฝรั่ง มักปรุงรสด้วยกระเทียมผัดและน้ำมันมะกอก ซึ่งเป็นที่นิยมในหลายภูมิภาค",
-                "ru": "Простое блюдо из вареной зеленой фасоли с картофелем, часто приправленное обжаренным чесноком и оливковым маслом, распространенное во многих регионах."
+                "ru": "Простое блюдо из вареной зеленой фасоли с картофелем, часто приправленное обжаренным чесноком и оливковым маслом, распространенное во многих регионах.",
+                "pl": "Proste danie z gotowanej fasolki szparagowej z ziemniakami, często doprawione smażonym czosnkiem i oliwą z oliwek, popularne w wielu regionach."
               }
             }
           ]
@@ -198,7 +210,8 @@
             "fr": "Deuxième Plat",
             "de": "Zweiter Gang",
             "th": "จานที่สอง",
-            "ru": "Второе Блюдо"
+            "ru": "Второе Блюдо",
+            "pl": "Drugie Danie"
           },
           "items": [
             {
@@ -211,7 +224,8 @@
                 "fr": "Poulet à l'Ail",
                 "de": "Knoblauchhähnchen",
                 "th": "ไก่กระเทียม",
-                "ru": "Курица с чесноком"
+                "ru": "Курица с чесноком",
+                "pl": "Kurczak z Czosnkiem"
               },
               "price": null,
               "cover": "",
@@ -223,7 +237,8 @@
                 "fr": "Poulet cuit avec de l'ail, de l'huile d'olive et souvent une touche de vin blanc ou d'herbes, un plat savoureux très courant dans toute l'Espagne.",
                 "de": "Hähnchen gekocht mit Knoblauch, Olivenöl und oft einem Hauch von Weißwein oder Kräutern, ein geschmackvolles Gericht, das in ganz Spanien sehr verbreitet ist.",
                 "th": "ไก่ที่ปรุงด้วยกระเทียม น้ำมันมะกอก และมักจะมีไวน์ขาวหรือสมุนไพรเพิ่มรสชาติ เป็นจานที่อร่อยและเป็นที่นิยมมากในสเปน",
-                "ru": "Курица, приготовленная с чесноком, оливковым маслом и часто с добавлением белого вина или трав, вкусное блюдо, очень распространенное по всей Испании."
+                "ru": "Курица, приготовленная с чесноком, оливковым маслом и часто с добавлением белого вина или трав, вкусное блюдо, очень распространенное по всей Испании.",
+                "pl": "Kurczak gotowany z czosnkiem, oliwą z oliwek i często z dodatkiem białego wina lub ziół, smaczne danie bardzo popularne w całej Hiszpanii."
               }
             },
             {
@@ -236,7 +251,8 @@
                 "fr": "Salade Mixte",
                 "de": "Gemischter Salat",
                 "th": "สลัดผสม",
-                "ru": "Смешанный салат"
+                "ru": "Смешанный салат",
+                "pl": "Sałatka Mieszana"
               },
               "price": null,
               "cover": "",
@@ -248,7 +264,8 @@
                 "fr": "Une salade fraîche avec de la laitue, tomate, oignon, concombre, olives et parfois du thon ou œuf dur, assaisonnée d'huile d'olive et de vinaigre. C'est un classique dans toute l'Espagne.",
                 "de": "Ein frischer Salat mit Kopfsalat, Tomate, Zwiebel, Gurke, Oliven und manchmal Thunfisch oder hartgekochtem Ei, angemacht mit Olivenöl und Essig. Es ist ein Klassiker in ganz Spanien.",
                 "th": "สลัดสดใหม่ที่มีผักกาดหอม มะเขือเทศ หัวหอม แตงกวา มะกอก และบางครั้งมีทูน่าหรือไข่ต้ม ปรุงรสด้วยน้ำมันมะกอกและน้ำส้มสายชู เป็นเมนูคลาสสิกทั่วประเทศสเปน",
-                "ru": "Свежий салат с листьями салата, помидорами, луком, огурцом, оливками и иногда тунцом или вареным яйцом, заправленный оливковым маслом и уксусом. Это классика по всей Испании."
+                "ru": "Свежий салат с листьями салата, помидорами, луком, огурцом, оливками и иногда тунцом или вареным яйцом, заправленный оливковым маслом и уксусом. Это классика по всей Испании.",
+                "pl": "Świeża sałatka z sałatą, pomidorem, cebulą, ogórkiem, oliwkami i czasami tuńczykiem lub jajkiem na twardo, doprawiona oliwą z oliwek i octem. To klasyk w całej Hiszpanii."
               }
             },
             {
@@ -261,7 +278,8 @@
                 "fr": "Gazpacho",
                 "de": "Gazpacho",
                 "th": "กาซปาโช",
-                "ru": "Гаспачо"
+                "ru": "Гаспачо",
+                "pl": "Gazpacho"
               },
               "price": null,
               "cover": "",
@@ -273,7 +291,8 @@
                 "fr": "Une soupe froide faite de tomate, concombre, poivron, ail et huile d'olive, typique de l'Andalousie, parfaite pour l'été.",
                 "de": "Eine kalte Suppe aus Tomate, Gurke, Paprika, Knoblauch und Olivenöl, typisch für Andalusien, perfekt für den Sommer.",
                 "th": "ซุปเย็นทำจากมะเขือเทศ แตงกวา พริกหวาน กระเทียม และน้ำมันมะกอก ซึ่งเป็นเมนูที่นิยมในแคว้นอันดาลูเซีย เหมาะสำหรับฤดูร้อน",
-                "ru": "Холодный суп из помидоров, огурцов, болгарского перца, чеснока и оливкового масла, типичный для Андалусии, идеально подходит для лета."
+                "ru": "Холодный суп из помидоров, огурцов, болгарского перца, чеснока и оливкового масла, типичный для Андалусии, идеально подходит для лета.",
+                "pl": "Zimna zupa zrobiona z pomidorów, ogórków, papryki, czosnku i oliwy z oliwek, typowa dla Andaluzji, idealna na lato."
               }
             },
             {
@@ -286,7 +305,8 @@
                 "fr": "Haricots Verts avec Pomme de Terre",
                 "de": "Grüne Bohnen mit Kartoffel",
                 "th": "ถั่วเขียวกับมันฝรั่ง",
-                "ru": "Зеленая фасоль с картофелем"
+                "ru": "Зеленая фасоль с картофелем",
+                "pl": "Fasolka Szparagowa z Ziemniakami"
               },
               "price": null,
               "cover": "",
@@ -298,7 +318,8 @@
                 "fr": "Un plat simple de haricots verts cuits avec des pommes de terre, souvent assaisonné d'un sauté d'ail et d'huile d'olive, commun dans de nombreuses régions.",
                 "de": "Ein einfaches Gericht aus gekochten grünen Bohnen mit Kartoffeln, oft gewürzt mit einem Knoblauch- und Olivenöl-Sauté, das in vielen Regionen verbreitet ist.",
                 "th": "จานง่ายๆ ของถั่วเขียวต้มกับมันฝรั่ง มักปรุงรสด้วยกระเทียมผัดและน้ำมันมะกอก ซึ่งเป็นที่นิยมในหลายภูมิภาค",
-                "ru": "Простое блюдо из вареной зеленой фасоли с картофелем, часто приправленное обжаренным чесноком и оливковым маслом, распространенное во многих регионах."
+                "ru": "Простое блюдо из вареной зеленой фасоли с картофелем, часто приправленное обжаренным чесноком и оливковым маслом, распространенное во многих регионах.",
+                "pl": "Proste danie z gotowanej fasolki szparagowej z ziemniakami, często doprawione smażonym czosnkiem i oliwą z oliwek, popularne w wielu regionach."
               }
             }
           ]
@@ -312,7 +333,8 @@
             "fr": "Dessert",
             "de": "Dessert",
             "th": "ของหวาน",
-            "ru": "Десерт"
+            "ru": "Десерт",
+            "pl": "Deser"
           },
           "items": [
             {
@@ -325,7 +347,8 @@
                 "fr": "Flan aux Oeufs",
                 "de": "Eierflan",
                 "th": "พุดดิ้งไข่",
-                "ru": "Яичный флан"
+                "ru": "Яичный флан",
+                "pl": "Karmelowy Budyń Jajeczny"
               },
               "price": null,
               "cover": "",
@@ -337,7 +360,8 @@
                 "fr": "Poulet cuit avec de l'ail, de l'huile d'olive et souvent une touche de vin blanc ou d'herbes, un plat savoureux très courant dans toute l'Espagne.",
                 "de": "Hähnchen gekocht mit Knoblauch, Olivenöl und oft einem Hauch von Weißwein oder Kräutern, ein geschmackvolles Gericht, das in ganz Spanien sehr verbreitet ist.",
                 "th": "ไก่ที่ปรุงด้วยกระเทียม น้ำมันมะกอก และมักจะมีไวน์ขาวหรือสมุนไพรเพิ่มรสชาติ เป็นจานที่อร่อยและเป็นที่นิยมมากในสเปน",
-                "ru": "Курица, приготовленная с чесноком, оливковым маслом и часто с добавлением белого вина или трав, вкусное блюдо, очень распространенное по всей Испании."
+                "ru": "Курица, приготовленная с чесноком, оливковым маслом и часто с добавлением белого вина или трав, вкусное блюдо, очень распространенное по всей Испании.",
+                "pl": "Kurczak gotowany z czosnkiem, oliwą z oliwek i często z dodatkiem białego wina lub ziół, smaczne danie bardzo popularne w całej Hiszpanii."
               }
             }
           ]
@@ -354,7 +378,8 @@
         "fr": "Entrées",
         "de": "Vorspeisen",
         "th": "อาหารเรียกน้ำย่อย",
-        "ru": "Закуски"
+        "ru": "Закуски",
+        "pl": "Przystawki"
       },
       "cover": "",
       "items": [
@@ -368,7 +393,8 @@
             "fr": "Pommes de Terre Épicées",
             "de": "Würzige Kartoffeln",
             "th": "มันฝรั่งเผ็ด",
-            "ru": "Острые картофельные"
+            "ru": "Острые картофельные",
+            "pl": "Ostre Ziemniaki"
           },
           "price": 7.5,
           "priceCents": 750,
@@ -383,7 +409,8 @@
             "fr": "Pommes de terre frites avec sauce brava, un mélange de tomate, paprika et ail, très populaires en Espagne.",
             "de": "Hausgemachte Pici-Pasta serviert mit Pecorino und schwarzem Pfeffer",
             "th": "มันฝรั่งทอดกับซอสบราวา ซึ่งเป็นส่วนผสมของมะเขือเทศ ปาปริก้า และกระเทียม เป็นที่นิยมมากในสเปน",
-            "ru": "Жареный картофель с соусом брава, смесью томатов, паприки и чеснока, очень популярная в Испании."
+            "ru": "Жареный картофель с соусом брава, смесью томатов, паприки и чеснока, очень популярная в Испании.",
+            "pl": "Smażone ziemniaki z sosem brava, mieszanką pomidorów, papryki i czosnku, bardzo popularne w Hiszpanii."
           }
         },
         {
@@ -396,7 +423,8 @@
             "fr": "Crevettes à l'Ail",
             "de": "Knoblauchgarnelen",
             "th": "กุ้งกระเทียม",
-            "ru": "Креветки с чесноком"
+            "ru": "Креветки с чесноком",
+            "pl": "Krewetki z Czosnkiem"
           },
           "price": 12.0,
           "priceCents": 1200,
@@ -412,7 +440,8 @@
             "fr": "Crevettes sautées à l'ail et à l'huile d'olive, un plat classique et savoureux de la cuisine espagnole.",
             "de": "Garnelen in Knoblauch und Olivenöl sautiert, ein klassisches und geschmackvolles Gericht der spanischen Küche.",
             "th": "กุ้งผัดกระเทียมกับน้ำมันมะกอก เป็นจานคลาสสิกและอร่อยจากอาหารสเปน",
-            "ru": "Креветки, обжаренные с чесноком и оливковым маслом, классическое и вкусное блюдо испанской кухни."
+            "ru": "Креветки, обжаренные с чесноком и оливковым маслом, классическое и вкусное блюдо испанской кухни.",
+            "pl": "Krewetki smażone z czosnkiem i oliwą z oliwek, klasyczne i smaczne danie kuchni hiszpańskiej."
           }
         },
         {
@@ -425,7 +454,8 @@
             "fr": "Croquettes au Jambon",
             "de": "Schinken-Kroketten",
             "th": "คร็อกเก้แฮม",
-            "ru": "Ветчинные крокеты"
+            "ru": "Ветчинные крокеты",
+            "pl": "Krokiety z Szynką"
           },
           "price": 8.0,
           "priceCents": 800,
@@ -442,7 +472,8 @@
             "fr": "Croquettes au jambon, un apéritif classique espagnol, préparées avec une béchamel crémeuse et des morceaux de jambon, panées et frites jusqu'à ce qu'elles soient dorées.",
             "de": "Schinken-Kroketten, ein klassischer spanischer Aperitif, hergestellt mit einer cremigen Béchamel und Stücken von Schinken, paniert und frittiert bis sie goldbraun sind.",
             "th": "คร็อกเก้แฮม อาหารเรียกน้ำย่อยคลาสสิกของสเปน ทำจากเบชาเมลครีมมี่และชิ้นแฮม เคลือบเกล็ดขนมปังและทอดจนเป็นสีทอง",
-            "ru": "Ветчинные крокеты, классическая испанская закуска, приготовленные с кремовой бешамель и кусочками ветчины, панированные и обжаренные до золотистой корочки."
+            "ru": "Ветчинные крокеты, классическая испанская закуска, приготовленные с кремовой бешамель и кусочками ветчины, панированные и обжаренные до золотистой корочки.",
+            "pl": "Krokiety z szynką, klasyczna hiszpańska przystawka, wykonana z kremowego beszamelu i kawałków szynki, panierowana i smażona na złoty kolor."
           }
         },
         {
@@ -455,7 +486,8 @@
             "fr": "Calamars à la Romaine",
             "de": "Panierte Calamari",
             "th": "ปลาหมึกชุบแป้งทอด",
-            "ru": "Кальмары в кляре"
+            "ru": "Кальмары в кляре",
+            "pl": "Kalmary w Cieście"
           },
           "price": 11.5,
           "priceCents": 1150,
@@ -472,7 +504,8 @@
             "fr": "Calamars panés et frits, un apéritif très populaire en Espagne, servi avec du citron et de l'aïoli.",
             "de": "Panierte und frittierte Calamari, ein sehr beliebter Aperitif in Spanien, serviert mit Zitrone und Aioli.",
             "th": "ปลาหมึกชุบแป้งทอด เป็นอาหารเรียกน้ำย่อยที่นิยมมากในสเปน เสิร์ฟพร้อมมะนาวและ",
-            "ru": "Кальмары в кляре и жареные, очень популярная закуска в Испании, подается с лимоном и айоли."
+            "ru": "Кальмары в кляре и жареные, очень популярная закуска в Испании, подается с лимоном и айоли.",
+            "pl": "Kalmary w cieście i smażone, bardzo popularna przystawka w Hiszpanii, podawana z cytryną i aioli."
           }
         },
         {
@@ -485,7 +518,8 @@
             "fr": "Jambon Ibérique",
             "de": "Iberischer Schinken",
             "th": "แฮมอิเบริโก",
-            "ru": "Иберийский хамон"
+            "ru": "Иберийский хамон",
+            "pl": "Szynka Iberyjska"
           },
           "price": 14.0,
           "priceCents": 1400,
@@ -498,7 +532,8 @@
             "fr": "Jambon Ibérique, un jambon cru de haute qualité, connu pour sa saveur intense et sa texture lisse, très apprécié dans la gastronomie espagnole.",
             "de": "Iberischer Schinken, ein hochwertiger luftgetrockneter Schinken, bekannt für seinen intensiven Geschmack und seine zarte Textur, sehr geschätzt in der spanischen Gastronomie.",
             "th": "แฮมอิเบริโก แฮมแห้งคุณภาพสูงที่มีรสชาติเข้มข้นและเนื้อสัมผัสนุ่มนวล เป็นที่ชื่นชอบในวงการอาหารสเปน",
-            "ru": "Иберийский хамон, высококачественный вяленый хамон, известный своим интенсивным вкусом и мягкой текстурой, высоко ценится в испанской гастрономии."
+            "ru": "Иберийский хамон, высококачественный вяленый хамон, известный своим интенсивным вкусом и мягкой текстурой, высоко ценится в испанской гастрономии.",
+            "pl": "Szynka iberyjska, wysokiej jakości szynka dojrzewająca, znana ze swojego intensywnego smaku i gładkiej tekstury, wysoko ceniona w hiszpańskiej gastronomii."
           }
         },
         {
@@ -511,7 +546,8 @@
             "fr": "Salade Russe",
             "de": "Russischer Salat",
             "th": "สลัดรัสเซีย",
-            "ru": "Русский салат"
+            "ru": "Русский салат",
+            "pl": "Sałatka Rosyjska"
           },
           "price": 6.5,
           "priceCents": 650,
@@ -527,7 +563,8 @@
             "fr": "Salade Russe, une salade froide faite de pommes de terre, carottes, petits pois, thon et mayonnaise, très populaire en Espagne.",
             "de": "Russischer Salat, ein kalter Salat aus Kartoffeln, Karotten, Erbsen, Thunfisch und Mayonnaise, sehr beliebt in Spanien.",
             "th": "สลัดรัสเซีย สลัดเย็นทำจากมันฝรั่ง แครอท ถั่วลันเตา ทูน่า และมายองเนส เป็นที่นิยมมากในสเปน",
-            "ru": "Русский салат, холодный салат из картофеля, моркови, горошка, тунца и майонеза, очень популярный в Испании."
+            "ru": "Русский салат, холодный салат из картофеля, моркови, горошка, тунца и майонеза, очень популярный в Испании.",
+            "pl": "Sałatka rosyjska, zimna sałatka z ziemniaków, marchewki, groszku, tuńczyka i majonezu, bardzo popularna w Hiszpanii."
           }
         }
       ]
@@ -542,7 +579,8 @@
         "fr": "Salades",
         "de": "Salate",
         "th": "สลัด",
-        "ru": "Салаты"
+        "ru": "Салаты",
+        "pl": "Sałatki"
       },
       "cover": "",
       "items": [
@@ -556,7 +594,8 @@
             "fr": "Salade Mixte",
             "de": "Gemischter Salat",
             "th": "สลัดผสม",
-            "ru": "Смешанный салат"
+            "ru": "Смешанный салат",
+            "pl": "Sałatka Mieszana"
           },
           "price": 7.5,
           "priceCents": 750,
@@ -571,7 +610,8 @@
             "fr": "Une salade fraîche avec de la laitue, tomate, oignon, concombre, olives et parfois du thon ou œuf dur, assaisonnée d'huile d'olive et de vinaigre. C'est un classique dans toute l'Espagne.",
             "de": "Ein frischer Salat mit Kopfsalat, Tomate, Zwiebel, Gurke, Oliven und manchmal Thunfisch oder hartgekochtem Ei, angemacht mit Olivenöl und Essig. Es ist ein Klassiker in ganz Spanien.",
             "th": "สลัดสดใหม่ที่มีผักกาดหอม มะเขือเทศ หัวหอม แตงกวา มะกอก และบางครั้งมีทูน่าหรือไข่ต้ม ปรุงรสด้วยน้ำมันมะกอกและน้ำส้มสายชู เป็นเมนูคลาสสิกทั่วประเทศสเปน",
-            "ru": "Свежий салат с листьями салата, помидорами, луком, огурцом, оливками и иногда тунцом или вареным яйцом, заправленный оливковым маслом и уксусом. Это классика по всей Испании."
+            "ru": "Свежий салат с листьями салата, помидорами, луком, огурцом, оливками и иногда тунцом или вареным яйцом, заправленный оливковым маслом и уксусом. Это классика по всей Испании.",
+            "pl": "Świeża sałatka z sałatą, pomidorem, cebulą, ogórkiem, oliwkami i czasami tuńczykiem lub jajkiem na twardo, doprawiona oliwą z oliwek i octem. To klasyk w całej Hiszpanii."
           }
         },
         {
@@ -584,7 +624,8 @@
             "fr": "Salade de Poivrons Rôtis",
             "de": "Röstpaprika-Salat",
             "th": "สลัดพริกย่าง",
-            "ru": "Салат из запеченного перца"
+            "ru": "Салат из запеченного перца",
+            "pl": "Sałatka z Pieczonej Papryki"
           },
           "price": 9.5,
           "priceCents": 950,
@@ -599,7 +640,8 @@
             "fr": "Salade de poivrons rôtis, un mélange de poivrons rouges et verts rôtis, souvent accompagné d'oignon, d'ail et assaisonné d'huile d'olive.",
             "de": "Röstpaprika-Salat, eine Mischung aus gerösteten roten und grünen Paprika, oft begleitet von Zwiebeln, Knoblauch und mit Olivenöl angemacht.",
             "th": "สลัดพริกย่าง เป็นการผสมผสานของพริกแดงและเขียวย่าง มักจะมีหัวหอม กระเทียม และปรุงรสด้วยน้ำมันมะกอก",
-            "ru": "Салат из запеченного перца, смесь запеченных красных и зеленых перцев, часто с луком, чесноком и заправленный оливковым маслом."
+            "ru": "Салат из запеченного перца, смесь запеченных красных и зеленых перцев, часто с луком, чесноком и заправленный оливковым маслом.",
+            "pl": "Sałatka z pieczonej papryki, mieszanka pieczonych czerwonych i zielonych papryk, często podawana z cebulą, czosnkiem i doprawiona oliwą z oliwek."
           }
         },
         {
@@ -612,7 +654,8 @@
             "fr": "Salade de Légumes Grillés",
             "de": "Grillgemüsesalat",
             "th": "สลัดผักย่าง",
-            "ru": "Салат из жареных овощей"
+            "ru": "Салат из жареных овощей",
+            "pl": "Sałatka z Grillowanych Warzyw"
           },
           "price": 8.0,
           "priceCents": 800,
@@ -627,7 +670,8 @@
             "fr": "Salade de légumes grillés, une salade de légumes rôtis tels que des aubergines, des poivrons et des oignons, assaisonnée d'huile d'olive et parfois accompagnée de thon ou d'anchois.",
             "de": "Grillgemüsesalat, ein Salat aus geröstetem Gemüse wie Auberginen, Paprika und Zwiebeln, angemacht mit Olivenöl und manchmal begleitet von Thunfisch oder Sardellen.",
             "th": "สลัดผักย่าง เป็นสลัดผักย่างเช่น มะเขือยาว พริก และหัวหอม ปรุงรสด้วยน้ำมันมะกอกและบางครั้งมีทูน่าหรือแองโชวี่",
-            "ru": "Салат из жареных овощей, салат из запеченных овощей, таких как баклажаны, перцы и лук, заправленный оливковым маслом и иногда с тунцом или анчоусами."
+            "ru": "Салат из жареных овощей, салат из запеченных овощей, таких как баклажаны, перцы и лук, заправленный оливковым маслом и иногда с тунцом или анчоусами.",
+            "pl": "Sałatka z grillowanych warzyw, sałatka z pieczonych warzyw, takich jak bakłażany, papryki i cebula, doprawiona oliwą z oliwek i czasami podawana z tuńczykiem lub anchois."
           }
         }
       ]
@@ -642,7 +686,8 @@
         "fr": "Soupes et Crèmes",
         "de": "Suppen und Cremes",
         "th": "ซุปและครีม",
-        "ru": "Супы и Кремы"
+        "ru": "Супы и Кремы",
+        "pl": "Zupy i Kremy"
       },
       "cover": "",
       "items": [
@@ -656,7 +701,8 @@
             "fr": "Gazpacho Andalou",
             "de": "Andalusisches Gazpacho",
             "th": "กาซปาโช",
-            "ru": "Гаспачо"
+            "ru": "Гаспачо",
+            "pl": "Gazpacho Andaluzyjskie"
           },
           "price": 7.0,
           "priceCents": 700,
@@ -671,7 +717,8 @@
             "fr": "Une soupe froide faite de tomate, concombre, poivron, ail et huile d'olive, typique de l'Andalousie, parfaite pour l'été.",
             "de": "Eine kalte Suppe aus Tomate, Gurke, Paprika, Knoblauch und Olivenöl, typisch für Andalusien, perfekt für den Sommer.",
             "th": "ซุปเย็นทำจากมะเขือเทศ แตงกวา พริกหวาน กระเทียม และน้ำมันมะกอก ซึ่งเป็นเมนูที่นิยมในแคว้นอันดาลูเซีย เหมาะสำหรับฤดูร้อน",
-            "ru": "Холодный суп из помидоров, огурцов, болгарского перца, чеснока и оливкового масла, типичный для Андалусии, идеально подходит для лета."
+            "ru": "Холодный суп из помидоров, огурцов, болгарского перца, чеснока и оливкового масла, типичный для Андалусии, идеально подходит для лета.",
+            "pl": "Zimna zupa zrobiona z pomidorów, ogórków, papryki, czosnku i oliwy z oliwek, typowa dla Andaluzji, idealna na lato."
           }
         },
         {
@@ -684,7 +731,8 @@
             "fr": "Salmorejo Cordouan",
             "de": "Cordoba Salmorejo",
             "th": "ซัลโมเรโฆ",
-            "ru": "Сальморехо"
+            "ru": "Сальморехо",
+            "pl": "Salmorejo Kordobańskie"
           },
           "price": 8.5,
           "priceCents": 850,
@@ -700,7 +748,8 @@
             "fr": "Salmorejo, une crème froide de tomate et pain, typique de Cordoue, plus épaisse que le gazpacho et souvent servie avec œuf dur et jambon.",
             "de": "Salmorejo, eine kalte Tomaten-Brot-Creme, typisch für Córdoba, dicker als Gazpacho und oft serviert mit hartgekochtem Ei und Schinken.",
             "th": "ซัลโมเรโฆ เป็นครีมเย็นทำจากมะเขือเทศและขนมปัง ซึ่งเป็นที่นิยมในเมืองคอร์โดบา มีความเข้มข้นกว่ากาซปาโช และมักเสิร์ฟพร้อมไข่ต้มและแฮม",
-            "ru": "Сальморехо, холодная крем-суп из помидоров и хлеба, типичная для Кордовы, гуще, чем гаспачо, и часто подается с вареным яйцом и ветчиной."
+            "ru": "Сальморехо, холодная крем-суп из помидоров и хлеба, типичная для Кордовы, гуще, чем гаспачо, и часто подается с вареным яйцом и ветчиной.",
+            "pl": "Salmorejo, zimny krem z pomidorów i chleba, typowy dla Kordoby, gęstszy niż gazpacho i często podawany z jajkiem na twardo i szynką."
           }
         },
         {
@@ -713,7 +762,8 @@
             "fr": "Soupe à l'Ail",
             "de": "Knoblauchsuppe",
             "th": "ซุปกระเทียม",
-            "ru": "Чесночный суп"
+            "ru": "Чесночный суп",
+            "pl": "Zupa Czosnkowa"
           },
           "price": 8.0,
           "priceCents": 800,
@@ -729,7 +779,8 @@
             "fr": "Soupe à l'Ail, une soupe chaude et réconfortante faite d'ail, pain, paprika et œuf, typique de la cuisine castillane.",
             "de": "Knoblauchsuppe, eine heiße und tröstliche Suppe aus Knoblauch, Brot, Paprika und Ei, typisch für die kastilische Küche.",
             "th": "ซุปกระเทียม เป็นซุปอุ่นๆ ที่ทำจากกระเทียม ขนมปัง ปาปริก้า และไข่ ซึ่งเป็นที่นิยมในอาหารคาสติลเลียน",
-            "ru": "Чесночный суп, горячий и согревающий суп из чеснока, хлеба, паприки и яйца, типичный для кастильской кухни."
+            "ru": "Чесночный суп, горячий и согревающий суп из чеснока, хлеба, паприки и яйца, типичный для кастильской кухни.",
+            "pl": "Zupa czosnkowa, gorąca i kojąca zupa zrobiona z czosnku, chleba, papryki i jajka, typowa dla kuchni kastylijskiej."
           }
         }
       ]
@@ -744,7 +795,8 @@
         "fr": "Plats Principaux",
         "de": "Hauptgerichte",
         "th": "จานหลัก",
-        "ru": "Основные Блюда"
+        "ru": "Основные Блюда",
+        "pl": "Dania Główne"
       },
       "cover": "",
       "subcategories": [
@@ -757,7 +809,8 @@
             "fr": "Viandes",
             "de": "Fleisch",
             "th": "เนื้อสัตว์",
-            "ru": "Мясные Блюда"
+            "ru": "Мясные Блюда",
+            "pl": "Mięso"
           },
           "items": [
             {
@@ -770,10 +823,11 @@
                 "fr": "Côte de Bœuf",
                 "de": "Rindersteak",
                 "th": "สเต็กเนื้อวัว",
-                "ru": "Говяжий Стейк"
+                "ru": "Говяжий Стейк",
+                "pl": "Stek Wołowy"
               },
-              "price": 24.0,
-              "priceCents": 2400,
+              "price": 26.5,
+              "priceCents": 2650,
               "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/chuletonbuey.webp",
               "allergens": [],
               "description": {
@@ -783,7 +837,8 @@
                 "fr": "Une côte de bœuf grillée, juteuse et tendre, servie avec un accompagnement de pommes de terre et de légumes rôtis. C'est un plat emblématique de la cuisine espagnole.",
                 "de": "Ein gegrilltes Rindersteak, saftig und zart, serviert mit einer Beilage aus Kartoffeln und geröstetem Gemüse. Es ist ein ikonisches Gericht der spanischen Küche.",
                 "th": "สเต็กเนื้อวัวย่างที่ฉ่ำและนุ่ม เสิร์ฟพร้อมกับมันฝรั่งและผักย่าง เป็นจานที่เป็นเอกลักษณ์ของอาหารสเปน",
-                "ru": "Жареный говяжий стейк, сочный и нежный, подается с гарниром из картофеля и запеченных овощей. Это знаковое блюдо испанской кухни."
+                "ru": "Жареный говяжий стейк, сочный и нежный, подается с гарниром из картофеля и запеченных овощей. Это знаковое блюдо испанской кухни.",
+                "pl": "Grillowany stek wołowy, soczysty i delikatny, podawany z dodatkiem ziemniaków i pieczonych warzyw. To ikoniczne danie kuchni hiszpańskiej."
               }
             },
             {
@@ -796,10 +851,11 @@
                 "fr": "Cochon de lait rôti",
                 "de": "Spanferkelbraten",
                 "th": "หมูย่าง",
-                "ru": "Запеченный поросенок"
+                "ru": "Запеченный поросенок",
+                "pl": "Pieczone prosię"
               },
-              "price": 27.0,
-              "priceCents": 2700,
+              "price": 29.2,
+              "priceCents": 2920,
               "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/cochinillo.webp",
               "allergens": [],
               "description": {
@@ -809,7 +865,8 @@
                 "fr": "Un cochon de lait rôti, tendre et croustillant, typique de la région de Castille et León, servi avec une salade et des pommes de terre rôties. C'est un plat festif très apprécié.",
                 "de": "Ein Spanferkelbraten, zart und knusprig, typisch für die Region Kastilien und León, serviert mit Salat und gerösteten Kartoffeln. Es ist ein sehr geschätztes Festtagsgericht.",
                 "th": "หมูย่างที่นุ่มและกรอบ ซึ่งเป็นที่นิยมในแคว้นคาสตีลและลีออน เสิร์ฟพร้อมสลัดและมันฝรั่งย่าง เป็นจานเทศกาลที่ได้รับความนิยมอย่างมาก",
-                "ru": "Запеченный поросенок, нежный и хрустящий, типичный для региона Кастилия и Леон, подается с салатом и запеченным картофелем. Это очень ценимое праздничное блюдо."
+                "ru": "Запеченный поросенок, нежный и хрустящий, типичный для региона Кастилия и Леон, подается с салатом и запеченным картофелем. Это очень ценимое праздничное блюдо.",
+                "pl": "Pieczone prosię, delikatne i chrupiące, typowe dla regionu Kastylia i León, podawane z sałatą i pieczonymi ziemniakami. To bardzo cenione danie świąteczne."
               }
             },
             {
@@ -822,10 +879,11 @@
                 "fr": "Poulet à l'Ail",
                 "de": "Knoblauchhähnchen",
                 "th": "ไก่กระเทียม",
-                "ru": "Курица с чесноком"
+                "ru": "Курица с чесноком",
+                "pl": "Kurczak z Czosnkiem"
               },
-              "price": 16.5,
-              "priceCents": 1650,
+              "price": 17.7,
+              "priceCents": 1770,
               "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/polloajillo.webp",
               "allergens": [
                 "garlic"
@@ -837,7 +895,8 @@
                 "fr": "Poulet à l'ail, un plat de poulet frit avec beaucoup d'ail et d'huile d'olive, souvent accompagné de riz ou de pommes de terre. C'est un plat savoureux très courant dans toute l'Espagne.",
                 "de": "Knoblauchhähnchen, ein Gericht aus gebratenem Hähnchen mit viel Knoblauch und Olivenöl, oft begleitet von Reis oder Kartoffeln. Es ist ein geschmackvolles Gericht, das in ganz Spanien sehr verbreitet ist.",
                 "th": "ไก่กระเทียม เป็นจานไก่ทอดที่มีการใช้กระเทียมและน้ำมันมะกอกมาก มักจะเสิร์ฟพร้อมข้าวหรือมันฝรั่ง เป็นจานที่อร่อยและเป็นที่นิยมมากในสเปน",
-                "ru": "Курица с чесноком, блюдо из жареной курицы с большим количеством чеснока и оливкового масла, часто подается с рисом или картофелем. Это вкусное блюдо очень распространено по всей Испании."
+                "ru": "Курица с чесноком, блюдо из жареной курицы с большим количеством чеснока и оливкового масла, часто подается с рисом или картофелем. Это вкусное блюдо очень распространено по всей Испании.",
+                "pl": "Kurczak z czosnkiem, danie z smażonego kurczaka z dużą ilością czosnku i oliwy z oliwek, często podawane z ryżem lub ziemniakami. To smaczne danie bardzo popularne w całej Hiszpanii."
               }
             }
           ]
@@ -851,7 +910,8 @@
             "fr": "Poissons et Fruits de Mer",
             "de": "Fisch und Meeresfrüchte",
             "th": "ปลาและอาหารทะเล",
-            "ru": "Рыба и Морепродукты"
+            "ru": "Рыба и Морепродукты",
+            "pl": "Ryby i Owoce Morza"
           },
           "items": [
             {
@@ -864,10 +924,11 @@
                 "fr": "Morue à la Vizcaína",
                 "de": "Kabeljau Vizcaína",
                 "th": "ปลาค็อดวิซкайนา",
-                "ru": "Треска по-вискайски"
+                "ru": "Треска по-вискайски",
+                "pl": "Dorsz po Wiskajsku"
               },
-              "price": 21.0,
-              "priceCents": 2100,
+              "price": 22.8,
+              "priceCents": 2280,
               "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/bacalao.webp",
               "allergens": [
                 "fish"
@@ -879,7 +940,8 @@
                 "fr": "Morue à la Vizcaína, un plat de morue cuisiné avec une sauce de poivrons choriceros, oignon et tomate, typique du Pays Basque.",
                 "de": "Kabeljau Vizcaína, ein Gericht aus Kabeljau, gekocht mit einer Sauce aus Choricero-Paprika, Zwiebeln und Tomaten, typisch für das Baskenland.",
                 "th": "ปลาค็อดวิซкайนา เป็นจานปลาค็อดที่ปรุงด้วยซอสพริกชอริเซโร หัวหอม และมะเขือเทศ ซึ่งเป็นที่นิยมในแคว้นบาสก์",
-                "ru": "Треска по-вискайски, блюдо из трески, приготовленной с соусом из перца чориcеро, лука и помидоров, типичное для Страны Басков."
+                "ru": "Треска по-вискайски, блюдо из трески, приготовленной с соусом из перца чориcеро, лука и помидоров, типичное для Страны Басков.",
+                "pl": "Dorsz po Wiskajsku, danie z dorsza gotowanego w sosie z papryki choricero, cebuli i pomidorów, typowe dla Kraju Basków."
               }
             },
             {
@@ -892,10 +954,11 @@
                 "fr": "Merluza à la Cidre",
                 "de": "Seehecht in Cidre",
                 "th": "ปลาฮาเกะในไซเดอร์",
-                "ru": "Пикша в сидре"
+                "ru": "Пикша в сидре",
+                "pl": "Morszczuk w Cydrze"
               },
-              "price": 23.5,
-              "priceCents": 2350,
+              "price": 25.3,
+              "priceCents": 2530,
               "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/merluza.webp",
               "allergens": [
                 "fish"
@@ -907,7 +970,8 @@
                 "fr": "Merluza à la Cidre, un plat de merluza cuisiné dans une sauce de cidre, oignon et pomme, typique des Asturies. C'est un plat savoureux et aromatique.",
                 "de": "Seehecht in Cidre, ein Gericht aus Seehecht, gekocht in einer Sauce aus Cidre, Zwiebeln und Äpfeln, typisch für Asturien. Es ist ein geschmackvolles und aromatisches Gericht.",
                 "th": "ปลาฮาเกะในไซเดอร์ เป็นจานปลาฮาเกะที่ปรุงในซอสไซเดอร์ หัวหอม และแอปเปิ้ล ซึ่งเป็นที่นิยมในแคว้นอัสตูเรียส เป็นจานที่มีรสชาติและกลิ่นหอม",
-                "ru": "Пикша в сидре, блюдо из пикши, приготовленной в соусе из сидра, лука и яблока, типичное для Астурии. Это вкусное и ароматное блюдо."
+                "ru": "Пикша в сидре, блюдо из пикши, приготовленной в соусе из сидра, лука и яблока, типичное для Астурии. Это вкусное и ароматное блюдо.",
+                "pl": "Morszczuk w cydrze, danie z morszczuka gotowanego w sosie z cydru, cebuli i jabłka, typowe dla Asturii. To smaczne i aromatyczne danie."
               }
             },
             {
@@ -920,10 +984,11 @@
                 "fr": "Paella de Fruits de Mer",
                 "de": "Meeresfrüchte Paella",
                 "th": "ข้าวผัดทะเล",
-                "ru": "Паэлья с Морепродуктами"
+                "ru": "Паэлья с Морепродуктами",
+                "pl": "Paella z Owocami Morza"
               },
-              "price": 19.0,
-              "priceCents": 1900,
+              "price": 18.3,
+              "priceCents": 1830,
               "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/paellamariscos.webp",
               "allergens": [
                 "garlic",
@@ -938,7 +1003,8 @@
                 "fr": "Paella de Fruits de Mer, un plat emblématique de la cuisine espagnole, fait avec du riz, des fruits de mer frais tels que des crevettes, des moules et des calamars, cuisiné avec du safran et de l'alioli. C'est un plat festif très populaire.",
                 "de": "Meeresfrüchte Paella, ein ikonisches Gericht der spanischen Küche, zubereitet mit Reis, frischen Meeresfrüchten wie Garnelen, Muscheln und Tintenfisch, gekocht mit Safran und Alioli. Es ist ein sehr beliebtes Festtagsgericht.",
                 "th": "ข้าวผัดทะเล เป็นจานที่เป็นเอกลักษณ์ของอาหารสเปน ทำจากข้าวและอาหารทะเลสด เช่น กุ้ง หอยแมลงภู่ และปลาหมึก ปรุงด้วยหญ้าฝรั่นและอาลิโอลี เป็นจานที่นิยมในงานเทศกาล",
-                "ru": "Паэлья с Морепродуктами, знаковое блюдо испанской кухни, приготовленное из риса, свежих морепродуктов, таких как креветки, мидии и кальмары, с добавлением шафрана и алиоли. Это очень популярное праздничное блюдо."
+                "ru": "Паэлья с Морепродуктами, знаковое блюдо испанской кухни, приготовленное из риса, свежих морепродуктов, таких как креветки, мидии и кальмары, с добавлением шафрана и алиоли. Это очень популярное праздничное блюдо.",
+                "pl": "Paella z owocami morza, ikoniczne danie kuchni hiszpańskiej, zrobione z ryżu, świeżych owoców morza, takich jak krewetki, małże i kalmary, gotowane z szafranem i alioli. To bardzo popularne danie świąteczne."
               }
             }
           ]
@@ -952,7 +1018,8 @@
             "fr": "Plats de Riz",
             "de": "Reisgerichte",
             "th": "จานข้าว",
-            "ru": "Рисовые Блюда"
+            "ru": "Рисовые Блюда",
+            "pl": "Dania z Ryżu"
           },
           "items": [
             {
@@ -965,10 +1032,11 @@
                 "fr": "Paella Valencienne",
                 "de": "Valencianische Paella",
                 "th": "ข้าวผัดวาเลนเซีย",
-                "ru": "Валенсийская Паэлья"
+                "ru": "Валенсийская Паэлья",
+                "pl": "Paella Walencjańska"
               },
-              "price": 21.0,
-              "priceCents": 2100,
+              "price": 22.5,
+              "priceCents": 2250,
               "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/paellavalenciana.webp",
               "allergens": [
                 "fish"
@@ -980,7 +1048,8 @@
                 "fr": "Paella Valencienne, un plat traditionnel de la Communauté Valencienne, fait avec du riz, poulet, lapin, haricots verts et haricots garrofó, cuisiné avec du safran. C'est un plat festif très populaire.",
                 "de": "Valencianische Paella, ein traditionelles Gericht aus der Valencianischen Gemeinschaft, zubereitet mit Reis, Huhn, Kaninchen, grünen Bohnen und Garrofó-Bohnen, gekocht mit Safran. Es ist ein sehr beliebtes Festtagsgericht.",
                 "th": "ข้าวผัดวาเลนเซีย เป็นจานดั้งเดิมจากชุมชนวาเลนเซีย ทำจากข้าว ไก่ กระต่าย ถั่วเขียว และถั่วการอฟโฟ ปรุงด้วยหญ้าฝรั่น เป็นจานเทศกาลที่ได้รับความนิยมอย่างมาก",
-                "ru": "Валенсийская Паэлья, традиционное блюдо из Валенсийского сообщества, приготовленное из риса, курицы, кролика, зеленой фасоли и фасоли гаррофо, с добавлением шафрана. Это очень популярное праздничное блюдо."
+                "ru": "Валенсийская Паэлья, традиционное блюдо из Валенсийского сообщества, приготовленное из риса, курицы, кролика, зеленой фасоли и фасоли гаррофо, с добавлением шафрана. Это очень популярное праздничное блюдо.",
+                "pl": "Paella Walencjańska, tradycyjne danie z Wspólnoty Walencjańskiej, zrobione z ryżu, kurczaka, królika, zielonej fasoli i fasoli garrofó, gotowane z szafranem. To bardzo popularne danie świąteczne."
               }
             },
             {
@@ -993,13 +1062,15 @@
                 "fr": "Arroz Noir",
                 "de": "Schwarzer Reis",
                 "th": "ข้าวดำ",
-                "ru": "Черный Рис"
+                "ru": "Черный Рис",
+                "pl": "Czarny Ryż"
               },
-              "price": 23.5,
-              "priceCents": 2350,
+              "price": 24.7,
+              "priceCents": 2470,
               "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/arroznegro.webp",
               "allergens": [
-                "fish"
+                "fish",
+                "molluscs"
               ],
               "description": {
                 "es": "Arroz con tinta de calamar, calamares y alioli.",
@@ -1008,7 +1079,8 @@
                 "fr": "Arroz Noir avec encre de calmar, calmars et alioli.",
                 "de": "Schwarzer Reis mit Tintenfisch-Tinte, Tintenfischen und Alioli.",
                 "th": "ข้าวดำกับหมึกปลาหมึก ปลาหมึก และอาลิโอลี",
-                "ru": "Черный Рис с чернилами кальмара, кальмарами и алиоли."
+                "ru": "Черный Рис с чернилами кальмара, кальмарами и алиоли.",
+                "pl": "Czarny ryż z atramentem z kalmarów, kalmarami i alioli."
               }
             },
             {
@@ -1021,10 +1093,11 @@
                 "fr": "Arroz a Banda",
                 "de": "A Banda Reis",
                 "th": "ข้าวอาบันดา",
-                "ru": "A Banda Рис"
+                "ru": "A Banda Рис",
+                "pl": "Ryż A Banda"
               },
-              "price": 19.0,
-              "priceCents": 1900,
+              "price": 20.1,
+              "priceCents": 2010,
               "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/arrozabanda.webp",
               "allergens": [
                 "garlic",
@@ -1039,7 +1112,8 @@
                 "fr": "Arroz a Banda, un plat de riz cuit avec du bouillon de poisson, accompagné d'alioli et souvent de fruits de mer tels que des crevettes et des moules. C'est un plat typique de la côte méditerranéenne.",
                 "de": "A Banda Reis, ein Gericht aus Reis, gekocht mit Fischbrühe, begleitet von Alioli und oft mit Meeresfrüchten wie Garnelen und Muscheln. Es ist ein typisches Gericht der Mittelmeerküste.",
                 "th": "ข้าวอาบันดา เป็นจานข้าวที่ปรุงด้วยน้ำซุปปลา เสิร์ฟพร้อมอาลิโอลีและมักจะมีอาหารทะเล เช่น กุ้งและหอยแมลงภู่ เป็นจานที่เป็นเอกลักษณ์ของชายฝั่งเมดิเตอร์เรเนียน",
-                "ru": "A Banda Рис, блюдо из риса, приготовленного с рыбным бульоном, подается с алиоли и часто с морепродуктами, такими как креветки и мидии. Это типичное блюдо средиземноморского побережья."
+                "ru": "A Banda Рис, блюдо из риса, приготовленного с рыбным бульоном, подается с алиоли и часто с морепродуктами, такими как креветки и мидии. Это типичное блюдо средиземноморского побережья.",
+                "pl": "Ryż A Banda, danie z ryżu gotowanego na bulionie rybnym, podawane z alioli i często z owocami morza, takimi jak krewetki i małże. To typowe danie wybrzeża Morza Śródziemnego."
               }
             }
           ]
@@ -1056,7 +1130,8 @@
         "fr": "Accompagnements",
         "de": "Beilagen",
         "th": "ข้างเคียง",
-        "ru": "Гарниры"
+        "ru": "Гарниры",
+        "pl": "Dodatki"
       },
       "cover": "",
       "items": [
@@ -1070,14 +1145,13 @@
             "fr": "Piments de Padrón",
             "de": "Padrón-Paprika",
             "th": "พริกพาดรอน",
-            "ru": "Паприка Падрон"
+            "ru": "Паприка Падрон",
+            "pl": "Papryka Padrón"
           },
-          "price": 7.0,
-          "priceCents": 700,
+          "price": 7.2,
+          "priceCents": 720,
           "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/pimientospadron.webp",
-          "allergens": [
-            "gluten"
-          ],
+          "allergens": [],
           "description": {
             "es": "Pimientos de Padrón, pequeños pimientos verdes fritos en aceite de oliva, típicos de Galicia. Algunos son picantes, otros no, lo que los hace un aperitivo divertido.",
             "en": "Padrón Peppers, small green peppers fried in olive oil, typical of Galicia. Some are spicy, others are not, making them a fun appetizer.",
@@ -1085,7 +1159,8 @@
             "fr": "Piments de Padrón, petits piments verts frits dans de l'huile d'olive, typiques de la Galice. Certains sont épicés, d'autres ne le sont pas, ce qui en fait une entrée amusante.",
             "de": "Padrón-Paprika, kleine grüne Paprika, in Olivenöl frittiert, typisch für Galicien. Einige sind scharf, andere nicht, was sie zu einem unterhaltsamen Appetitanreger macht.",
             "th": "พริกพาดรอน เป็นพริกเขียวเล็กๆ ที่ทอดในน้ำมันมะกอก ซึ่งเป็นที่นิยมในแคว้นกาลิเซีย บางลูกเผ็ด บางลูกไม่เผ็ด ทำให้เป็นของว่างที่สนุกสนาน",
-            "ru": "Паприка Падрон, маленькие зеленые перцы, жареные в оливковом масле, типичные для Галисии. Некоторые острые, другие нет, что делает их веселой закуской."
+            "ru": "Паприка Падрон, маленькие зеленые перцы, жареные в оливковом масле, типичные для Галисии. Некоторые острые, другие нет, что делает их веселой закуской.",
+            "pl": "Papryka Padrón, małe zielone papryki smażone na oliwie z oliwek, typowe dla Galicji. Niektóre są pikantne, inne nie, co czyni je zabawną przystawką."
           }
         },
         {
@@ -1098,15 +1173,13 @@
             "fr": "Frites",
             "de": "Pommes Frites",
             "th": "เฟรนช์ฟรายส์",
-            "ru": "Картофель Фри"
+            "ru": "Картофель Фри",
+            "pl": "Frytki"
           },
-          "price": 8.5,
-          "priceCents": 850,
+          "price": 4.9,
+          "priceCents": 490,
           "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/patatasfritas.webp",
-          "allergens": [
-            "gluten",
-            "eggs"
-          ],
+          "allergens": [],
           "description": {
             "es": "Patatas Fritas, crujientes y doradas, servidas con sal. Son un acompañamiento clásico que combina bien con casi cualquier plato.",
             "en": "French Fries, crispy and golden, served with salt. They are a classic side that pairs well with almost any dish.",
@@ -1114,7 +1187,8 @@
             "fr": "Frites, croustillantes et dorées, servies avec du sel. Elles sont un accompagnement classique qui se marie bien avec presque tous les plats.",
             "de": "Pommes Frites, knusprig und goldbraun, serviert mit Salz. Sie sind eine klassische Beilage, die gut zu fast jedem Gericht passt.",
             "th": "เฟรนช์ฟรายส์ เป็นมันฝรั่งทอดที่กรอบและมีสีทอง เสิร์ฟพร้อมเกลือ เป็นข้างเคียงคลาสสิกที่เข้ากันได้ดีกับเกือบทุกจาน",
-            "ru": "Картофель Фри, хрустящий и золотистый, подается с солью. Это классический гарнир, который хорошо сочетается почти с любым блюдом."
+            "ru": "Картофель Фри, хрустящий и золотистый, подается с солью. Это классический гарнир, который хорошо сочетается почти с любым блюдом.",
+            "pl": "Frytki, chrupiące i złociste, podawane z solą. To klasyczny dodatek, który dobrze komponuje się prawie z każdym daniem."
           }
         },
         {
@@ -1127,14 +1201,14 @@
             "fr": "Asperges Vertes",
             "de": "Grüne Spargel",
             "th": "หน่อไม้ฝรั่งเขียว",
-            "ru": "Зеленые Спаржи"
+            "ru": "Зеленые Спаржи",
+            "pl": "Zielone Szparagi"
           },
-          "price": 8.0,
-          "priceCents": 800,
+          "price": 6.8,
+          "priceCents": 680,
           "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/trigueros.webp",
           "allergens": [
-            "gluten",
-            "eggs"
+            "sulfites"
           ],
           "description": {
             "es": "Espárragos Trigueros, espárragos verdes frescos asados o salteados, típicos de la primavera. Son un acompañamiento saludable y delicioso.",
@@ -1143,7 +1217,8 @@
             "fr": "Asperges Vertes, des asperges vertes fraîches rôties ou sautées, typiques du printemps. Elles sont un accompagnement sain et délicieux.",
             "de": "Grüne Spargel, frische grüne Spargel, geröstet oder sautiert, typisch für den Frühling. Sie sind eine gesunde und köstliche Beilage.",
             "th": "หน่อไม้ฝรั่งเขียว เป็นหน่อไม้ฝรั่งเขียวสดที่ย่างหรือผัด ซึ่งเป็นที่นิยมในฤดูใบไม้ผลิ เป็นข้างเคียงที่ดีต่อสุขภาพและอร่อย",
-            "ru": "Зеленые Спаржи, свежие зеленые спаржи, запеченные или обжаренные, типичные для весны. Это здоровый и вкусный гарнир."
+            "ru": "Зеленые Спаржи, свежие зеленые спаржи, запеченные или обжаренные, типичные для весны. Это здоровый и вкусный гарнир.",
+            "pl": "Zielone szparagi, świeże zielone szparagi pieczone lub smażone, typowe dla wiosny. To zdrowy i pyszny dodatek."
           }
         },
         {
@@ -1156,14 +1231,14 @@
             "fr": "Légumes Grillés",
             "de": "Gegrilltes Gemüse",
             "th": "ผักย่าง",
-            "ru": "Овощи на гриле"
+            "ru": "Овощи на гриле",
+            "pl": "Grillowane Warzywa"
           },
-          "price": 8.0,
-          "priceCents": 800,
+          "price": 7.9,
+          "priceCents": 790,
           "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/verdurasplancha.webp",
           "allergens": [
-            "gluten",
-            "eggs"
+            "sulfites"
           ],
           "description": {
             "es": "Verduras a la plancha, una mezcla de verduras frescas como pimientos, calabacines y berenjenas, asadas a la parrilla. Son un acompañamiento saludable y lleno de sabor.",
@@ -1172,7 +1247,8 @@
             "fr": "Légumes Grillés, un mélange de légumes frais tels que poivrons, courgettes et aubergines, grillés à la perfection. Ils sont un accompagnement sain et plein de saveur.",
             "de": "Gegrilltes Gemüse, eine Mischung aus frischem Gemüse wie Paprika, Zucchini und Auberginen, perfekt gegrillt. Sie sind eine gesunde und geschmackvolle Beilage.",
             "th": "ผักย่าง เป็นการผสมผสานของผักสด เช่น พริก, ซูกินี และมะเขือยาว ที่ย่างจนสุกอย่างลงตัว เป็นข้างเคียงที่ดีต่อสุขภาพและเต็มไปด้วยรสชาติ",
-            "ru": "Овощи на гриле, смесь свежих овощей, таких как перцы, кабачки и баклажаны, идеально приготовленные на гриле. Это здоровый и вкусный гарнир."
+            "ru": "Овощи на гриле, смесь свежих овощей, таких как перцы, кабачки и баклажаны, идеально приготовленные на гриле. Это здоровый и вкусный гарнир.",
+            "pl": "Grillowane warzywa, mieszanka świeżych warzyw, takich jak papryka, cukinia i bakłażan, idealnie grillowane. To zdrowy i smaczny dodatek."
           }
         }
       ]
@@ -1187,7 +1263,8 @@
         "fr": "Plats à Cuillère",
         "de": "Löffelgerichte",
         "th": "จานช้อน",
-        "ru": "Блюда с Ложкой"
+        "ru": "Блюда с Ложкой",
+        "pl": "Dania na Łyżkę"
       },
       "cover": "",
       "items": [
@@ -1201,13 +1278,16 @@
             "fr": "Ragoût Madrilène",
             "de": "Madrider Eintopf",
             "th": "สตูว์มาดริด",
-            "ru": "Мадридский Тушеный"
+            "ru": "Мадридский Тушеный",
+            "pl": "Gulasz Madrycki"
           },
-          "price": 7.0,
-          "priceCents": 700,
+          "price": 10.5,
+          "priceCents": 1050,
           "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/cocidomadrileno.webp",
           "allergens": [
-            "gluten"
+            "gluten",
+            "egg",
+            "sulfites"
           ],
           "description": {
             "es": "Cocido Madrileño, un guiso tradicional de Madrid hecho con garbanzos, carne de cerdo, chorizo y verduras. Se sirve en dos partes: primero el caldo y luego los sólidos.",
@@ -1216,7 +1296,8 @@
             "fr": "Ragoût Madrilène, un ragoût traditionnel de Madrid fait avec des pois chiches, de la viande de porc, du chorizo et des légumes. Il est servi en deux parties : d'abord le bouillon puis les solides.",
             "de": "Madrider Eintopf, ein traditioneller Eintopf aus Madrid, zubereitet mit Kichererbsen, Schweinefleisch, Chorizo und Gemüse. Er wird in zwei Teilen serviert: zuerst die Brühe und dann die festen Bestandteile.",
             "th": "สตูว์มาดริด เป็นสตูว์ดั้งเดิมจากมาดริดที่ทำจากถั่วชิกพี เนื้อหมู ไส้กรอกชอริโซ และผัก เสิร์ฟเป็นสองส่วน: น้ำซุปก่อนแล้วตามด้วยของแข็ง",
-            "ru": "Мадридский Тушеный, традиционное тушеное блюдо из Мадрида, приготовленное из нута, свинины, чоризо и овощей. Подается в двух частях: сначала бульон, затем твердые ингредиенты."
+            "ru": "Мадридский Тушеный, традиционное тушеное блюдо из Мадрида, приготовленное из нута, свинины, чоризо и овощей. Подается в двух частях: сначала бульон, затем твердые ингредиенты.",
+            "pl": "Gulasz madrycki, tradycyjny gulasz z Madrytu, przygotowany z ciecierzycy, mięsa wieprzowego, chorizo i warzyw. Podawany jest w dwóch częściach: najpierw bulion, a potem składniki stałe."
           }
         },
         {
@@ -1229,14 +1310,17 @@
             "fr": "Ragoût de Haricots Asturien",
             "de": "Asturianisches Bohneneintopf",
             "th": "สตูว์ถั่วอัสตูเรีย",
-            "ru": "Астурийский Бобовый Тушеный"
+            "ru": "Астурийский Бобовый Тушеный",
+            "pl": "Gulasz z Fasoli Asturiańskiej"
           },
-          "price": 8.0,
-          "priceCents": 800,
+          "price": 12.0,
+          "priceCents": 1200,
           "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/fabadaasturiana.webp",
           "allergens": [
             "gluten",
-            "eggs"
+            "egg",
+            "soy",
+            "dairy"
           ],
           "description": {
             "es": "Fabada Asturiana, un guiso de alubias blancas con chorizo, morcilla y panceta, típico de Asturias. Es un plato contundente y muy sabroso.",
@@ -1245,7 +1329,8 @@
             "fr": "Ragoût de Haricots Asturien, un ragoût de haricots blancs avec chorizo, boudin noir et pancetta, typique des Asturies. C'est un plat copieux et très savoureux.",
             "de": "Asturianisches Bohneneintopf, ein Eintopf aus weißen Bohnen mit Chorizo, Blutwurst und Pancetta, typisch für Asturien. Es ist ein herzhaftes und sehr geschmackvolles Gericht.",
             "th": "สตูว์ถั่วอัสตูเรีย เป็นสตูว์ถั่วขาวที่มีไส้กรอกชอริโซ ไส้กรอกเลือด และพานเซตตา ซึ่งเป็นที่นิยมในแคว้นอัสตูเรียส เป็นจานที่หนักแน่นและมีรสชาติอร่อยมาก",
-            "ru": "Астурийский Бобовый Тушеный, тушеное блюдо из белых бобов с чоризо, кровяной колбасой и панчеттой, типичное для Астурии. Это сытное и очень вкусное блюдо."
+            "ru": "Астурийский Бобовый Тушеный, тушеное блюдо из белых бобов с чоризо, кровяной колбасой и панчеттой, типичное для Астурии. Это сытное и очень вкусное блюдо.",
+            "pl": "Gulasz z fasoli asturiańskiej, gulasz z białej fasoli z chorizo, kaszanką i pancettą, typowy dla Asturii. To sycące i bardzo smaczne danie."
           }
         },
         {
@@ -1258,14 +1343,17 @@
             "fr": "Lentilles Sautés",
             "de": "Geschmorte Linsen",
             "th": "เลนทิลสตูว์",
-            "ru": "Тушеные Чечевицы"
+            "ru": "Тушеные Чечевицы",
+            "pl": "Duszona Soczewica"
           },
-          "price": 8.0,
-          "priceCents": 800,
+          "price": 9.0,
+          "priceCents": 900,
           "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/lentejasestofadas.webp",
           "allergens": [
             "gluten",
-            "eggs"
+            "egg",
+            "celery",
+            "mustard"
           ],
           "description": {
             "es": "Lentejas Estofadas, un guiso de lentejas con verduras, chorizo y panceta. Es un plato nutritivo y reconfortante, ideal para los días fríos.",
@@ -1274,7 +1362,8 @@
             "fr": "Lentilles Sautés, un ragoût de lentilles avec des légumes, chorizo et pancetta. C'est un plat nutritif et réconfortant, parfait pour les jours froids.",
             "de": "Geschmorte Linsen, ein Eintopf aus Linsen mit Gemüse, Chorizo und Pancetta. Es ist ein nahrhaftes und tröstliches Gericht, perfekt für kalte Tage.",
             "th": "เลนทิลสตูว์ เป็นสตูว์เลนทิลที่มีผัก ไส้กรอกชอริโซ และพานเซตตา เป็นจานที่มีคุณค่าทางโภชนาการและให้ความอบอุ่น เหมาะสำหรับวันที่หนาวเย็น",
-            "ru": "Тушеные Чечевицы, тушеное блюдо из чечевицы с овощами, чоризо и панчеттой. Это питательное и согревающее блюдо, идеально подходящее для холодных дней."
+            "ru": "Тушеные Чечевицы, тушеное блюдо из чечевицы с овощами, чоризо и панчеттой. Это питательное и согревающее блюдо, идеально подходящее для холодных дней.",
+            "pl": "Duszona soczewica, gulasz z soczewicy z warzywami, chorizo i pancettą. To pożywne i kojące danie, idealne na zimne dni."
           }
         },
         {
@@ -1287,14 +1376,16 @@
             "fr": "Ragoût Galicien",
             "de": "Galicischer Eintopf",
             "th": "สตูว์กาลิเซีย",
-            "ru": "Галисийский Тушеный"
+            "ru": "Галисийский Тушеный",
+            "pl": "Gulasz Galicyjski"
           },
-          "price": 8.0,
-          "priceCents": 800,
+          "price": 11.0,
+          "priceCents": 1100,
           "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/potegallego.webp",
           "allergens": [
             "gluten",
-            "eggs"
+            "egg",
+            "nuts"
           ],
           "description": {
             "es": "Pote Gallego, un guiso gallego hecho con grelos, chorizo, panceta y patatas. Es un plato muy sabroso y nutritivo, ideal para los días fríos.",
@@ -1303,7 +1394,8 @@
             "fr": "Ragoût Galicien, un ragoût galicien fait avec des fanes de navet, chorizo, pancetta et pommes de terre. C'est un plat très savoureux et nutritif, parfait pour les jours froids.",
             "de": "Galicischer Eintopf, ein galicischer Eintopf aus Rübstiel, Chorizo, Pancetta und Kartoffeln. Es ist ein sehr schmackhaftes und nahrhaftes Gericht, perfekt für kalte Tage.",
             "th": "สตูว์กาลิเซีย เป็นสตูว์กาลิเซียที่ทำจากยอดหัวผักกาด ไส้กรอกชอริโซ พานเซตตา และมันฝรั่ง เป็นจานที่มีรสชาติอร่อยและมีคุณค่าทางโภชนาการ เหมาะสำหรับวันที่หนาวเย็น",
-            "ru": "Галисийский Тушеный, галисийское тушеное блюдо из верхушек репы, чоризо, панчетты и картофеля. Это очень вкусное и питательное блюдо, идеально подходящее для холодных дней."
+            "ru": "Галисийский Тушеный, галисийское тушеное блюдо из верхушек репы, чоризо, панчетты и картофеля. Это очень вкусное и питательное блюдо, идеально подходящее для холодных дней.",
+            "pl": "Gulasz galicyjski, galicyjski gulasz z liści rzepy, chorizo, pancettą i ziemniakami. To bardzo smaczne i pożywne danie, idealne na zimne dni."
           }
         }
       ]
@@ -1318,7 +1410,8 @@
         "fr": "Desserts",
         "de": "Desserts",
         "th": "ของหวาน",
-        "ru": "Десерты"
+        "ru": "Десерты",
+        "pl": "Desery"
       },
       "cover": "",
       "items": [
@@ -1332,13 +1425,15 @@
             "fr": "Flan aux Oeufs",
             "de": "Eierflan",
             "th": "พุดดิ้งไข่",
-            "ru": "Яичный Флан"
+            "ru": "Яичный Флан",
+            "pl": "Krem Karmelowy"
           },
-          "price": 7.0,
-          "priceCents": 700,
+          "price": 6.2,
+          "priceCents": 620,
           "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/flandehuevo.webp",
           "allergens": [
-            "gluten"
+            "egg",
+            "dairy"
           ],
           "description": {
             "es": "Flan de Huevo, un postre clásico español hecho con huevos, leche y azúcar, cocido al baño maría. Es suave y cremoso, con un delicioso caramelo por encima.",
@@ -1347,7 +1442,8 @@
             "fr": "Flan aux Oeufs, un dessert classique espagnol fait avec des œufs, du lait et du sucre, cuit au bain-marie. Il est doux et crémeux, avec un délicieux caramel sur le dessus.",
             "de": "Eierflan, ein klassisches spanisches Dessert aus Eiern, Milch und Zucker, im Wasserbad gegart. Es ist weich und cremig, mit einer köstlichen Karamellschicht obendrauf.",
             "th": "พุดดิ้งไข่ เป็นของหวานคลาสสิกของสเปนที่ทำจากไข่ นม และน้ำตาล ปรุงในน้ำอุ่น มีความนุ่มและครีมมี่ พร้อมด้วยคาราเมลอร่อยๆ ด้านบน",
-            "ru": "Яичный Флан, классический испанский десерт, приготовленный из яиц, молока и сахара, запеченный на водяной бане. Он мягкий и кремовый, с восхитительной карамельной начинкой сверху."
+            "ru": "Яичный Флан, классический испанский десерт, приготовленный из яиц, молока и сахара, запеченный на водяной бане. Он мягкий и кремовый, с восхитительной карамельной начинкой сверху.",
+            "pl": "Krem karmelowy, klasyczny hiszpański deser przygotowany z jaj, mleka i cukru, gotowany w kąpieli wodnej. Jest miękki i kremowy, z pyszną polewą karmelową."
           }
         },
         {
@@ -1360,14 +1456,16 @@
             "fr": "Crème Catalane",
             "de": "Katalanische Creme",
             "th": "ครีมคาตาลัน",
-            "ru": "Каталонская Крема"
+            "ru": "Каталонская Крема",
+            "pl": "Kataloński Krem"
           },
-          "price": 8.0,
-          "priceCents": 800,
+          "price": 9.1,
+          "priceCents": 910,
           "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/cremacatalana.webp",
           "allergens": [
-            "gluten",
-            "eggs"
+            "egg",
+            "dairy",
+            "gluten"
           ],
           "description": {
             "es": "Crema Catalana, un postre típico de Cataluña, similar a la crème brûlée, hecho con yemas de huevo, leche, azúcar y canela. Se carameliza por encima para crear una capa crujiente.",
@@ -1376,7 +1474,8 @@
             "fr": "Crème Catalane, un dessert typique de Catalogne, similaire à la crème brûlée, fait avec des jaunes d'œufs, du lait, du sucre et de la cannelle. Il est caramélisé sur le dessus pour créer une couche croustillante.",
             "de": "Katalanische Creme, ein typisches Dessert aus Katalonien, ähnlich wie Crème brûlée, hergestellt aus Eigelb, Milch, Zucker und Zimt. Es wird oben karamellisiert, um eine knusprige Schicht zu erzeugen.",
             "th": "ครีมคาตาลัน เป็นของหวานที่เป็นเอกลักษณ์ของแคว้นกาตาลุญญา คล้ายกับครีมบรูเล่ ทำจากไข่แดง นม น้ำตาล และอบเชย มีการทำให้เป็นคาราเมลด้านบนเพื่อสร้างชั้นกรอบ",
-            "ru": "Каталонская Крема, типичный десерт из Каталонии, похожий на крем-брюле, приготовленный из яичных желтков, молока, сахара и корицы. Сверху карамелизуется для создания хрустящей корочки."
+            "ru": "Каталонская Крема, типичный десерт из Каталонии, похожий на крем-брюле, приготовленный из яичных желтков, молока, сахара и корицы. Сверху карамелизуется для создания хрустящей корочки.",
+            "pl": "Kataloński krem, typowy deser z Katalonii, podobny do crème brûlée, przygotowany z żółtek jaj, mleka, cukru i cynamonu. Na wierzchu karmelizowany, tworząc chrupiącą warstwę."
           }
         },
         {
@@ -1389,14 +1488,15 @@
             "fr": "Riz au Lait",
             "de": "Milchreis",
             "th": "ข้าวพุดดิ้ง",
-            "ru": "Рисовый Пудинг"
+            "ru": "Рисовый Пудинг",
+            "pl": "Ryż na Mleku"
           },
-          "price": 8.0,
-          "priceCents": 800,
+          "price": 7.8,
+          "priceCents": 780,
           "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/arrozleche.webp",
           "allergens": [
-            "gluten",
-            "eggs"
+            "dairy",
+            "gluten"
           ],
           "description": {
             "es": "Arroz con Leche, un postre tradicional español hecho con arroz, leche, azúcar y canela. Es cremoso y reconfortante, ideal para cualquier ocasión.",
@@ -1405,7 +1505,8 @@
             "fr": "Riz au Lait, un dessert traditionnel espagnol fait avec du riz, du lait, du sucre et de la cannelle. Il est crémeux et réconfortant, parfait pour toute occasion.",
             "de": "Milchreis, ein traditionelles spanisches Dessert aus Reis, Milch, Zucker und Zimt. Es ist cremig und tröstlich, perfekt für jede Gelegenheit.",
             "th": "ข้าวพุดดิ้ง เป็นของหวานดั้งเดิมของสเปนที่ทำจากข้าว นม น้ำตาล และอบเชย มีความครีมมี่และให้ความอบอุ่น เหมาะสำหรับทุกโอกาส",
-            "ru": "Рисовый Пудинг, традиционный испанский десерт, приготовленный из риса, молока, сахара и корицы. Он кремовый и согревающий, идеально подходит для любого случая."
+            "ru": "Рисовый Пудинг, традиционный испанский десерт, приготовленный из риса, молока, сахара и корицы. Он кремовый и согревающий, идеально подходит для любого случая.",
+            "pl": "Ryż na mleku, tradycyjny hiszpański deser przygotowany z ryżu, mleka, cukru i cynamonu. Jest kremowy i kojący, idealny na każdą okazję."
           }
         },
         {
@@ -1418,14 +1519,15 @@
             "fr": "Gâteau de Santiago",
             "de": "Santiago Kuchen",
             "th": "เค้กซานติอาโก",
-            "ru": "Сантьяго Торт"
+            "ru": "Сантьяго Торт",
+            "pl": "Ciasto Santiago"
           },
-          "price": 8.0,
-          "priceCents": 800,
+          "price": 9.5,
+          "priceCents": 950,
           "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/tartasantiago.webp",
           "allergens": [
-            "gluten",
-            "eggs"
+            "nuts",
+            "egg"
           ],
           "description": {
             "es": "Tarta de Santiago, un pastel tradicional gallego hecho con almendras molidas, azúcar y huevos. Es un postre delicioso y ligero, típico de la región de Galicia.",
@@ -1434,7 +1536,8 @@
             "fr": "Gâteau de Santiago, un gâteau traditionnel galicien fait avec des amandes moulues, du sucre et des œufs. C'est un dessert délicieux et léger, typique de la région de Galice.",
             "de": "Santiago Kuchen, ein traditioneller galicischer Kuchen aus gemahlenen Mandeln, Zucker und Eiern. Es ist ein köstliches und leichtes Dessert, typisch für die Region Galicien.",
             "th": "เค้กซานติอาโก เป็นเค้กดั้งเดิมของแคว้นกาลิเซียที่ทำจากอัลมอนด์บด น้ำตาล และไข่ เป็นของหวานที่อร่อยและเบา เหมาะกับภูมิภาคกาลิเซีย",
-            "ru": "Сантьяго Торт, традиционный галисийский торт, приготовленный из молотого миндаля, сахара и яиц. Это вкусный и легкий десерт, типичный для региона Галисия."
+            "ru": "Сантьяго Торт, традиционный галисийский торт, приготовленный из молотого миндаля, сахара и яиц. Это вкусный и легкий десерт, типичный для региона Галисия.",
+            "pl": "Ciasto Santiago, tradycyjne galicyjskie ciasto przygotowane z mielonych migdałów, cukru i jaj. To pyszny i lekki deser, typowy dla regionu Galicja."
           }
         }
       ]
@@ -1449,7 +1552,8 @@
         "fr": "Vins",
         "de": "Weine",
         "th": "ไวน์",
-        "ru": "Вина"
+        "ru": "Вина",
+        "pl": "Wina"
       },
       "cover": "",
       "subcategories": [
@@ -1462,7 +1566,8 @@
             "fr": "Blanc",
             "de": "Weiß",
             "th": "ขาว",
-            "ru": "Белое"
+            "ru": "Белое",
+            "pl": "Białe"
           },
           "items": [
             {
@@ -1475,7 +1580,8 @@
                 "fr": "Belondrade, Belondrade y Lurton 2023",
                 "de": "Belondrade, Belondrade y Lurton 2023",
                 "th": "Belondrade, Belondrade y Lurton 2023",
-                "ru": "Belondrade, Belondrade y Lurton 2023"
+                "ru": "Belondrade, Belondrade y Lurton 2023",
+                "pl": "Belondrade, Belondrade y Lurton 2023"
               },
               "price": 80.0,
               "priceCents": 8000,
@@ -1491,7 +1597,8 @@
                 "fr": "Vin blanc de Verdejo de Rueda, complexe et élégant",
                 "de": "Weißwein aus Verdejo aus Rueda, komplex und elegant",
                 "th": "ไวน์ขาวจาก Verdejo ใน Rueda, ซับซ้อนและหรูหรา",
-                "ru": "Белое вино из Вердехо из Руэда, сложное и элегантное"
+                "ru": "Белое вино из Вердехо из Руэда, сложное и элегантное",
+                "pl": "Białe wino z Verdejo w Rueda, złożone i eleganckie"
               }
             },
             {
@@ -1504,7 +1611,8 @@
                 "fr": "Bernabeleva, Navahereos 2023",
                 "de": "Bernabeleva, Navahereos 2023",
                 "th": "Bernabeleva, Navahereos 2023",
-                "ru": "Bernabeleva, Navahereos 2023"
+                "ru": "Bernabeleva, Navahereos 2023",
+                "pl": "Bernabeleva, Navahereos 2023"
               },
               "price": 5.5,
               "priceCents": 550,
@@ -1519,7 +1627,8 @@
                 "fr": "Vin blanc d'Albillo Real de Madrid, frais et équilibré",
                 "de": "Weißwein aus Albillo Real aus Madrid, frisch und ausgewogen",
                 "th": "ไวน์ขาวจาก Albillo Real ในมาดริด, สดชื่นและสมดุล",
-                "ru": "Белое вино из Albillo Real в Мадриде, свежее и сбалансированное"
+                "ru": "Белое вино из Albillo Real в Мадриде, свежее и сбалансированное",
+                "pl": "Białe wino z Albillo Real w Madrycie, świeże i zrównoważone"
               }
             },
             {
@@ -1532,7 +1641,8 @@
                 "fr": "Ponce, Blanc 2024",
                 "de": "Ponce, Weiß 2024",
                 "th": "Ponce, Blanco 2024",
-                "ru": "Ponce, Blanco 2024"
+                "ru": "Ponce, Blanco 2024",
+                "pl": "Ponce, Blanco 2024"
               },
               "price": 30.0,
               "priceCents": 3000,
@@ -1547,7 +1657,8 @@
                 "fr": "Vin blanc d'Albilla de Manchuela, élégant et aromatique",
                 "de": "Weißwein aus Albilla de Manchuela, elegant und aromatisch",
                 "th": "ไวน์ขาวจาก Albilla de Manchuela, หรูหราและมีกลิ่นหอม",
-                "ru": "Белое вино из Albilla de Manchuela, элегантное и ароматное"
+                "ru": "Белое вино из Albilla de Manchuela, элегантное и ароматное",
+                "pl": "Białe wino z Albilla de Manchuela, eleganckie i aromatyczne"
               }
             },
             {
@@ -1560,7 +1671,8 @@
                 "fr": "Château Pégau, Cuvée Lôné 2022",
                 "de": "Château Pégau, Cuvée Lôné 2022",
                 "th": "Château Pégau, Cuvée Lôné 2022",
-                "ru": "Château Pégau, Cuvée Lôné 2022"
+                "ru": "Château Pégau, Cuvée Lôné 2022",
+                "pl": "Château Pégau, Cuvée Lôné 2022"
               },
               "price": 0.0,
               "priceCents": 0,
@@ -1575,7 +1687,8 @@
                 "fr": "Vin blanc de Côtes du Rhône avec des notes de Clairette, Burbulenc et Grenache Blanc",
                 "de": "Weißwein aus Côtes du Rhône mit Noten von Clairette, Burbulenc und Grenache Blanc",
                 "th": "ไวน์ขาวจาก Côtes du Rhône ที่มีกลิ่นของ Clairette, Burbulenc และ Grenache Blanc",
-                "ru": "Белое вино из Côtes du Rhône с нотами Clairette, Burbulenc и Grenache Blanc"
+                "ru": "Белое вино из Côtes du Rhône с нотами Clairette, Burbulenc и Grenache Blanc",
+                "pl": "Białe wino z Côtes du Rhône z nutami Clairette, Burbulenc i Grenache Blanc"
               }
             },
             {
@@ -1588,7 +1701,8 @@
                 "fr": "Castro Ventosa, El Castro de Valtuille 2023",
                 "de": "Castro Ventosa, El Castro de Valtuille 2023",
                 "th": "Castro Ventosa, El Castro de Valtuille 2023",
-                "ru": "Castro Ventosa, El Castro de Valtuille 2023"
+                "ru": "Castro Ventosa, El Castro de Valtuille 2023",
+                "pl": "Castro Ventosa, El Castro de Valtuille 2023"
               },
               "price": 6.5,
               "priceCents": 650,
@@ -1603,7 +1717,8 @@
                 "fr": "Vin blanc de Godello de Bierzo, frais et minéral",
                 "de": "Weißwein aus Godello aus Bierzo, frisch und mineralisch",
                 "th": "ไวน์ขาวจาก Godello ใน Bierzo, สดชื่นและมีแร่ธาตุ",
-                "ru": "Белое вино из Godello в Bierzo, свежее и минеральное"
+                "ru": "Белое вино из Godello в Bierzo, свежее и минеральное",
+                "pl": "Białe wino z Godello w Bierzo, świeże i mineralne"
               }
             },
             {
@@ -1616,7 +1731,8 @@
                 "fr": "Fattoria San Lorenzo, Le Oche, 2022",
                 "de": "Fattoria San Lorenzo, Le Oche, 2022",
                 "th": "Fattoria San Lorenzo, Le Oche, 2022",
-                "ru": "Fattoria San Lorenzo, Le Oche, 2022"
+                "ru": "Fattoria San Lorenzo, Le Oche, 2022",
+                "pl": "Fattoria San Lorenzo, Le Oche, 2022"
               },
               "price": 39.0,
               "priceCents": 3900,
@@ -1631,7 +1747,8 @@
                 "fr": "Vin blanc de Verdicchio de Marche, complexe et structuré",
                 "de": "Weißwein aus Verdicchio aus Marche, komplex und strukturiert",
                 "th": "ไวน์ขาวจาก Verdicchio ใน Marche, ซับซ้อนและมีโครงสร้าง",
-                "ru": "Белое вино из Вердехо из Руэда, сложное и элегантное"
+                "ru": "Белое вино из Вердехо из Руэда, сложное и элегантное",
+                "pl": "Białe wino z Verdicchio w Marche, złożone i zbudowane"
               }
             },
             {
@@ -1644,7 +1761,8 @@
                 "fr": "Primitivo Collantes, Socaire 2021",
                 "de": "Primitivo Collantes, Socaire 2021",
                 "th": "Primitivo Collantes, Socaire 2021",
-                "ru": "Primitivo Collantes, Socaire 2021"
+                "ru": "Primitivo Collantes, Socaire 2021",
+                "pl": "Primitivo Collantes, Socaire 2021"
               },
               "price": 40.0,
               "priceCents": 4000,
@@ -1659,7 +1777,8 @@
                 "fr": "Vin blanc de Palomino de Cádiz, intense et salin",
                 "de": "Weißwein aus Palomino aus Cádiz, intensiv und salzig",
                 "th": "ไวน์ขาวจาก Palomino ใน Cádiz, เข้มข้นและเค็ม",
-                "ru": "Белое вино из Palomino в Кадисе, интенсивное и соленое"
+                "ru": "Белое вино из Palomino в Кадисе, интенсивное и соленое",
+                "pl": "Białe wino z Palomino w Kadyksie, intensywne i słone"
               }
             },
             {
@@ -1672,7 +1791,8 @@
                 "fr": "Garnier, Chablis 2021",
                 "de": "Garnier, Chablis 2021",
                 "th": "Garnier, Chablis 2021",
-                "ru": "Garnier, Chablis 2021"
+                "ru": "Garnier, Chablis 2021",
+                "pl": "Garnier, Chablis 2021"
               },
               "price": 47.0,
               "priceCents": 4700,
@@ -1687,7 +1807,8 @@
                 "fr": "Vin blanc de Chardonnay de Chablis, frais et citronné",
                 "de": "Weißwein aus Chardonnay aus Chablis, frisch und zitronig",
                 "th": "ไวน์ขาวจาก Chardonnay ใน Chablis, สดชื่นและมีกลิ่นมะนาว",
-                "ru": "Белое вино из Шардоне в Шабли, свежее и цитрусовое"
+                "ru": "Белое вино из Шардоне в Шабли, свежее и цитрусовое",
+                "pl": "Białe wino z Chardonnay w Chablis, świeże i cytrusowe"
               }
             },
             {
@@ -1700,7 +1821,8 @@
                 "fr": "Bekka, Obeideh 2021",
                 "de": "Bekka, Obeideh 2021",
                 "th": "Bekka, Obeideh 2021",
-                "ru": "Bekka, Obeideh 2021"
+                "ru": "Bekka, Obeideh 2021",
+                "pl": "Bekka, Obeideh 2021"
               },
               "price": 58.0,
               "priceCents": 5800,
@@ -1715,7 +1837,8 @@
                 "fr": "Vin blanc d'Obeideh du Liban, exotique et aromatique",
                 "de": "Weißwein aus Obeideh aus dem Libanon, exotisch und aromatisch",
                 "th": "ไวน์ขาวจาก Obeideh ในเลบานอน, แปลกใหม่และมีกลิ่นหอม",
-                "ru": "Белое вино из Obeideh в Ливане, экзотическое и ароматное"
+                "ru": "Белое вино из Obeideh в Ливане, экзотическое и ароматное",
+                "pl": "Białe wino z Obeideh w Libanie, egzotyczne i aromatyczne"
               }
             },
             {
@@ -1728,7 +1851,8 @@
                 "fr": "Karamolegos, Cuvée 34 2021",
                 "de": "Karamolegos Cuvée 34 2021",
                 "th": "Karamolegos, Cuvée 34 2021",
-                "ru": "Karamolegos, Cuvée 34 2021"
+                "ru": "Karamolegos, Cuvée 34 2021",
+                "pl": "Karamolegos, Cuvée 34 2021"
               },
               "price": 63.0,
               "priceCents": 6300,
@@ -1743,7 +1867,8 @@
                 "fr": "Vin blanc d'Assyrtiko de Santorini, minéral et structuré",
                 "de": "Weißwein aus Assyrtiko aus Santorini, mineralisch und strukturiert",
                 "th": "ไวน์ขาวจาก Assyrtiko ใน Santorini, แร่ธาตุและมีโครงสร้าง",
-                "ru": "Белое вино из Assyrtiko в Санторини, минеральное и структурированное"
+                "ru": "Белое вино из Assyrtiko в Санторини, минеральное и структурированное",
+                "pl": "Białe wino z Assyrtiko w Santorini, mineralne i zbudowane"
               }
             }
           ]
@@ -1757,7 +1882,8 @@
             "fr": "Mousseux",
             "de": "Sekt",
             "th": "ฟอง",
-            "ru": "Игристое"
+            "ru": "Игристое",
+            "pl": "Musujące"
           },
           "items": [
             {
@@ -1770,7 +1896,8 @@
                 "fr": "Mallibran, Sottoriva 2023",
                 "de": "Mallibran, Sottoriva 2023",
                 "th": "Mallibran, Sottoriva 2023",
-                "ru": "Mallibran, Sottoriva 2023"
+                "ru": "Mallibran, Sottoriva 2023",
+                "pl": "Mallibran, Sottoriva 2023"
               },
               "price": 30.00,
               "cover": "",
@@ -1787,7 +1914,8 @@
                 "fr": "Prosecco de Glera en Col Fondo, frais et pétillant",
                 "de": "Prosecco aus Glera in Col Fondo, frisch und spritzig",
                 "th": "โปรเซกโก้จาก Glera ใน Col Fondo, สดชื่นและมีฟอง",
-                "ru": "Белое вино из Albillo Real в Мадриде, свежее и сбалансированное"
+                "ru": "Белое вино из Albillo Real в Мадриде, свежее и сбалансированное",
+                "pl": "Prosecco z Glera w Col Fondo, świeże i musujące"
               }
             },
             {
@@ -1800,7 +1928,8 @@
                 "fr": "Oddero Cascia Fiori 2024 (doux)",
                 "de": "Oddero Cascia Fiori 2024 (süß)",
                 "th": "Oddero Cascia Fiori 2024 (หวาน)",
-                "ru": "Oddero Cascia Fiori 2024 (сладкое)"
+                "ru": "Oddero Cascia Fiori 2024 (сладкое)",
+                "pl": "Oddero Cascia Fiori 2024 (słodkie)"
               },
               "price": 39.00,
               "cover": "",
@@ -1817,7 +1946,8 @@
                 "fr": "Moscato d'Asti doux et aromatique",
                 "de": "Süßer und aromatischer Moscato d'Asti",
                 "th": "มอสคาโต ดาเอสติ หวานและมีกลิ่นหอม",
-                "ru": "Сладкий и ароматный Moscato d'Asti"
+                "ru": "Сладкий и ароматный Moscato d'Asti",
+                "pl": "Słodkie i aromatyczne Moscato d'Asti"
               }
             },
             {
@@ -1830,7 +1960,8 @@
                 "fr": "Mestres, Visol 2017",
                 "de": "Mestres, Visol 2017",
                 "th": "Mestres, Visol 2017",
-                "ru": "Mestres, Visol 2017"
+                "ru": "Mestres, Visol 2017",
+                "pl": "Mestres, Visol 2017"
               },
               "price": 47.00,
               "cover": "",
@@ -1847,7 +1978,8 @@
                 "fr": "Cava de Macabeu, Xarelo et Parellada, complexe et élégant",
                 "de": "Cava aus Macabeu, Xarelo und Parellada, komplex und elegant",
                 "th": "Cava จาก Macabeu, Xarelo และ Parellada, ซับซ้อนและหรูหรา",
-                "ru": "Кава из Macabeu, Xarelo и Parellada, сложное и элегантное"
+                "ru": "Кава из Macabeu, Xarelo и Parellada, сложное и элегантное",
+                "pl": "Cava z Macabeu, Xarelo i Parellada, złożone i eleganckie"
               }
             },
             {
@@ -1860,7 +1992,8 @@
                 "fr": "Thierry Fournier, Réserve Brut NV",
                 "de": "Thierry Fournier, Réserve Brut NV",
                 "th": "Thierry Fournier, Réserve Brut NV",
-                "ru": "Thierry Fournier, Réserve Brut NV"
+                "ru": "Thierry Fournier, Réserve Brut NV",
+                "pl": "Thierry Fournier, Réserve Brut NV"
               },
               "price": 15.00,
               "cover": "",
@@ -1877,7 +2010,8 @@
                 "fr": "Champagne Brut avec Meunier, Pinot Noir et Chardonnay, frais et équilibré",
                 "de": "Champagner Brut mit Meunier, Pinot Noir und Chardonnay, frisch und ausgewogen",
                 "th": "แชมเปญ Brut กับ Meunier, Pinot Noir และ Chardonnay, สดชื่นและสมดุล",
-                "ru": "Шампанское Brut с Meunier, Pinot Noir и Chardonnay, свежее и сбалансированное"
+                "ru": "Шампанское Brut с Meunier, Pinot Noir и Chardonnay, свежее и сбалансированное",
+                "pl": "Szampan Brut z Meunier, Pinot Noir i Chardonnay, świeży i zrównoważony"
               }
             }
           ]
@@ -1891,7 +2025,8 @@
             "fr": "Orange",
             "de": "Orange",
             "th": "ส้ม",
-            "ru": "Оранжевое"
+            "ru": "Оранжевое",
+            "pl": "Pomarańczowe"
           },
           "items": [
             {
@@ -1904,10 +2039,14 @@
                 "fr": "Celler Frisach, La Forada 2022",
                 "de": "Celler Frisach, La Forada 2022",
                 "th": "Celler Frisach, La Forada 2022",
-                "ru": "Celler Frisach, La Forada 2022"
+                "ru": "Celler Frisach, La Forada 2022",
+                "pl": "Celler Frisach, La Forada 2022"
               },
               "price": 34.00,
               "cover": "",
+              "category": {
+                "common": "orange_wine"
+              },
               "allergens": [
                 "sulfites"
               ],
@@ -1918,7 +2057,8 @@
                 "fr": "Vin orange de Grenache Blanc de Terra Alta, complexe et structuré",
                 "de": "Orangwein aus Grenache Blanc aus Terra Alta, komplex und strukturiert",
                 "th": "ไวน์ส้มจาก Grenache Blanc ใน Terra Alta, ซับซ้อนและมีโครงสร้าง",
-                "ru": "Оранжевое вино из Grenache Blanc в Terra Alta, сложное и структурированное"
+                "ru": "Оранжевое вино из Grenache Blanc в Terra Alta, сложное и структурированное",
+                "pl": "Pomarańczowe wino z Grenache Blanc w Terra Alta, złożone i zbudowane"
               }
             },
             {
@@ -1931,10 +2071,14 @@
                 "fr": "Fabio Coulet, Orange Peels 2023",
                 "de": "Fabio Coulet, Orange Peels 2023",
                 "th": "Fabio Coulet, Orange Peels 2023",
-                "ru": "Fabio Coulet, Orange Peels 2023"
+                "ru": "Fabio Coulet, Orange Peels 2023",
+                "pl": "Fabio Coulet, Orange Peels 2023"
               },
               "price": 46.00,
               "cover": "",
+              "category": {
+                "common": "orange_wine"
+              },
               "allergens": [
                 "sulfites"
               ],
@@ -1945,7 +2089,8 @@
                 "fr": "Vin orange de Muscat of Alexandria de Málaga, aromatique et unique",
                 "de": "Orangwein aus Muscat of Alexandria aus Málaga, aromatisch und einzigartig",
                 "th": "ไวน์ส้มจาก Muscat of Alexandria ในมาลากา, มีกลิ่นหอมและไม่เหมือนใคร",
-                "ru": "Оранжевое вино из Muscat of Alexandria в Малаге, ароматное и уникальное"
+                "ru": "Оранжевое вино из Muscat of Alexandria в Малаге, ароматное и уникальное",
+                "pl": "Pomarańczowe wino z Muscat of Alexandria w Maladze, aromatyczne i unikalne"
               }
             },
             {
@@ -1958,10 +2103,14 @@
                 "fr": "I Cacciagalli, Zgreo 2022",
                 "de": "I Cacciagalli, Zgreo 2022",
                 "th": "I Cacciagalli, Zgreo 2022",
-                "ru": "I Cacciagalli, Zgreo 2022"
+                "ru": "I Cacciagalli, Zgreo 2022",
+                "pl": "I Cacciagalli, Zgreo 2022"
               },
               "price": 50.00,
               "cover": "",
+              "category": {
+                "common": "orange_wine"
+              },
               "allergens": [
                 "sulfites"
               ],
@@ -1972,7 +2121,8 @@
                 "fr": "Vin orange de Fiano de Roccamonfina, intense et terreux",
                 "de": "Orangwein aus Fiano aus Roccamonfina, intensiv und erdig",
                 "th": "ไวน์ส้มจาก Fiano ใน Roccamonfina, เข้มข้นและมีดิน",
-                "ru": "Оранжевое вино из Fiano в Roccamonfina, интенсивное и землянистое"
+                "ru": "Оранжевое вино из Fiano в Roccamonfina, интенсивное и землянистое",
+                "pl": "Pomarańczowe wino z Fiano w Roccamonfina, intensywne i ziemiste"
               }
             }
           ]
@@ -1986,7 +2136,8 @@
             "fr": "Rosé",
             "de": "Rosé",
             "th": "กุหลาบ",
-            "ru": "Розовое"
+            "ru": "Розовое",
+            "pl": "Różowe"
           },
           "items": [
             {
@@ -1999,7 +2150,8 @@
                 "fr": "Soto Manrique, Naranjas Azules 2023",
                 "de": "Soto Manrique, Naranjas Azules 2023",
                 "th": "Soto Manrique, Naranjas Azules 2023",
-                "ru": "Soto Manrique, Naranjas Azules 2023"
+                "ru": "Soto Manrique, Naranjas Azules 2023",
+                "pl": "Soto Manrique, Naranjas Azules 2023"
               },
               "price": 4.50,
               "cover": "",
@@ -2016,7 +2168,8 @@
                 "fr": "Vin rosé de Grenache de Madrid, frais et fruité",
                 "de": "Roséwein aus Grenache aus Madrid, frisch und fruchtig",
                 "th": "ไวน์โรเซ่จาก Grenache ในมาดริด, สดชื่นและผลไม้",
-                "ru": "Розовое вино из Grenache в Мадриде, свежее и фруктовое"
+                "ru": "Розовое вино из Grenache в Мадриде, свежее и фруктовое",
+                "pl": "Różowe wino z Grenache w Madrycie, świeże i owocowe"
               }
             },
             {
@@ -2029,7 +2182,8 @@
                 "fr": "Miraval, Rosé 2024",
                 "de": "Miraval, Rosé 2024",
                 "th": "Miraval, Rosé 2024",
-                "ru": "Miraval, Rosé 2024"
+                "ru": "Miraval, Rosé 2024",
+                "pl": "Miraval, Rosé 2024"
               },
               "price": 44.00,
               "cover": "",
@@ -2046,7 +2200,8 @@
                 "fr": "Vin rosé de Côtes de Provence avec Cinsault, Grenache, Rolle et Syrah",
                 "de": "Roséwein aus Côtes de Provence mit Cinsault, Grenache, Rolle und Syrah",
                 "th": "ไวน์โรเซ่จาก Côtes de Provence ที่มี Cinsault, Grenache, Rolle และ Syrah",
-                "ru": "Розовое вино из Côtes de Provence с Cinsault, Grenache, Rolle и Syrah"
+                "ru": "Розовое вино из Côtes de Provence с Cinsault, Grenache, Rolle и Syrah",
+                "pl": "Różowe wino z Côtes de Provence z Cinsault, Grenache, Rolle i Syrah"
               }
             },
             {
@@ -2059,7 +2214,8 @@
                 "fr": "Clos Cibonne, Cuvée des Vignettes 2022",
                 "de": "Clos Cibonne, Cuvée des Vignettes 2022",
                 "th": "Clos Cibonne, Cuvée des Vignettes 2022",
-                "ru": "Clos Cibonne, Cuvée des Vignettes 2022"
+                "ru": "Clos Cibonne, Cuvée des Vignettes 2022",
+                "pl": "Clos Cibonne, Cuvée des Vignettes 2022"
               },
               "price": 64.00,
               "cover": "",
@@ -2076,7 +2232,8 @@
                 "fr": "Vin rosé de Côtes de Provence avec Tibouren et Grenache",
                 "de": "Roséwein aus Côtes de Provence mit Tibouren und Grenache",
                 "th": "ไวน์โรเซ่จาก Côtes de Provence ที่มี Tibouren และ Grenache",
-                "ru": "Розовое вино из Côtes de Provence с Tibouren и Grenache"
+                "ru": "Розовое вино из Côtes de Provence с Tibouren и Grenache",
+                "pl": "Różowe wino z Côtes de Provence z Tibouren i Grenache"
               }
             }
           ]
@@ -2090,7 +2247,8 @@
             "fr": "Rouge",
             "de": "Rot",
             "th": "แดง",
-            "ru": "Красное"
+            "ru": "Красное",
+            "pl": "Czerwone"
           },
           "items": [
             {
@@ -2103,7 +2261,8 @@
                 "fr": "Montelaguna, Tinto 2023",
                 "de": "Montelaguna, Tinto 2023",
                 "th": "Montelaguna, Tinto 2023",
-                "ru": "Montelaguna, Tinto 2023"
+                "ru": "Montelaguna, Tinto 2023",
+                "pl": "Montelaguna, Tinto 2023"
               },
               "price": 5.25,
               "cover": "",
@@ -2120,7 +2279,8 @@
                 "fr": "Vin rouge de Tempranillo de Ribera del Duero, frais et équilibré",
                 "de": "Rotwein aus Tempranillo aus Ribera del Duero, frisch und ausgewogen",
                 "th": "ไวน์แดงจาก Tempranillo ใน Ribera del Duero, สดชื่นและสมดุล",
-                "ru": "Красное вино из Tempranillo в Ribera del Duero, свежее и сбалансированное"
+                "ru": "Красное вино из Tempranillo в Ribera del Duero, свежее и сбалансированное",
+                "pl": "Czerwone wino z Tempranillo w Ribera del Duero, świeże i zrównoważone"
               }
             },
             {
@@ -2133,7 +2293,8 @@
                 "fr": "Guimaro, Tinto 2024",
                 "de": "Guimaro, Tinto 2024",
                 "th": "Guimaro, Tinto 2024",
-                "ru": "Guimaro, Tinto 2024"
+                "ru": "Guimaro, Tinto 2024",
+                "pl": "Guimaro, Tinto 2024"
               },
               "price": 5.26,
               "cover": "",
@@ -2150,7 +2311,8 @@
                 "fr": "Vin rouge de Mencía, Brancellao, Trousseau et autres variétés de Ribeira Sacra",
                 "de": "Rotwein aus Mencía, Brancellao, Trousseau und anderen Sorten aus Ribeira Sacra",
                 "th": "ไวน์แดงจาก Mencía, Brancellao, Trousseau และพันธุ์อื่น ๆ ใน Ribeira Sacra",
-                "ru": "Красное вино из Mencía, Brancellao, Trousseau и других сортов в Ribeira Sacra"
+                "ru": "Красное вино из Mencía, Brancellao, Trousseau и других сортов в Ribeira Sacra",
+                "pl": "Czerwone wino z Mencía, Brancellao, Trousseau i innych odmian w Ribeira Sacra"
               }
             },
             {
@@ -2163,7 +2325,8 @@
                 "fr": "Viña del Lentisco, Selvaveda 2022",
                 "de": "Viña del Lentisco, Selvaveda 2022",
                 "th": "Viña del Lentisco, Selvaveda 2022",
-                "ru": "Viña del Lentisco, Selvaveda 2022"
+                "ru": "Viña del Lentisco, Selvaveda 2022",
+                "pl": "Viña del Lentisco, Selvaveda 2022"
               },
               "price": 26.00,
               "cover": "",
@@ -2180,7 +2343,8 @@
                 "fr": "Vin rouge de Tempranillo, Graciano, Grenache et Carignan de Rioja",
                 "de": "Rotwein aus Tempranillo, Graciano, Grenache und Carignan aus Rioja",
                 "th": "ไวน์แดงจาก Tempranillo, Graciano, Grenache และ Carignan ใน Rioja",
-                "ru": "Красное вино из Tempranillo, Graciano, Grenache и Carignan в Риохе"
+                "ru": "Красное вино из Tempranillo, Graciano, Grenache и Carignan в Риохе",
+                "pl": "Czerwone wino z Tempranillo, Graciano, Grenache i Carignan w Rioja"
               }
             },
             {
@@ -2193,7 +2357,8 @@
                 "fr": "Viñedos de Remelluri, Labastida 2021",
                 "de": "Viñedos de Remelluri, Labastida 2021",
                 "th": "Viñedos de Remelluri, Labastida 2021",
-                "ru": "Viñedos de Remelluri, Labastida 2021"
+                "ru": "Viñedos de Remelluri, Labastida 2021",
+                "pl": "Viñedos de Remelluri, Labastida 2021"
               },
               "price": 39.00,
               "cover": "",
@@ -2210,7 +2375,8 @@
                 "fr": "Vin rouge de Tempranillo, Grenache et Graciano de Rioja",
                 "de": "Rotwein aus Tempranillo, Grenache und Graciano aus Rioja",
                 "th": "ไวน์แดงจาก Tempranillo, Grenache และ Graciano ใน Rioja",
-                "ru": "Красное вино из Tempranillo, Grenache и Graciano в Риохе"
+                "ru": "Красное вино из Tempranillo, Grenache и Graciano в Риохе",
+                "pl": "Czerwone wino z Tempranillo, Grenache i Graciano w Rioja"
               }
             },
             {
@@ -2223,7 +2389,8 @@
                 "fr": "Borgogno Rivata, Nebbiolo 2022",
                 "de": "Borgogno Rivata, Nebbiolo 2022",
                 "th": "Borgogno Rivata, Nebbiolo 2022",
-                "ru": "Borgogno Rivata, Nebbiolo 2022"
+                "ru": "Borgogno Rivata, Nebbiolo 2022",
+                "pl": "Borgogno Rivata, Nebbiolo 2022"
               },
               "price": 39.00,
               "cover": "",
@@ -2240,7 +2407,8 @@
                 "fr": "Vin rouge de Nebbiolo de Langhe, élégant et tannique",
                 "de": "Rotwein aus Nebbiolo aus Langhe, elegant und tanninhaltig",
                 "th": "ไวน์แดงจาก Nebbiolo ใน Langhe, หรูหราและแทนนิค",
-                "ru": "Красное вино из Nebbiolo в Langhe, элегантное и танинное"
+                "ru": "Красное вино из Nebbiolo в Langhe, элегантное и танинное",
+                "pl": "Czerwone wino z Nebbiolo w Langhe, eleganckie i taniczne"
               }
             },
             {
@@ -2253,7 +2421,8 @@
                 "fr": "Graillot, Domaine des Ouleb, Thaleh 2022",
                 "de": "Graillot, Domaine des Ouleb, Thaleh 2022",
                 "th": "Graillot, Domaine des Ouleb, Thaleh 2022",
-                "ru": "Graillot, Domaine des Ouleb, Thaleh 2022"
+                "ru": "Graillot, Domaine des Ouleb, Thaleh 2022",
+                "pl": "Graillot, Domaine des Ouleb, Thaleh 2022"
               },
               "price": 39.00,
               "cover": "",
@@ -2270,7 +2439,8 @@
                 "fr": "Vin rouge de Syrah de Meknès, puissant et épicé",
                 "de": "Rotwein aus Syrah aus Meknès, kräftig und gewürzt",
                 "th": "ไวน์แดงจาก Syrah ใน Meknès, เข้มข้นและมีเครื่องเทศ",
-                "ru": "Красное вино из Syrah в Мекнесе, мощное и пряное"
+                "ru": "Красное вино из Syrah в Мекнесе, мощное и пряное",
+                "pl": "Czerwone wino z Syrah w Meknès, potężne i przyprawione"
               }
             },
             {
@@ -2283,7 +2453,8 @@
                 "fr": "4Kilos, Tanuki Bob 2022",
                 "de": "4Kilos, Tanuki Bob 2022",
                 "th": "4Kilos, Tanuki Bob 2022",
-                "ru": "4Kilos, Tanuki Bob 2022"
+                "ru": "4Kilos, Tanuki Bob 2022",
+                "pl": "4Kilos, Tanuki Bob 2022"
               },
               "price": 39.00,
               "cover": "",
@@ -2300,7 +2471,8 @@
                 "fr": "Vin rouge de Mantonegro et Syrah de Mallorca, fruité et vif",
                 "de": "Rotwein aus Mantonegro und Syrah aus Mallorca, fruchtig und lebendig",
                 "th": "ไวน์แดงจาก Mantonegro และ Syrah ในมอลตา, ผลไม้และมีชีวิตชีวา",
-                "ru": "Красное вино из Mantonegro и Syrah на Майорке, фруктовое и живое"
+                "ru": "Красное вино из Mantonegro и Syrah на Майорке, фруктовое и живое",
+                "pl": "Czerwone wino z Mantonegro i Syrah na Majorce, owocowe i żywe"
               }
             },
             {
@@ -2313,7 +2485,8 @@
                 "fr": "Mittas, Xinomavro 2021",
                 "de": "Mittas, Xinomavro 2021",
                 "th": "Mittas, Xinomavro 2021",
-                "ru": "Mittas, Xinomavro 2021"
+                "ru": "Mittas, Xinomavro 2021",
+                "pl": "Mittas, Xinomavro 2021"
               },
               "price": 40.00,
               "cover": "",
@@ -2330,7 +2503,8 @@
                 "fr": "Vin rouge de Xinomavro de Naoussa, robuste et terreux",
                 "de": "Rotwein aus Xinomavro aus Naoussa, robust und erdig",
                 "th": "ไวน์แดงจาก Xinomavro ใน Naoussa, แข็งแกร่งและมีดิน",
-                "ru": "Красное вино из Xinomavro в Науссе, крепкое и землянистое"
+                "ru": "Красное вино из Xinomavro в Науссе, крепкое и землянистое",
+                "pl": "Czerwone wino z Xinomavro w Naoussa, solidne i ziemiste"
               }
             },
             {
@@ -2343,7 +2517,8 @@
                 "fr": "Vinas Mora, Andreis, 2021",
                 "de": "Vinas Mora, Andreis, 2021",
                 "th": "Vinas Mora, Andreis, 2021",
-                "ru": "Vinas Mora, Andreis, 2021"
+                "ru": "Vinas Mora, Andreis, 2021",
+                "pl": "Vinas Mora, Andreis, 2021"
               },
               "price": 47.00,
               "cover": "",
@@ -2360,7 +2535,8 @@
                 "fr": "Vin rouge de Babic de Primošten, intense et épicé",
                 "de": "Rotwein aus Babic aus Primošten, intensiv und gewürzt",
                 "th": "ไวน์แดงจาก Babic ใน Primošten, เข้มข้นและมีเครื่องเทศ",
-                "ru": "Красное вино из Babic в Примоштене, интенсивное и пряное"
+                "ru": "Красное вино из Babic в Примоштене, интенсивное и пряное",
+                "pl": "Czerwone wino z Babic w Primošten, intensywne i przyprawione"
               }
             },
             {
@@ -2373,7 +2549,8 @@
                 "fr": "Gallety, Rouge 2021",
                 "de": "Gallety, Rouge 2021",
                 "th": "Gallety, Rouge 2021",
-                "ru": "Gallety, Rouge 2021"
+                "ru": "Gallety, Rouge 2021",
+                "pl": "Gallety, Rouge 2021"
               },
               "price": 48.00,
               "cover": "",
@@ -2390,7 +2567,8 @@
                 "fr": "Vin rouge de Grenache et Syrah de Côtes de Vivarais, robuste et fruité",
                 "de": "Rotwein aus Grenache und Syrah aus Côtes de Vivarais, robust und fruchtig",
                 "th": "ไวน์แดงจาก Grenache และ Syrah ใน Côtes de Vivarais, แข็งแกร่งและผลไม้",
-                "ru": "Красное вино из Grenache и Syrah в Côtes de Vivarais, крепкое и фруктовое"
+                "ru": "Красное вино из Grenache и Syrah в Côtes de Vivarais, крепкое и фруктовое",
+                "pl": "Czerwone wino z Grenache i Syrah w Côtes de Vivarais, solidne i owocowe"
               }
             },
             {
@@ -2403,7 +2581,8 @@
                 "fr": "Parparoussis, Epilegmenos Reserva 2016",
                 "de": "Parparoussis, Epilegmenos Reserva 2016",
                 "th": "Parparoussis, Epilegmenos Reserva 2016",
-                "ru": "Parparoussis, Epilegmenos Reserva 2016"
+                "ru": "Parparoussis, Epilegmenos Reserva 2016",
+                "pl": "Parparoussis, Epilegmenos Reserva 2016"
               },
               "price": 58.00,
               "cover": "",
@@ -2420,7 +2599,8 @@
                 "fr": "Vin rouge de Agiorgitiko de Nemea, mûr et complexe",
                 "de": "Rotwein aus Agiorgitiko aus Nemea, reif und komplex",
                 "th": "ไวน์แดงจาก Agiorgitiko ใน Nemea, สุกและซับซ้อน",
-                "ru": "Красное вино из Agiorgitiko в Немеа, зрелое и сложное"
+                "ru": "Красное вино из Agiorgitiko в Немеа, зрелое и сложное",
+                "pl": "Czerwone wino z Agiorgitiko w Nemea, dojrzałe i złożone"
               }
             },
             {
@@ -2433,7 +2613,8 @@
                 "fr": "Le Chiuse, Rosso 2019",
                 "de": "Le Chiuse, Rosso 2019",
                 "th": "Le Chiuse, Rosso 2019",
-                "ru": "Le Chiuse, Rosso 2019"
+                "ru": "Le Chiuse, Rosso 2019",
+                "pl": "Le Chiuse, Rosso 2019"
               },
               "price": 58.00,
               "cover": "",
@@ -2450,7 +2631,8 @@
                 "fr": "Vin rouge de Sangiovese de Rosso di Montalcino, élégant et structuré",
                 "de": "Rotwein aus Sangiovese aus Rosso di Montalcino, elegant und strukturiert",
                 "th": "ไวน์แดงจาก Sangiovese ใน Rosso di Montalcino, หรูหราและมีโครงสร้าง",
-                "ru": "Красное вино из Sangiovese в Rosso di Montalcino, элегантное и структурированное"
+                "ru": "Красное вино из Sangiovese в Rosso di Montalcino, элегантное и структурированное",
+                "pl": "Czerwone wino z Sangiovese w Rosso di Montalcino, eleganckie i zbudowane"
               }
             },
             {
@@ -2463,7 +2645,8 @@
                 "fr": "Jean Féry, Sous La Cabotte 2022",
                 "de": "Jean Féry, Sous La Cabotte 2022",
                 "th": "Jean Féry, Sous La Cabotte 2022",
-                "ru": "Jean Féry, Sous La Cabotte 2022"
+                "ru": "Jean Féry, Sous La Cabotte 2022",
+                "pl": "Jean Féry, Sous La Cabotte 2022"
               },
               "price": 77.00,
               "cover": "",
@@ -2480,7 +2663,8 @@
                 "fr": "Vin rouge de Pinot Noir de Savigny-les-Beaune, délicat et complexe",
                 "de": "Rotwein aus Pinot Noir aus Savigny-les-Beaune, zart und komplex",
                 "th": "ไวน์แดงจาก Pinot Noir ใน Savigny-les-Beaune, ละเอียดอ่อนและซับซ้อน",
-                "ru": "Красное вино из Pinot Noir в Савиньи-ле-Бอน, нежное и сложное"
+                "ru": "Красное вино из Pinot Noir в Савиньи-ле-Бอน, нежное и сложное",
+                "pl": "Czerwone wino z Pinot Noir w Savigny-les-Beaune, delikatne i złożone"
               }
             },
             {
@@ -2493,7 +2677,8 @@
                 "fr": "Château de Pibarnon, Rouge 2019",
                 "de": "Château de Pibarnon, Rouge 2019",
                 "th": "Château de Pibarnon, Rouge 2019",
-                "ru": "Château de Pibarnon, Rouge 2019"
+                "ru": "Château de Pibarnon, Rouge 2019",
+                "pl": "Château de Pibarnon, Rouge 2019"
               },
               "price": 89.00,
               "cover": "",
@@ -2510,7 +2695,8 @@
                 "fr": "Vin rouge de Mourvèdre et Grenache de Bandol, intense et épicé",
                 "de": "Rotwein aus Mourvèdre und Grenache aus Bandol, intensiv und gewürzt",
                 "th": "ไวน์แดงจาก Mourvèdre และ Grenache ใน Bandol, เข้มข้นและมีเครื่องเทศ",
-                "ru": "Красное вино из Mourvèdre и Grenache в Бандоле, интенсивное и пряное"
+                "ru": "Красное вино из Mourvèdre и Grenache в Бандоле, интенсивное и пряное",
+                "pl": "Czerwone wino z Mourvèdre i Grenache w Bandol, intensywne i przyprawione"
               }
             },
             {
@@ -2523,7 +2709,8 @@
                 "fr": "Château Musar, Rouge 2017",
                 "de": "Château Musar, Rouge 2017",
                 "th": "Château Musar, Rouge 2017",
-                "ru": "Château Musar, Rouge 2017"
+                "ru": "Château Musar, Rouge 2017",
+                "pl": "Château Musar, Rouge 2017"
               },
               "price": 91.00,
               "cover": "",
@@ -2540,7 +2727,8 @@
                 "fr": "Vin rouge de Ghazir avec Cabernet Sauvignon, Cinsault et Carignan, mûr et riche",
                 "de": "Rotwein aus Ghazir mit Cabernet Sauvignon, Cinsault und Carignan, reif und reich",
                 "th": "ไวน์แดงจาก Ghazir ที่มี Cabernet Sauvignon, Cinsault และ Carignan, สุกและอุดมสมบูรณ์",
-                "ru": "Красное вино из Ghazir с Cabernet Sauvignon, Cinsault и Carignan, зрелое и богатое"
+                "ru": "Красное вино из Ghazir с Cabernet Sauvignon, Cinsault и Carignan, зрелое и богатое",
+                "pl": "Czerwone wino z Ghazir z Cabernet Sauvignon, Cinsault i Carignan, dojrzałe i bogate"
               }
             },
             {
@@ -2553,7 +2741,8 @@
                 "fr": "Domaine Santa Duc, Le Pied de Baud 2020",
                 "de": "Domaine Santa Duc, Le Pied de Baud 2020",
                 "th": "Domaine Santa Duc, Le Pied de Baud 2020",
-                "ru": "Domaine Santa Duc, Le Pied de Baud 2020"
+                "ru": "Domaine Santa Duc, Le Pied de Baud 2020",
+                "pl": "Domaine Santa Duc, Le Pied de Baud 2020"
               },
               "price": 97.00,
               "cover": "",
@@ -2570,7 +2759,8 @@
                 "fr": "Vin rouge de Châteauneuf-du-Pape avec Grenache et Mourvèdre, puissant et élégant",
                 "de": "Rotwein aus Châteauneuf-du-Pape mit Grenache und Mourvèdre, kräftig und elegant",
                 "th": "ไวน์แดงจาก Châteauneuf-du-Pape ที่มี Grenache และ Mourvèdre, เข้มข้นและหรูหรา",
-                "ru": "Красное вино из Châteauneuf-du-Pape с Grenache и Mourvèdre, мощное и элегантное"
+                "ru": "Красное вино из Châteauneuf-du-Pape с Grenache и Mourvèdre, мощное и элегантное",
+                "pl": "Czerwone wino z Châteauneuf-du-Pape z Grenache i Mourvèdre, potężne i eleganckie"
               }
             },
             {
@@ -2583,7 +2773,8 @@
                 "fr": "Mastrobberardino, Radici Riserva 2018",
                 "de": "Mastrobberardino, Radici Riserva 2018",
                 "th": "Mastrobberardino, Radici Riserva 2018",
-                "ru": "Mastrobberardino, Radici Riserva 2018"
+                "ru": "Mastrobberardino, Radici Riserva 2018",
+                "pl": "Mastrobberardino, Radici Riserva 2018"
               },
               "price": 99.00,
               "cover": "",
@@ -2600,7 +2791,8 @@
                 "fr": "Vin rouge de Aglianico de Taurasi, profond et structuré",
                 "de": "Rotwein aus Aglianico aus Taurasi, tief und strukturiert",
                 "th": "ไวน์แดงจาก Aglianico ใน Taurasi, ลึกและมีโครงสร้าง",
-                "ru": "Красное вино из Aglianico в Taurasi, глубокое и структурированное"
+                "ru": "Красное вино из Aglianico в Taurasi, глубокое и структурированное",
+                "pl": "Czerwone wino z Aglianico w Taurasi, głębokie i zbudowane"
               }
             }
           ]
@@ -2614,7 +2806,8 @@
             "fr": "Spéciales",
             "de": "Spezialitäten",
             "th": "พิเศษ",
-            "ru": "Специальные"
+            "ru": "Специальные",
+            "pl": "Specjalne"
           },
           "items": [
             {
@@ -2627,7 +2820,8 @@
                 "fr": "Saint Martin, Icewine 2016",
                 "de": "Saint Martin, Icewine 2016",
                 "th": "Saint Martin, Icewine 2016",
-                "ru": "Saint Martin, Icewine 2016"
+                "ru": "Saint Martin, Icewine 2016",
+                "pl": "Saint Martin, Icewine 2016"
               },
               "price": 70.00,
               "cover": "",
@@ -2644,7 +2838,8 @@
                 "fr": "Vin de glace de Riesling de Okanagan Valley, intense et doux",
                 "de": "Eiswein aus Riesling aus Okanagan Valley, intensiv und süß",
                 "th": "ไวน์น้ำแข็งจาก Riesling ใน Okanagan Valley, เข้มข้นและหวาน",
-                "ru": "Ледяное вино из Riesling в Оканаган Валлей, интенсивное и сладкое"
+                "ru": "Ледяное вино из Riesling в Оканаган Валлей, интенсивное и сладкое",
+                "pl": "Lodowe wino z Riesling w Okanagan Valley, intensywne i słodkie"
               }
             },
             {
@@ -2657,7 +2852,8 @@
                 "fr": "Château d'Yquem, Sauternes 2014",
                 "de": "Château d'Yquem, Sauternes 2014",
                 "th": "Château d'Yquem, Sauternes 2014",
-                "ru": "Château d'Yquem, Sauternes 2014"
+                "ru": "Château d'Yquem, Sauternes 2014",
+                "pl": "Château d'Yquem, Sauternes 2014"
               },
               "price": 250.00,
               "cover": "",
@@ -2674,7 +2870,8 @@
                 "fr": "Vin doux de Sémillon et Sauvignon Blanc de Sauternes, complexe et luxueux",
                 "de": "Süßer Wein aus Sémillon und Sauvignon Blanc aus Sauternes, komplex und luxuriös",
                 "th": "ไวน์หวานจาก Sémillon และ Sauvignon Blanc ใน Sauternes, ซับซ้อนและหรูหรา",
-                "ru": "Сладкое вино из Sémillon и Sauvignon Blanc в Sauternes, сложное и роскошное"
+                "ru": "Сладкое вино из Sémillon и Sauvignon Blanc в Sauternes, сложное и роскошное",
+                "pl": "Słodkie wino z Sémillon i Sauvignon Blanc w Sauternes, złożone i luksusowe"
               }
             },
             {
@@ -2687,7 +2884,8 @@
                 "fr": "Krutzler, Ruster Ausbruch 2018",
                 "de": "Krutzler, Ruster Ausbruch 2018",
                 "th": "Krutzler, Ruster Ausbruch 2018",
-                "ru": "Krutzler, Ruster Ausbruch 2018"
+                "ru": "Krutzler, Ruster Ausbruch 2018",
+                "pl": "Krutzler, Ruster Ausbruch 2018"
               },
               "price": 95.00,
               "cover": "",
@@ -2704,7 +2902,8 @@
                 "fr": "Vin doux de Furmint et Welschriesling de Rust, riche et aromatique",
                 "de": "Süßer Wein aus Furmint und Welschriesling aus Rust, reich und aromatisch",
                 "th": "ไวน์หวานจาก Furmint และ Welschriesling ใน Rust, อุดมสมบูรณ์และหอม",
-                "ru": "Сладкое вино из Furmint и Welschriesling в Русте, богатое и ароматное"
+                "ru": "Сладкое вино из Furmint и Welschriesling в Русте, богатое и ароматное",
+                "pl": "Słodkie wino z Furmint i Welschriesling w Rust, bogate i aromatyczne"
               }
             }
           ]
