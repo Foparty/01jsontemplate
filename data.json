@@ -400,7 +400,7 @@
           "priceCents": 750,
           "cover": "https://raw.githubusercontent.com/Foparty/01jsontemplate/refs/heads/main/img/items/bravas.webp",
           "allergens": [
-            "egg"
+            "eggs"
           ],
           "description": {
             "es": "Patatas fritas con salsa brava, una mezcla de tomate, pimentón y ajo, muy populares en España.",
